@@ -1,0 +1,16 @@
+# segredos e página salva da API (contém token e link de perfil)
+.env
+documentos/*.html
+documentos/*_files/
+
+# ferramentas locais
+.serena/
+.venv/
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+*.tmp
+
+# protótipo de exploração (removido na Task 12)
+cosmos_bebidas.py

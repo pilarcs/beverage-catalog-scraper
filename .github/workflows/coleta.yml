@@ -20,9 +20,11 @@ jobs:
         with:
           python-version: "3.12"
 
+      # Sucessão: quem assumir a coleta cria o próprio secret <RÓTULO>_COSMOS_TOKEN
+      # e troca o nome nas duas linhas abaixo (aqui e no passo de varredura).
       - name: Coletar páginas do Cosmos
         env:
-          COSMOS_TOKEN: ${{ secrets.COSMOS_TOKEN }}
+          PILAR_COSMOS_TOKEN: ${{ secrets.PILAR_COSMOS_TOKEN }}
           PYTHONUNBUFFERED: "1"
         run: python -m coletor
 
@@ -30,7 +32,7 @@ jobs:
         if: always()
         id: varredura
         env:
-          COSMOS_TOKEN: ${{ secrets.COSMOS_TOKEN }}
+          COSMOS_TOKEN: ${{ secrets.PILAR_COSMOS_TOKEN }}
         run: |
           mkdir -p dados saida
           if [ -n "$COSMOS_TOKEN" ] && grep -R -F -q -- "$COSMOS_TOKEN" dados saida; then

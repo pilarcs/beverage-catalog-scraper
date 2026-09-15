@@ -42,7 +42,7 @@ A Fase 1 está **concluída** quando:
 |---|---|
 | Máximo de **24 consultas por janela móvel de 24 h** | Plano gratuito = 25/dia; 1 de folga (D9, D18, D20) |
 | Paginação fixa de 30 itens; NCM só com 8 dígitos | Fatos verificados (plano, seção 3) |
-| **Uma única conta e um único token** | Termos de Uso (D12) |
+| **Uma única conta e um único token** (nomeado `<RÓTULO>_COSMOS_TOKEN`, alterado em 15/09/2026, ver §13) | Termos de Uso (D12) |
 | Repositório **público** (código e dados); segredos nunca no repositório | D21 |
 | Nenhuma consulta à API fora do coletor | Prática 3 do plano |
 | Em produção só a biblioteca padrão do Python 3.12; testes com `pytest` e `pytest-cov` | Parte 4 do desenho |
@@ -95,7 +95,7 @@ daquele NCM. Se o total crescer durante a coleta, as páginas novas também são
 (a API devolve `total_pages: 1`) fica completo depois da página 1.
 
 ### 5.2 Cota (D18, D20)
-- Cada **requisição HTTP enviada** (inclusive novas tentativas e as que retornam erro) tem o horário registrado em `estado.consultas`.
+- Cada **requisição HTTP enviada** (inclusive novas tentativas e as que retornam erro) tem o horário registrado em `estado.consultas[<RÓTULO>]` (alterado em 15/09/2026, ver §13: janela por responsável).
   O histórico guarda as últimas 48 h.
 - Antes de cada requisição: se houve **≥ 24 requisições nas últimas 24 h**:
   - se a mais antiga da janela libera em **≤ 120 minutos** (`ESPERA_MAXIMA_MIN`), o coletor **espera** e continua;
@@ -107,8 +107,8 @@ daquele NCM. Se o total crescer durante a coleta, as páginas novas também são
 ### 5.3 Estado — `dados/estado.json`
 ```json
 {
-  "versao": 1,
-  "consultas": ["2026-09-16T06:00:03Z", "..."],
+  "versao": 2,
+  "consultas": {"PILAR": ["2026-09-16T06:00:03Z", "..."]},
   "ncms": {
     "22030000": {
       "ultima_pagina": 25,
@@ -132,7 +132,7 @@ Se houver queda entre as duas gravações, a página é baixada de novo na execu
   "coleta": {
     "fonte": "ncm:22030000", "ncm": "22030000", "pagina": 2,
     "url": "https://cosmos.bluesoft.com.br/api/ncms/22030000/products?page=2",
-    "coletado_em": "2026-09-16T06:00:41Z"
+    "coletado_em": "2026-09-16T06:00:41Z", "responsavel": "PILAR"
   },
   "resposta": { "...": "JSON da API, completo e sem alteração" }
 }
@@ -184,7 +184,7 @@ GTIN e NCM são gravados **exatamente como texto de dígitos**, sem conversão n
 > O arquivo em si nunca é alterado.
 
 ### 6.1 `produtos.csv` — 1 linha por produto por página baixada (sem deduplicação, D4)
-- Colunas de controle, primeiro: `registro_id`, `fonte`, `ncm_consultado`, `pagina`, `posicao`, `coletado_em`.
+- Colunas de controle, primeiro: `registro_id`, `fonte`, `ncm_consultado`, `pagina`, `posicao`, `coletado_em`, `responsavel`.
 - Depois, **todos os campos do produto** devolvidos pela API (D14):
   - objetos aninhados viram colunas com prefixo e `_` (ex.: `ncm_code`, `brand_name`, `cest_description`, `category_parent_id`);
   - `gtins` não vira coluna: vai para `gtins.csv`, e aqui fica só `gtins_qtd`;
@@ -194,7 +194,7 @@ GTIN e NCM são gravados **exatamente como texto de dígitos**, sem conversão n
 
 ### 6.2 `gtins.csv` — 1 linha por GTIN listado (D16, D22)
 `registro_id`, `produto_gtin`, `gtin`, `e_o_proprio` (`sim`/`não`), `type_packaging`, `quantity_packaging`,
-`ballast`, `layer`, `fonte`, `pagina`, `coletado_em`. Nunca há substituição: GTIN repetido gera linhas repetidas.
+`ballast`, `layer`, `fonte`, `pagina`, `coletado_em`, `responsavel`. Nunca há substituição: GTIN repetido gera linhas repetidas.
 
 ### 6.3 `conferencia_ncm.csv` — 1 linha por NCM-alvo
 `ncm`, `descricao`, `total_api`, `total_lido_em`, `paginas_coletadas`, `total_paginas`, `linhas_baixadas`,
@@ -209,7 +209,7 @@ Valores de `status`:
 Refazer um NCM é **decisão manual**.
 
 ### 6.4 `execucoes.csv` — 1 linha por execução
-`inicio`, `fim`, `consultas_feitas`, `paginas_concluidas`, `produtos_baixados`, `motivo_parada`,
+`inicio`, `fim`, `responsavel`, `consultas_feitas`, `paginas_concluidas`, `produtos_baixados`, `motivo_parada`,
 `alertas`, `paginas_restantes`, `dias_previstos`.
 
 ## 7. Execução diária — cron-job.org + GitHub Actions (D27)
@@ -223,9 +223,9 @@ Refazer um NCM é **decisão manual**.
 - Passos:
   1. checkout;
   2. Python 3.12;
-  3. `python -m coletor`, com `COSMOS_TOKEN` vindo de `secrets.COSMOS_TOKEN`;
+  3. `python -m coletor`, com `PILAR_COSMOS_TOKEN` vindo de `secrets.PILAR_COSMOS_TOKEN` (alterado em 15/09/2026, ver §13);
   4. **commit e push de `dados/` e `saida/` com `if: always()`**, somente se houver mudanças.
-- O token do Cosmos só existe como *secret* e nunca é impresso.
+- O token do Cosmos só existe como *secret* e nunca é impresso. Na sucessão, troca-se o nome do secret nas duas linhas que o citam (§13).
 
 ### 7.2 Job no cron-job.org (configurado pela Pilar)
 - Frequência: 1x a cada 24 h, horário fixo; sugestão fora da hora cheia, por exemplo 03:17 BRT.
@@ -286,3 +286,22 @@ Cobertura ≥ 80% com `pytest --cov=coletor`. Depois da implementação: revisã
 | Token GitHub guardado em terceiro (cron-job.org) | Token fino, restrito a este repositório, com permissão mínima |
 | Dados públicos versus Termos de Uso | Risco aceito e documentado (D21) |
 | Token vazar | *Secret*, `.gitignore`, teste automatizado e conferência antes do 1º commit |
+
+## 13. Alteração aprovada em 15/09/2026 — responsável pela coleta
+
+Aprovada pela Pilar depois das revisões finais, antes da primeira coleta real (nenhum dado migrado).
+
+- **Token nomeado por responsável:** o coletor aceita exatamente um `<RÓTULO>_COSMOS_TOKEN`
+  (rótulo com letras maiúsculas, números e `_`; ex.: `PILAR_COSMOS_TOKEN`). Zero ou mais de um → erro de
+  configuração, e a coleta não roda. `COSMOS_TOKEN` sem prefixo deixou de ser aceito.
+- **`Config.responsavel`:** o rótulo extraído do nome da variável.
+- **Estado versão 2:** `consultas` passou de lista para dicionário `{<RÓTULO>: [horários]}`. A janela de
+  24 consultas em 24 h é contada **por responsável**, então quem assume a coleta começa com a janela vazia.
+  Arquivo de estado na versão 1 é recusado (`EstadoInvalido`).
+- **Registro do responsável:** campo `responsavel` no bloco `coleta` de cada página bruta, coluna
+  `responsavel` em `produtos.csv`, `gtins.csv` e `execucoes.csv` (páginas antigas sem o campo viram `""`).
+- **Sucessão:** só uma pessoa coleta por vez, cada uma com a própria conta. Quem assume cria o secret dela,
+  troca o nome do secret nas duas linhas do `coleta.yml` (passo de coleta e passo de varredura) e commita —
+  o commit fica como registro datado da troca. Passo a passo no README.
+- **Motivo:** identificar nos dados quem coletou o quê (rastreabilidade para o artigo) sem que ninguém
+  compartilhe credenciais, e evitar que as consultas de uma pessoa bloqueiem a cota da outra.

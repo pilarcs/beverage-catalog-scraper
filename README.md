@@ -36,8 +36,12 @@ python -m venv .venv
 ```
 
 ## Rodar a coleta localmente (só para teste pontual)
-1. Crie um arquivo `.env` na raiz do projeto com uma única linha: `COSMOS_TOKEN=<seu token>`. Esse arquivo
-   nunca é commitado (está no `.gitignore`).
+1. Crie um arquivo `.env` na raiz do projeto com uma única linha: `PILAR_COSMOS_TOKEN=<seu token>`. Esse
+   arquivo nunca é commitado (está no `.gitignore`).
+   - O nome segue o padrão `<RÓTULO>_COSMOS_TOKEN`. O rótulo (aqui, `PILAR`) identifica **quem coletou**:
+     ele é gravado em cada página bruta, em `execucoes.csv`, `produtos.csv` e `gtins.csv`, e a cota de
+     24 consultas por 24 h é contada **por rótulo**.
+   - Definir **mais de um** `*_COSMOS_TOKEN` ao mesmo tempo é erro de configuração: o coletor não roda.
 2. Rode `.venv/Scripts/python -m coletor`.
 
 > **Atenção**: isso consome cota real da API (compartilhada com a coleta diária) e altera o `dados/estado.json`
@@ -46,7 +50,7 @@ python -m venv .venv
 
 ## Execução diária
 O workflow `.github/workflows/coleta.yml` só roda por `workflow_dispatch`. Ele é disparado 1x por dia pelo
-cron-job.org, e o token do Cosmos fica no *secret* `COSMOS_TOKEN`. Ao final, ele commita `dados/` e `saida/`,
+cron-job.org, e o token do Cosmos fica no *secret* `PILAR_COSMOS_TOKEN`. Ao final, ele commita `dados/` e `saida/`,
 mesmo se a coleta falhar.
 
 A configuração no cron-job.org faz um POST em horário fixo diário para
@@ -62,3 +66,15 @@ Disparar o workflow manualmente também consome cota real e desloca a janela de 
 seguinte pode então parar em `limite` sem consultar a API.
 
 Antes de mexer no repositório localmente, rode `git pull`: o workflow commita dados todos os dias.
+
+## Sucessão (quando outra pessoa assumir a coleta)
+Só uma pessoa coleta por vez, cada uma com a própria conta do Cosmos.
+1. Quem assume vira colaboradora do repositório e cria o *secret* `<RÓTULO>_COSMOS_TOKEN` dela
+   (ex.: `ORIENTADORA_COSMOS_TOKEN`), em *Settings → Secrets and variables → Actions*.
+2. No `.github/workflows/coleta.yml`, troca o nome do secret nas **duas** linhas que o citam: no passo
+   "Coletar páginas do Cosmos" (o nome da variável de ambiente também muda) e no passo de varredura do token.
+3. Commita a mudança. O commit fica no histórico, datado e no nome dela: é o registro de quando a coleta
+   mudou de mãos.
+4. A partir da execução seguinte, os registros saem com o rótulo dela e a janela de 24 h dela começa vazia.
+5. Se ela usar o próprio job no cron-job.org, o job anterior deve ser desativado, para não haver dois
+   disparos no mesmo dia.

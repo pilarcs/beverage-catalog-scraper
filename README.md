@@ -54,7 +54,7 @@ cron-job.org, e o token do Cosmos fica no *secret* `PILAR_COSMOS_TOKEN`. Ao fina
 mesmo se a coleta falhar.
 
 A configuração no cron-job.org faz um POST em horário fixo diário para
-`https://api.github.com/repos/<usuario>/<repositorio>/actions/workflows/coleta.yml/dispatches`, com os
+`https://api.github.com/repos/pilarcs/webscrapping-bev/actions/workflows/coleta.yml/dispatches`, com os
 cabeçalhos:
 - `Authorization: Bearer <token do GitHub, fine-grained, restrito a este repositório, permissão Actions: Read and write>`
 - `Accept: application/vnd.github+json`

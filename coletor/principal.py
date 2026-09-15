@@ -132,24 +132,34 @@ def _inteiro_valido(valor: object, *, minimo: int) -> bool:
 def _coletar(config, fabrica_cliente, estado, execucao, caminhos, agora, dormir, saida) -> None:
     def antes_de_enviar() -> None:
         momento = agora()
-        espera = segundos_para_liberar(estado_mod.consultas(estado), momento, config.limite_consultas)
+        espera = segundos_para_liberar(
+            estado_mod.consultas(estado, config.responsavel), momento, config.limite_consultas
+        )
         if espera > 0:
             if espera > config.espera_maxima_min * 60:
                 raise LimiteAtingido(f"janela de cota libera em {math.ceil(espera / 60)} min")
             saida(f"Aguardando {math.ceil(espera / 60)} min pela janela de cota...")
             dormir(espera)
             momento = agora()
-        estado_mod.registrar_consulta(estado, momento)
+        estado_mod.registrar_consulta(estado, config.responsavel, momento)
         execucao.consultas_feitas += 1
 
     cliente = fabrica_cliente(antes_de_enviar)
-    usadas = consultas_na_janela(estado_mod.consultas(estado), execucao.inicio)
+    usadas = consultas_na_janela(estado_mod.consultas(estado, config.responsavel), execucao.inicio)
     saida(f"[{para_iso(execucao.inicio)}] Início. Consultas nas últimas 24 h: {usadas}/{config.limite_consultas}")
     while (proxima := proxima_pagina(config.ncms, estado)) is not None:
         ncm, pagina = proxima
         resposta = cliente.buscar_pagina(ncm, pagina)
         coletado_em = agora()
-        bruto.gravar_pagina(caminhos.bruto, ncm, pagina, cliente.url_pagina(ncm, pagina), coletado_em, resposta)
+        bruto.gravar_pagina(
+            caminhos.bruto,
+            ncm,
+            pagina,
+            cliente.url_pagina(ncm, pagina),
+            coletado_em,
+            resposta,
+            config.responsavel,
+        )
         total_paginas = resposta.get("total_pages")
         total_produtos = resposta.get("total_count")
         if not _inteiro_valido(total_paginas, minimo=1) or not _inteiro_valido(total_produtos, minimo=0):
@@ -188,6 +198,7 @@ def _finalizar(config, estado, execucao, motivo, codigo, caminhos, agora, saida)
         exportar.registrar_execucao(caminhos.saida / "execucoes.csv", {
             "inicio": para_iso(execucao.inicio),
             "fim": para_iso(fim),
+            "responsavel": config.responsavel,
             "consultas_feitas": execucao.consultas_feitas,
             "paginas_concluidas": execucao.paginas_concluidas,
             "produtos_baixados": execucao.produtos_baixados,

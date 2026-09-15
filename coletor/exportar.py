@@ -13,10 +13,10 @@ from coletor.arquivos import gravar_texto_atomico
 from coletor.config import NcmAlvo
 from coletor.estado import info_ncm
 
-COLUNAS_CONTROLE = ["registro_id", "fonte", "ncm_consultado", "pagina", "posicao", "coletado_em"]
+COLUNAS_CONTROLE = ["registro_id", "fonte", "ncm_consultado", "pagina", "posicao", "coletado_em", "responsavel"]
 COLUNAS_GTINS = [
     "registro_id", "produto_gtin", "gtin", "e_o_proprio", "type_packaging", "quantity_packaging",
-    "ballast", "layer", "fonte", "pagina", "coletado_em",
+    "ballast", "layer", "fonte", "pagina", "coletado_em", "responsavel",
 ]
 
 
@@ -69,6 +69,7 @@ def linhas_produtos(paginas: Sequence[dict]) -> tuple[list[str], list[dict[str, 
             "pagina": str(coleta["pagina"]),
             "posicao": str(posicao),
             "coletado_em": coleta["coletado_em"],
+            "responsavel": coleta.get("responsavel", ""),
         }
         for nome, valor in achatar_produto(produto).items():
             linha[nome] = valor
@@ -105,6 +106,7 @@ def linhas_gtins(paginas: Sequence[dict]) -> list[dict[str, str]]:
                 "fonte": coleta["fonte"],
                 "pagina": str(coleta["pagina"]),
                 "coletado_em": coleta["coletado_em"],
+                "responsavel": coleta.get("responsavel", ""),
             })
     return linhas
 
@@ -133,7 +135,7 @@ COLUNAS_CONFERENCIA = [
     "linhas_baixadas", "gtins_distintos", "diferenca", "status",
 ]
 COLUNAS_EXECUCOES = [
-    "inicio", "fim", "consultas_feitas", "paginas_concluidas", "produtos_baixados",
+    "inicio", "fim", "responsavel", "consultas_feitas", "paginas_concluidas", "produtos_baixados",
     "motivo_parada", "alertas", "paginas_restantes", "dias_previstos",
 ]
 

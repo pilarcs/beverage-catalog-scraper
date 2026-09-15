@@ -43,7 +43,7 @@ def test_toda_parada_salva_estado_csvs_e_execucao(config, relogio, erro, motivo,
     assert codigo == codigo_esperado
     estado = est.carregar(config.raiz / "dados" / "estado.json")
     assert est.info_ncm(estado, "22030000")["ultima_pagina"] == 1
-    assert len(estado["consultas"]) == 2
+    assert len(est.consultas(estado, "PILAR")) == 2
     assert len(exportar.ler_csv(config.raiz / "saida" / "produtos.csv")) == 2
     assert len(exportar.ler_csv(config.raiz / "saida" / "conferencia_ncm.csv")) == 2
     assert exportar.ler_csv(config.raiz / "saida" / "execucoes.csv")[-1]["motivo_parada"] == motivo

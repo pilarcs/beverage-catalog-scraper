@@ -28,7 +28,8 @@ def test_linhas_produtos_controle_primeiro_e_campo_novo_no_final():
         documento("22030000", 2, [produto(3, campo_novo="x")], coletado_em="2026-09-17T06:17:05Z"),
     ]
     colunas, linhas = exportar.linhas_produtos(paginas)
-    assert colunas[:6] == exportar.COLUNAS_CONTROLE
+    assert colunas[: len(exportar.COLUNAS_CONTROLE)] == exportar.COLUNAS_CONTROLE
+    assert [linha["responsavel"] for linha in linhas] == ["PILAR", "PILAR", "PILAR"]
     assert colunas[-1] == "campo_novo"
     assert [l["posicao"] for l in linhas] == ["1", "2", "1"]
     assert linhas[2]["registro_id"] == "ncm:22030000|p0002|2026-09-17T06:17:05Z|01"

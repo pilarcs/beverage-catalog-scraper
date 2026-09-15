@@ -49,7 +49,7 @@ def test_para_no_limite_sem_chamar_a_api(config, relogio):
     assert (codigo, len(api.chamadas)) == (0, 3)
     registro = _execucoes(config)[-1]
     assert (registro["motivo_parada"], registro["consultas_feitas"]) == ("limite", "3")
-    assert len(est.carregar(config.raiz / "dados" / "estado.json")["consultas"]) == 3
+    assert len(est.consultas(est.carregar(config.raiz / "dados" / "estado.json"), config.responsavel)) == 3
 
 
 def test_retoma_da_pagina_seguinte_no_dia_seguinte(config):
@@ -64,7 +64,7 @@ def test_retoma_da_pagina_seguinte_no_dia_seguinte(config):
 def _preparar_consultas(config, momentos):
     estado = est.estado_vazio()
     for momento in momentos:
-        est.registrar_consulta(estado, momento)
+        est.registrar_consulta(estado, config.responsavel, momento)
     est.salvar(config.raiz / "dados" / "estado.json", estado)
 
 
@@ -82,6 +82,22 @@ def test_nao_espera_quando_a_janela_demora(config, relogio):
     codigo, api, _ = _rodar(config, roteiro_paginas({"22030000": 10, "22085000": 10}), relogio)
     assert (codigo, api.chamadas, relogio.dormidas) == (0, [], [])
     assert _execucoes(config)[-1]["alertas"] == "nenhuma consulta feita: janela de cota ainda cheia"
+
+
+def test_responsaveis_diferentes_nao_compartilham_a_janela(config, relogio):
+    estado = est.estado_vazio()
+    momento = INICIO - timedelta(hours=1)
+    for _ in range(24):
+        est.registrar_consulta(estado, "ORIENTADORA", momento)
+    est.salvar(config.raiz / "dados" / "estado.json", estado)
+
+    config_pilar = replace(config, responsavel="PILAR", limite_consultas=1)
+    codigo, api, _ = _rodar(config_pilar, roteiro_paginas({"22030000": 10, "22085000": 10}), relogio)
+
+    assert codigo == 0
+    assert api.chamadas == [("22030000", 1)]
+    assert relogio.dormidas == []
+    assert _execucoes(config_pilar)[-1]["motivo_parada"] == "limite"
 
 
 def test_calcular_progresso():

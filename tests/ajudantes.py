@@ -38,12 +38,20 @@ def resposta(ncm: str, pagina: int, total_paginas: int, produtos: list[dict], to
     }
 
 
-def documento(ncm: str, pagina: int, produtos: list[dict], coletado_em: str = "2026-09-16T06:17:05Z", total_paginas: int = 1) -> dict:
+def documento(
+    ncm: str,
+    pagina: int,
+    produtos: list[dict],
+    coletado_em: str = "2026-09-16T06:17:05Z",
+    total_paginas: int = 1,
+    responsavel: str = "PILAR",
+) -> dict:
     return {
         "coleta": {
             "fonte": f"ncm:{ncm}", "ncm": ncm, "pagina": pagina,
             "url": f"https://cosmos.bluesoft.com.br/api/ncms/{ncm}/products?page={pagina}",
             "coletado_em": coletado_em,
+            "responsavel": responsavel,
         },
         "resposta": resposta(ncm, pagina, total_paginas, produtos),
     }

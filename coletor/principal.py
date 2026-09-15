@@ -182,6 +182,8 @@ def _finalizar(config, estado, execucao, motivo, codigo, caminhos, agora, saida)
             execucao.alertas.append(f"falha ao gerar CSVs: {type(falha).__name__}")
             codigo = 1
     progresso = calcular_progresso(config.ncms, estado or estado_mod.estado_vazio(), config.limite_consultas)
+    if motivo == "limite" and execucao.consultas_feitas == 0:
+        execucao.alertas.append("nenhuma consulta feita: janela de cota ainda cheia")
     try:
         exportar.registrar_execucao(caminhos.saida / "execucoes.csv", {
             "inicio": para_iso(execucao.inicio),

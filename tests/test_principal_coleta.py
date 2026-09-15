@@ -81,6 +81,7 @@ def test_nao_espera_quando_a_janela_demora(config, relogio):
     _preparar_consultas(config, [INICIO - timedelta(hours=1)] * 24)
     codigo, api, _ = _rodar(config, roteiro_paginas({"22030000": 10, "22085000": 10}), relogio)
     assert (codigo, api.chamadas, relogio.dormidas) == (0, [], [])
+    assert _execucoes(config)[-1]["alertas"] == "nenhuma consulta feita: janela de cota ainda cheia"
 
 
 def test_calcular_progresso():

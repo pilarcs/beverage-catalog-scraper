@@ -31,6 +31,8 @@ bibliográficas e para a reprodutibilidade.
 | 17 | 2026-09-15 | Claude | WebFetch | https://docs.github.com/en/rest/actions/workflows#create-a-workflow-dispatch-event | Endpoint para disparar workflow: `POST /repos/{owner}/{repo}/actions/workflows/{workflow_id}/dispatches`, corpo `ref`, cabeçalhos, sucesso 200; permissão de token fino não detalhada na página |
 | 18 | 2026-09-15 | Claude | WebFetch | https://github.com/actions/checkout/releases/latest | Versão mais recente de actions/checkout: v7.0.1 (usada no workflow como @v7) |
 | 19 | 2026-09-15 | Claude | WebFetch | https://github.com/actions/setup-python/releases/latest | Versão mais recente de actions/setup-python: v7.0.0 (usada no workflow como @v7) |
+| 20 | 2026-09-15 | Claude | WebFetch | https://docs.github.com/en/account-and-profile/reference/permission-levels-for-a-personal-account-repository | Níveis de permissão em repositório de conta pessoal (a página não trata de secrets/variáveis do Actions) |
+| 21 | 2026-09-15 | Claude | WebFetch | https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/use-secrets | Secrets: em repositório de conta pessoal, colaboradores podem criar/atualizar; o workflow lê o valor atual via contexto `secrets`; secret não definido vira texto vazio |
 
 As datas dos acessos 1 e 3 foram confirmadas pela Pilar em 2026-09-15.
 

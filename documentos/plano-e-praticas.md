@@ -147,6 +147,9 @@ custaria 1 consulta por produto (~37 mil consultas), o que é inviável no plano
 | D26 | 2026-09-15 | Os dados piloto e o histórico de consultas de 15/09 foram **só teste**. Depois de obter a contagem dos NCMs que faltam, a coleta é **zerada e começa do zero** (página 1 de todos os NCMs) | Decisão da Pilar: fidelidade (todos os registros coletados pelo mesmo programa, com data/hora exata) | vigente |
 | D27 | 2026-09-15 | Disparo diário pelo **cron-job.org** (POST no endpoint `workflow_dispatch` do GitHub), sem `schedule` no workflow. Token GitHub fino, só deste repositório, permissão mínima, validade ≥ 120 dias | Decisão da Pilar: horário pontual. O `schedule` do GitHub pode atrasar ou ser descartado, e em repositório público é desativado após 60 dias sem atividade (referência 14) | vigente |
 | D28 | 2026-09-15 | Sem etapa separada de contagem: a **1ª execução da coleta do zero** pega a página 1 dos 21 NCMs (contagens + dados reais). Dados de teste de 15/09 vão para `documentos/exploracao/2026-09-15/` (não usados pelo coletor) | Decisão da Pilar: nenhuma consulta descartável | vigente |
+| D29 | 2026-09-15 | Protótipo `cosmos_bebidas.py` **mantido localmente**, sem commit (continua no `.gitignore`) | Decisão da Pilar | vigente |
+| D30 | 2026-09-15 | **Não** configurar vários secrets/tokens do Cosmos no workflow para ampliar a cota; o coletor usa uma única janela de 24 consultas | Reforça a D12: vários tokens = várias contas, vedado pelos Termos de Uso; em repositório público, a prática ficaria exposta | vigente |
+| D31 | 2026-09-15 | A CSV **não** é escapada contra fórmulas; o README orienta abrir os CSVs só via *Dados → De Texto/CSV* | Revisão de segurança sugeriu escapar; mantida a fidelidade dos valores (D4/D14). Risco residual documentado | vigente |
 
 ## 6. Práticas de trabalho
 
@@ -214,7 +217,11 @@ Candidatas, a comparar no brainstorming:
 
 ## 8. Estado atual dos artefatos
 
-- `cosmos_bebidas.py`: **protótipo da exploração de 15/09/2026, anterior a este plano.**
-  Não tem 2202.91.00, não guarda data/hora da coleta e não tem testes. Será revisto
-  depois que o plano for aprovado.
-- `saida/`: coleta piloto (433 produtos) de 15/09/2026.
+- `coletor/`: coletor da Fase 1 implementado conforme `documentos/specs/2026-09-15-fase1-coleta-design.md`
+  e `documentos/planos/2026-09-15-fase1-coleta.md`, com testes (114 passando, cobertura 98,9%) e
+  revisões finais de código e de segurança concluídas (correções aplicadas em 15/09/2026).
+- `documentos/exploracao/2026-09-15/`: dados de teste de 15/09/2026 (exploratórios, não usados pelo coletor).
+- Protótipo `cosmos_bebidas.py`: mantido só localmente, ignorado pelo git (D29).
+- Prática: **não rodar `python -m coletor` localmente** enquanto a coleta diária estiver ativa (cota e estado compartilhados).
+- Primeira execução real: recomendada no horário fixo agendado pelo cron-job.org, não por disparo manual à tarde
+  (um disparo manual ocupa a janela de 24 h e pode fazer a execução agendada seguinte parar sem consultar).

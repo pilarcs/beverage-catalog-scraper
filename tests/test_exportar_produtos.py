@@ -72,3 +72,14 @@ def test_gravar_e_ler_csv_utf8_bom_ponto_e_virgula(tmp_path):
     assert caminho.read_bytes().startswith(b"\xef\xbb\xbfgtin;descricao\r\n")
     assert exportar.ler_csv(caminho) == [{"gtin": "7896657720018", "descricao": "AÇÚCAR; UNIÃO"}]
     assert exportar.ler_csv(tmp_path / "nao_existe.csv") == []
+
+
+def test_pagina_sem_responsavel_vira_vazio():
+    pagina = documento("22030000", 1, [produto(1, gtins_extra=(9,))])
+    del pagina["coleta"]["responsavel"]
+
+    _, linhas = exportar.linhas_produtos([pagina])
+    gtins = exportar.linhas_gtins([pagina])
+
+    assert [linha["responsavel"] for linha in linhas] == [""]
+    assert [g["responsavel"] for g in gtins] == ["", ""]

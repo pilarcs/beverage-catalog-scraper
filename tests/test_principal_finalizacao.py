@@ -1,3 +1,5 @@
+from dataclasses import replace
+
 import pytest
 
 from coletor import estado as est
@@ -106,3 +108,38 @@ def test_falha_ao_registrar_execucao_vira_codigo_1(config, relogio, monkeypatch)
 
     assert codigo == 1
     assert any("Falha ao registrar a execução" in linha for linha in saida)
+
+
+def test_parada_por_limite_salva_estado_csvs_e_execucao(config, relogio):
+    config_limite = replace(config, limite_consultas=1)
+
+    def roteiro(ncm, pagina):
+        return resposta(ncm, pagina, 5, [produto(111), produto(222)])
+
+    codigo, saida = _rodar(config_limite, roteiro, relogio)
+
+    assert codigo == 0
+    estado = est.carregar(config.raiz / "dados" / "estado.json")
+    assert est.info_ncm(estado, "22030000")["ultima_pagina"] == 1
+    assert len(estado["consultas"]) == 1
+    assert len(exportar.ler_csv(config.raiz / "saida" / "produtos.csv")) == 2
+    assert len(exportar.ler_csv(config.raiz / "saida" / "conferencia_ncm.csv")) == 2
+    assert exportar.ler_csv(config.raiz / "saida" / "execucoes.csv")[-1]["motivo_parada"] == "limite"
+    assert any(linha.startswith("Parada: limite") for linha in saida)
+
+
+def test_parada_por_conclusao_salva_estado_csvs_e_execucao(config, relogio):
+    def roteiro(ncm, pagina):
+        return resposta(ncm, pagina, 1, [produto(111), produto(222)])
+
+    codigo, saida = _rodar(config, roteiro, relogio)
+
+    assert codigo == 0
+    estado = est.carregar(config.raiz / "dados" / "estado.json")
+    assert est.info_ncm(estado, "22030000")["concluido_em"] is not None
+    assert est.info_ncm(estado, "22085000")["concluido_em"] is not None
+    assert len(exportar.ler_csv(config.raiz / "saida" / "produtos.csv")) == 4
+    conferencia = exportar.ler_csv(config.raiz / "saida" / "conferencia_ncm.csv")
+    assert all(linha["status"] == "concluído" for linha in conferencia)
+    assert exportar.ler_csv(config.raiz / "saida" / "execucoes.csv")[-1]["motivo_parada"] == "concluido"
+    assert any(linha.startswith("Parada: concluido") for linha in saida)

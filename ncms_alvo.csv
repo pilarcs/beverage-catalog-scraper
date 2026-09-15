@@ -1,0 +1,30 @@
+ncm;descricao;status
+22029100;Cerveja sem álcool;alvo
+22030000;Cervejas de malte;alvo
+22041010;Vinhos espumantes - tipo champanha;alvo
+22041090;Vinhos espumantes - outros;alvo
+22042100;Outros vinhos, recipientes <= 2 l;alvo
+22042211;Vinhos, recipientes > 2 l e <= 10 l, <= 5 l;alvo
+22042219;Vinhos, recipientes > 2 l e <= 10 l, outros;alvo
+22042220;Mostos, recipientes > 2 l e <= 10 l;fora
+22042910;Vinhos, recipientes > 10 l;alvo
+22042920;Mostos, outros recipientes;fora
+22043000;Outros mostos de uvas;fora
+22051000;Vermutes e vinhos aromatizados, <= 2 l;alvo
+22059000;Vermutes e vinhos aromatizados, outros;alvo
+22060010;Sidra;alvo
+22060090;Outras bebidas fermentadas;alvo
+22071010;Álcool etílico não desnaturado >= 80% vol, água <= 1%;fora
+22071090;Álcool etílico não desnaturado >= 80% vol, outros;fora
+22072011;Álcool etílico desnaturado, água <= 1%;fora
+22072019;Álcool etílico desnaturado, outros;fora
+22072020;Aguardente desnaturada;fora
+22082000;Aguardentes de vinho ou de bagaço de uvas;alvo
+22083010;Uísques > 50% vol, recipientes >= 50 l;alvo
+22083020;Uísques, embalagens <= 2 l;alvo
+22083090;Uísques, outros;alvo
+22084000;Rum e aguardentes de cana;alvo
+22085000;Gim e genebra;alvo
+22086000;Vodca;alvo
+22087000;Licores;alvo
+22089000;Outras bebidas espirituosas;alvo

@@ -34,9 +34,17 @@ class RespostaInvalida(ErroApi):
     """Status inesperado ou corpo que não é a página esperada."""
 
 
+class _SemRedirecionamento(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        return None
+
+
+_OPENER = urllib.request.build_opener(_SemRedirecionamento)
+
+
 def transporte_urllib(pedido: urllib.request.Request, timeout: float) -> tuple[int, bytes]:
     try:
-        with urllib.request.urlopen(pedido, timeout=timeout) as resposta:
+        with _OPENER.open(pedido, timeout=timeout) as resposta:
             return resposta.status, resposta.read()
     except urllib.error.HTTPError as erro:
         return erro.code, erro.read()

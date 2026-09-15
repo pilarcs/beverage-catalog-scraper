@@ -139,13 +139,23 @@ class _RespostaHttp:
 
 
 def test_transporte_urllib_devolve_status_e_corpo(monkeypatch):
-    monkeypatch.setattr(api.urllib.request, "urlopen", lambda pedido, timeout: _RespostaHttp(b"{}"))
+    monkeypatch.setattr(api._OPENER, "open", lambda pedido, timeout: _RespostaHttp(b"{}"))
     assert api.transporte_urllib(urllib.request.Request("https://exemplo.test"), 1) == (200, b"{}")
 
 
 def test_transporte_urllib_converte_http_error(monkeypatch):
-    def urlopen(pedido, timeout):
+    def open_(pedido, timeout):
         raise urllib.error.HTTPError(pedido.full_url, 429, "Too Many Requests", {}, io.BytesIO(b"limite"))
 
-    monkeypatch.setattr(api.urllib.request, "urlopen", urlopen)
+    monkeypatch.setattr(api._OPENER, "open", open_)
     assert api.transporte_urllib(urllib.request.Request("https://exemplo.test"), 1) == (429, b"limite")
+
+
+def test_sem_redirecionamento_nao_segue_redirect():
+    assert api._SemRedirecionamento().redirect_request(None, None, 302, "Found", {}, "https://outro.host") is None
+
+
+def test_302_vira_resposta_invalida():
+    cliente, _, _, _ = _cliente([(302, b"")])
+    with pytest.raises(api.RespostaInvalida):
+        cliente.buscar_pagina("22030000", 1)

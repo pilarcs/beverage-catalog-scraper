@@ -10,7 +10,9 @@ from coletor.arquivos import gravar_json_atomico
 from coletor.tempo import para_iso, para_nome_arquivo
 
 
-def gravar_pagina(raiz_bruto: Path, ncm: str, pagina: int, url: str, coletado_em: datetime, resposta: dict) -> Path:
+def gravar_pagina(
+    raiz_bruto: Path, ncm: str, pagina: int, url: str, coletado_em: datetime, resposta: dict, responsavel: str
+) -> Path:
     pasta = raiz_bruto / f"ncm_{ncm}"
     base = f"p{pagina:04d}_{para_nome_arquivo(coletado_em)}"
     caminho = pasta / f"{base}.json"
@@ -19,7 +21,10 @@ def gravar_pagina(raiz_bruto: Path, ncm: str, pagina: int, url: str, coletado_em
         caminho = pasta / f"{base}_{sufixo}.json"
         sufixo += 1
     documento = {
-        "coleta": {"fonte": f"ncm:{ncm}", "ncm": ncm, "pagina": pagina, "url": url, "coletado_em": para_iso(coletado_em)},
+        "coleta": {
+            "fonte": f"ncm:{ncm}", "ncm": ncm, "pagina": pagina, "url": url,
+            "coletado_em": para_iso(coletado_em), "responsavel": responsavel,
+        },
         "resposta": resposta,
     }
     gravar_json_atomico(caminho, documento)

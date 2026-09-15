@@ -54,7 +54,9 @@ def test_registrar_execucao_acrescenta_linhas(tmp_path):
 
 def test_gerar_csvs_escreve_os_tres_arquivos(tmp_path):
     raiz_bruto = tmp_path / "dados" / "bruto"
-    bruto.gravar_pagina(raiz_bruto, "22030000", 1, "url", AGORA, resposta("22030000", 1, 1, [produto(1, gtins_extra=(9,))]))
+    bruto.gravar_pagina(
+        raiz_bruto, "22030000", 1, "url", AGORA, resposta("22030000", 1, 1, [produto(1, gtins_extra=(9,))]), "PILAR"
+    )
     estado = est.estado_vazio()
     est.atualizar_ncm(estado, "22030000", 1, 1, 1, AGORA)
     contagens = exportar.gerar_csvs(raiz_bruto, tmp_path / "saida", [CERVEJA], estado)

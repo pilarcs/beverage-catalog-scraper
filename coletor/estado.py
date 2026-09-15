@@ -10,7 +10,7 @@ from coletor.arquivos import gravar_json_atomico
 from coletor.cota import podar
 from coletor.tempo import de_iso, para_iso
 
-VERSAO = 1
+VERSAO = 2
 
 
 class EstadoInvalido(Exception):
@@ -18,7 +18,7 @@ class EstadoInvalido(Exception):
 
 
 def estado_vazio() -> dict:
-    return {"versao": VERSAO, "consultas": [], "ncms": {}}
+    return {"versao": VERSAO, "consultas": {}, "ncms": {}}
 
 
 def carregar(caminho: Path) -> dict:
@@ -37,16 +37,20 @@ def salvar(caminho: Path, estado: dict) -> None:
     gravar_json_atomico(caminho, estado)
 
 
-def consultas(estado: dict) -> list[datetime]:
-    return [de_iso(texto) for texto in estado["consultas"]]
+def consultas(estado: dict, responsavel: str) -> list[datetime]:
+    return [de_iso(texto) for texto in estado["consultas"].get(responsavel, [])]
 
 
-def registrar_consulta(estado: dict, momento: datetime) -> None:
-    estado["consultas"].append(para_iso(momento))
+def registrar_consulta(estado: dict, responsavel: str, momento: datetime) -> None:
+    estado["consultas"].setdefault(responsavel, []).append(para_iso(momento))
 
 
 def podar_consultas(estado: dict, agora: datetime) -> None:
-    estado["consultas"] = [para_iso(momento) for momento in podar(consultas(estado), agora)]
+    podadas = {
+        responsavel: [para_iso(momento) for momento in podar(consultas(estado, responsavel), agora)]
+        for responsavel in estado["consultas"]
+    }
+    estado["consultas"] = {responsavel: lista for responsavel, lista in podadas.items() if lista}
 
 
 def info_ncm(estado: dict, ncm: str) -> dict | None:

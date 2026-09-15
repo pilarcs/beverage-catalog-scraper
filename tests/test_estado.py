@@ -8,19 +8,22 @@ AGORA = datetime(2026, 9, 16, 6, 17, 0, tzinfo=timezone.utc)
 
 
 def test_estado_inexistente_devolve_vazio(tmp_path):
-    assert est.carregar(tmp_path / "estado.json") == {"versao": 1, "consultas": [], "ncms": {}}
+    assert est.carregar(tmp_path / "estado.json") == {"versao": 2, "consultas": {}, "ncms": {}}
 
 
 def test_salvar_e_carregar_ida_e_volta(tmp_path):
     caminho = tmp_path / "dados" / "estado.json"
     estado = est.estado_vazio()
-    est.registrar_consulta(estado, AGORA)
+    est.registrar_consulta(estado, "PILAR", AGORA)
     est.atualizar_ncm(estado, "22030000", 1, 200, 5981, AGORA)
     est.salvar(caminho, estado)
     assert est.carregar(caminho) == estado
 
 
-@pytest.mark.parametrize("conteudo", ["{", '{"versao": 99, "consultas": [], "ncms": {}}', "[]"])
+@pytest.mark.parametrize(
+    "conteudo",
+    ["{", '{"versao": 99, "consultas": {}, "ncms": {}}', "[]", '{"versao": 1, "consultas": [], "ncms": {}}'],
+)
 def test_estado_corrompido_ou_versao_desconhecida(tmp_path, conteudo):
     caminho = tmp_path / "estado.json"
     caminho.write_text(conteudo, encoding="utf-8")
@@ -53,7 +56,33 @@ def test_info_ncm_ausente():
 
 def test_consultas_registradas_e_podadas():
     estado = est.estado_vazio()
-    est.registrar_consulta(estado, AGORA - timedelta(hours=49))
-    est.registrar_consulta(estado, AGORA - timedelta(hours=1))
+    est.registrar_consulta(estado, "PILAR", AGORA - timedelta(hours=49))
+    est.registrar_consulta(estado, "PILAR", AGORA - timedelta(hours=1))
     est.podar_consultas(estado, AGORA)
-    assert est.consultas(estado) == [AGORA - timedelta(hours=1)]
+    assert est.consultas(estado, "PILAR") == [AGORA - timedelta(hours=1)]
+
+
+def test_consultas_de_responsavel_inexistente_devolve_lista_vazia():
+    assert est.consultas(est.estado_vazio(), "PILAR") == []
+
+
+def test_ida_e_volta_com_dois_responsaveis(tmp_path):
+    caminho = tmp_path / "estado.json"
+    estado = est.estado_vazio()
+    est.registrar_consulta(estado, "PILAR", AGORA)
+    est.registrar_consulta(estado, "ORIENTADORA", AGORA - timedelta(hours=1))
+    est.registrar_consulta(estado, "ORIENTADORA", AGORA)
+    est.salvar(caminho, estado)
+    recarregado = est.carregar(caminho)
+    assert est.consultas(recarregado, "PILAR") == [AGORA]
+    assert est.consultas(recarregado, "ORIENTADORA") == [AGORA - timedelta(hours=1), AGORA]
+
+
+def test_podar_consultas_e_independente_por_responsavel_e_remove_rotulo_vazio():
+    estado = est.estado_vazio()
+    est.registrar_consulta(estado, "PILAR", AGORA - timedelta(hours=49))
+    est.registrar_consulta(estado, "ORIENTADORA", AGORA - timedelta(hours=1))
+    est.podar_consultas(estado, AGORA)
+    assert est.consultas(estado, "PILAR") == []
+    assert est.consultas(estado, "ORIENTADORA") == [AGORA - timedelta(hours=1)]
+    assert "PILAR" not in estado["consultas"]

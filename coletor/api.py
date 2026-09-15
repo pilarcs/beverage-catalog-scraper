@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import http.client
 import json
 import time
 import urllib.error
@@ -72,7 +73,7 @@ class ClienteCosmos:
             )
             try:
                 status, corpo = self._transporte(pedido, self._timeout)
-            except OSError as erro:
+            except (OSError, http.client.HTTPException) as erro:
                 ultimo_problema = f"rede ({type(erro).__name__})"
                 continue
             if status == 200:

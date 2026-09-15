@@ -1,3 +1,4 @@
+import http.client
 import io
 import json
 import urllib.error
@@ -64,6 +65,19 @@ def test_erro_de_rede_persistente_vira_falha_temporaria():
     cliente, _, _, _ = _cliente([urllib.error.URLError("sem rede")] * 3 + [TimeoutError()])
     with pytest.raises(api.FalhaTemporaria):
         cliente.buscar_pagina("22030000", 1)
+
+
+def test_incompleteread_tenta_de_novo_e_depois_funciona():
+    cliente, _, ganchos, dormidas = _cliente([http.client.IncompleteRead(b"")] * 3 + [_ok()])
+    cliente.buscar_pagina("22030000", 1)
+    assert (len(ganchos), dormidas) == (4, [2, 4, 8])
+
+
+def test_badstatusline_persistente_vira_falha_temporaria():
+    cliente, _, ganchos, dormidas = _cliente([http.client.BadStatusLine("x")] * 4)
+    with pytest.raises(api.FalhaTemporaria):
+        cliente.buscar_pagina("22030000", 1)
+    assert (len(ganchos), dormidas) == (4, [2, 4, 8])
 
 
 def test_429_vira_cota_esgotada_sem_nova_tentativa():

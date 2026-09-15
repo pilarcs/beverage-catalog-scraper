@@ -8,7 +8,10 @@ import json
 from pathlib import Path
 from typing import Iterable, Iterator, Sequence
 
+from coletor import bruto
 from coletor.arquivos import gravar_texto_atomico
+from coletor.config import NcmAlvo
+from coletor.estado import info_ncm
 
 COLUNAS_CONTROLE = ["registro_id", "fonte", "ncm_consultado", "pagina", "posicao", "coletado_em"]
 COLUNAS_GTINS = [
@@ -123,3 +126,68 @@ def ler_csv(caminho: Path) -> list[dict[str, str]]:
         return []
     with caminho.open(encoding="utf-8-sig", newline="") as arquivo:
         return list(csv.DictReader(arquivo, delimiter=";"))
+
+
+COLUNAS_CONFERENCIA = [
+    "ncm", "descricao", "total_api", "total_lido_em", "paginas_coletadas", "total_paginas",
+    "linhas_baixadas", "gtins_distintos", "diferenca", "status",
+]
+COLUNAS_EXECUCOES = [
+    "inicio", "fim", "consultas_feitas", "paginas_concluidas", "produtos_baixados",
+    "motivo_parada", "alertas", "paginas_restantes", "dias_previstos",
+]
+
+
+def linhas_conferencia(ncms: Sequence[NcmAlvo], estado: dict, paginas: Sequence[dict]) -> list[dict[str, str]]:
+    linhas: list[dict[str, str]] = []
+    for alvo in ncms:
+        documentos = [d for d in paginas if d["coleta"]["ncm"] == alvo.ncm]
+        produtos = [p for d in documentos for p in d["resposta"].get("products") or []]
+        gtins_distintos = len({texto(p.get("gtin")) for p in produtos})
+        info = info_ncm(estado, alvo.ncm)
+        linha = {
+            "ncm": alvo.ncm,
+            "descricao": alvo.descricao,
+            "total_api": "",
+            "total_lido_em": "",
+            "paginas_coletadas": str(len({d["coleta"]["pagina"] for d in documentos})),
+            "total_paginas": "",
+            "linhas_baixadas": str(len(produtos)),
+            "gtins_distintos": str(gtins_distintos),
+            "diferenca": "",
+            "status": "não iniciado",
+        }
+        if info is not None:
+            diferenca = info["total_produtos"] - gtins_distintos
+            if info["concluido_em"] is None:
+                status = "em andamento"
+            elif diferenca <= 0:
+                status = "concluído"
+            else:
+                status = "concluído com falta"
+            linha.update({
+                "total_api": str(info["total_produtos"]),
+                "total_lido_em": info["total_lido_em"] or "",
+                "total_paginas": str(info["total_paginas"]),
+                "diferenca": str(diferenca),
+                "status": status,
+            })
+        linhas.append(linha)
+    return linhas
+
+
+def registrar_execucao(caminho: Path, registro: dict) -> None:
+    linhas = ler_csv(caminho) + [{coluna: texto(registro.get(coluna)) for coluna in COLUNAS_EXECUCOES}]
+    gravar_csv(caminho, COLUNAS_EXECUCOES, linhas)
+
+
+def gerar_csvs(raiz_bruto: Path, pasta_saida: Path, ncms: Sequence[NcmAlvo], estado: dict) -> dict[str, int]:
+    paginas = bruto.listar_paginas(raiz_bruto)
+    colunas, produtos = linhas_produtos(paginas)
+    return {
+        "produtos.csv": gravar_csv(pasta_saida / "produtos.csv", colunas, produtos),
+        "gtins.csv": gravar_csv(pasta_saida / "gtins.csv", COLUNAS_GTINS, linhas_gtins(paginas)),
+        "conferencia_ncm.csv": gravar_csv(
+            pasta_saida / "conferencia_ncm.csv", COLUNAS_CONFERENCIA, linhas_conferencia(ncms, estado, paginas)
+        ),
+    }

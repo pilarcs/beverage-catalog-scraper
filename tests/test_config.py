@@ -44,6 +44,12 @@ def test_ler_arquivo_env_ignora_comentarios_e_linhas_vazias(tmp_path):
     assert ler_arquivo_env(caminho) == {"COSMOS_TOKEN": "abc=def"}
 
 
+def test_ler_arquivo_env_aceita_bom(tmp_path):
+    caminho = tmp_path / ".env"
+    caminho.write_text("COSMOS_TOKEN=abc\n", encoding="utf-8-sig")
+    assert ler_arquivo_env(caminho) == {"COSMOS_TOKEN": "abc"}
+
+
 def test_ler_arquivo_env_inexistente(tmp_path):
     assert ler_arquivo_env(tmp_path / ".env") == {}
 

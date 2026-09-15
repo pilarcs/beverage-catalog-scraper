@@ -47,7 +47,7 @@ def ler_arquivo_env(caminho: Path) -> dict[str, str]:
     if not caminho.exists():
         return {}
     valores: dict[str, str] = {}
-    for linha in caminho.read_text(encoding="utf-8").splitlines():
+    for linha in caminho.read_text(encoding="utf-8-sig").splitlines():
         linha = linha.strip()
         if not linha or linha.startswith("#") or "=" not in linha:
             continue

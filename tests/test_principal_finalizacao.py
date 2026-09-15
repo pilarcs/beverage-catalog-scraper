@@ -50,6 +50,46 @@ def test_toda_parada_salva_estado_csvs_e_execucao(config, relogio, erro, motivo,
     assert any(linha.startswith(f"Parada: {motivo}") for linha in saida)
 
 
+def _sem_chave(chave):
+    def ajuste(r):
+        del r[chave]
+
+    return ajuste
+
+
+def _com_valor(chave, valor):
+    def ajuste(r):
+        r[chave] = valor
+
+    return ajuste
+
+
+@pytest.mark.parametrize(
+    "ajuste",
+    [
+        _sem_chave("total_pages"),
+        _com_valor("total_pages", 0),
+        _com_valor("total_pages", None),
+        _com_valor("total_pages", "3"),
+        _sem_chave("total_count"),
+    ],
+)
+def test_resposta_sem_total_valido_para_com_erro_e_nao_marca_ncm(config, relogio, ajuste):
+    def roteiro(ncm, pagina):
+        r = resposta(ncm, pagina, 5, [produto(111)])
+        ajuste(r)
+        return r
+
+    codigo, _ = _rodar(config, roteiro, relogio)
+
+    assert codigo == 1
+    estado = est.carregar(config.raiz / "dados" / "estado.json")
+    registro = exportar.ler_csv(config.raiz / "saida" / "execucoes.csv")[-1]
+    assert registro["motivo_parada"] == "erro: resposta"
+    assert list((config.raiz / "dados" / "bruto" / "ncm_22030000").glob("p0001_*.json"))
+    assert est.info_ncm(estado, "22030000") is None
+
+
 def test_pagina_vazia_inesperada_gera_alerta(config, relogio):
     def roteiro(ncm, pagina):
         itens = [] if (ncm, pagina) == ("22030000", 1) else [produto(pagina)]

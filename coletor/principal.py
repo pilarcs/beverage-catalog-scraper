@@ -125,6 +125,10 @@ def executar(
     return _finalizar(config, estado, execucao, motivo, codigo, caminhos, agora, saida)
 
 
+def _inteiro_valido(valor: object, *, minimo: int) -> bool:
+    return isinstance(valor, int) and not isinstance(valor, bool) and valor >= minimo
+
+
 def _coletar(config, fabrica_cliente, estado, execucao, caminhos, agora, dormir, saida) -> None:
     def antes_de_enviar() -> None:
         momento = agora()
@@ -146,9 +150,11 @@ def _coletar(config, fabrica_cliente, estado, execucao, caminhos, agora, dormir,
         resposta = cliente.buscar_pagina(ncm, pagina)
         coletado_em = agora()
         bruto.gravar_pagina(caminhos.bruto, ncm, pagina, cliente.url_pagina(ncm, pagina), coletado_em, resposta)
+        total_paginas = resposta.get("total_pages")
+        total_produtos = resposta.get("total_count")
+        if not _inteiro_valido(total_paginas, minimo=1) or not _inteiro_valido(total_produtos, minimo=0):
+            raise RespostaInvalida(f"total_pages/total_count inválidos em ncm:{ncm} p{pagina}")
         produtos = resposta.get("products") or []
-        total_paginas = int(resposta.get("total_pages") or 0)
-        total_produtos = int(resposta.get("total_count") or 0)
         estado_mod.atualizar_ncm(estado, ncm, pagina, total_paginas, total_produtos, coletado_em)
         if not produtos and pagina < total_paginas:
             execucao.alertas.append(f"ncm:{ncm} p{pagina} vazia")

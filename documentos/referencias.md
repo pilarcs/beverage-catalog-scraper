@@ -29,6 +29,8 @@ bibliográficas e para a reprodutibilidade.
 | 15 | 2026-09-15 | Pilar | navegador | https://cron-job.org/en/ | Serviço gratuito de cron escolhido para disparar a coleta diária |
 | 16 | 2026-09-15 | Claude | WebFetch | https://cron-job.org/en/ | Recursos: requisições com método, cabeçalhos e corpo personalizados; gratuito; até 60x/hora; notificações de falha; histórico de execuções |
 | 17 | 2026-09-15 | Claude | WebFetch | https://docs.github.com/en/rest/actions/workflows#create-a-workflow-dispatch-event | Endpoint para disparar workflow: `POST /repos/{owner}/{repo}/actions/workflows/{workflow_id}/dispatches`, corpo `ref`, cabeçalhos, sucesso 200; permissão de token fino não detalhada na página |
+| 18 | 2026-09-15 | Claude | WebFetch | https://github.com/actions/checkout/releases/latest | Versão mais recente de actions/checkout: v7.0.1 (usada no workflow como @v7) |
+| 19 | 2026-09-15 | Claude | WebFetch | https://github.com/actions/setup-python/releases/latest | Versão mais recente de actions/setup-python: v7.0.0 (usada no workflow como @v7) |
 
 As datas dos acessos 1 e 3 foram confirmadas pela Pilar em 2026-09-15.
 

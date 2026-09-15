@@ -14,3 +14,7 @@ def test_workflow_so_por_disparo_sem_concorrencia_e_commit_sempre():
     assert "python -m coletor" in conteudo
     assert "if: always()" in conteudo
     assert "git add dados saida" in conteudo
+    assert "git pull --rebase" in conteudo
+    assert "mkdir -p dados saida" in conteudo
+    assert "grep -R -F" in conteudo
+    assert "steps.varredura.outcome == 'success'" in conteudo

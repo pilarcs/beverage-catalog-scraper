@@ -26,15 +26,33 @@ jobs:
           PYTHONUNBUFFERED: "1"
         run: python -m coletor
 
-      - name: Salvar dados no repositório
+      - name: Verificar que o token não vazou nos dados
         if: always()
+        id: varredura
+        env:
+          COSMOS_TOKEN: ${{ secrets.COSMOS_TOKEN }}
+        run: |
+          mkdir -p dados saida
+          if [ -n "$COSMOS_TOKEN" ] && grep -R -F -q -- "$COSMOS_TOKEN" dados saida; then
+            echo "::error::Token encontrado nos arquivos a commitar; commit cancelado."
+            exit 1
+          fi
+
+      - name: Salvar dados no repositório
+        if: ${{ always() && steps.varredura.outcome == 'success' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p dados saida
           git add dados saida
           if git diff --cached --quiet; then
             echo "Sem mudanças para salvar."
           else
             git commit -m "chore: coleta $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            for tentativa in 1 2 3; do
+              if git pull --rebase && git push; then exit 0; fi
+              echo "Push falhou (tentativa $tentativa), tentando de novo em 10 s..."
+              sleep 10
+            done
+            exit 1
           fi

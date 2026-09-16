@@ -58,7 +58,7 @@ def test_carregar_config_usa_padroes(tmp_path):
     _csv(tmp_path, "ncm;descricao;status\n22030000;Cerveja;alvo\n")
     config = carregar_config(tmp_path, {"COSMOS_TOKEN": "tk", "COLETOR_RESPONSAVEL": "PILAR"})
     assert (config.token, config.responsavel, config.limite_consultas, config.espera_maxima_min, config.raiz) == (
-        "tk", "PILAR", 24, 120, tmp_path,
+        "tk", "PILAR", 23, 120, tmp_path,
     )
 
 

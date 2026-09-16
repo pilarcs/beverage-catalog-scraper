@@ -1,0 +1,127 @@
+{
+ "coleta": {
+  "fonte": "ncm:22083010",
+  "ncm": "22083010",
+  "pagina": 1,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22083010/products?page=1",
+  "coletado_em": "2026-09-16T00:44:20Z",
+  "responsavel": "PILAR"
+ },
+ "resposta": {
+  "code": "22083010",
+  "description": "Com um teor alcoólico, em volume, superior a 50 % vol, em recipientes de capacidade igual ou superior a 50 l",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico em volume inferior a 80% vol; aguardentes, licores e outras bebidas espirituosas (alcoólicas) - Uísques - Com um teor alcoólico, em volume, superior a 50 % vol, em recipientes de capacidade igual ou superior a 50 l",
+  "ex": null,
+  "products": [
+   {
+    "description": "WHISKY BARILETE 1L",
+    "gtin": 7896189410012,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T07:57:41.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896189410012,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/ABC88DAB93DDD44F58EC407C8D411C19.png",
+    "ncm": {
+     "code": "22083010",
+     "description": "Com um teor alcoólico, em volume, superior a 50 % vol, em recipientes de capacidade igual ou superior a 50 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico em volume inferior a 80% vol; aguardentes, licores e outras bebidas espirituosas (alcoólicas) - Uísques - Com um teor alcoólico, em volume, superior a 50 % vol, em recipientes de capacidade igual ou superior a 50 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "WHISKY O MONGE",
+    "gtin": 7896189410036,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T07:57:41.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896189410036,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/ABC88DAB93DDD44FDA9B1376850622B8.png",
+    "ncm": {
+     "code": "22083010",
+     "description": "Com um teor alcoólico, em volume, superior a 50 % vol, em recipientes de capacidade igual ou superior a 50 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico em volume inferior a 80% vol; aguardentes, licores e outras bebidas espirituosas (alcoólicas) - Uísques - Com um teor alcoólico, em volume, superior a 50 % vol, em recipientes de capacidade igual ou superior a 50 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "ALCOOL LUMA SEPT GEL 1L",
+    "gtin": 7898138440569,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-08-14T08:13:00.000-03:00",
+    "updated_at": "2026-08-02T03:08:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898138440569,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/16809239DF16DFF3337B20927312DE6B.png",
+    "ncm": {
+     "code": "22083010",
+     "description": "Com um teor alcoólico, em volume, superior a 50 % vol, em recipientes de capacidade igual ou superior a 50 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico em volume inferior a 80% vol; aguardentes, licores e outras bebidas espirituosas (alcoólicas) - Uísques - Com um teor alcoólico, em volume, superior a 50 % vol, em recipientes de capacidade igual ou superior a 50 l",
+     "ex": null
+    }
+   }
+  ],
+  "current_page": "1",
+  "per_page": 30,
+  "total_pages": 1,
+  "total_count": 3
+ }
+}

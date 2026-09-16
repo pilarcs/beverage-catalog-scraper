@@ -1,0 +1,1305 @@
+{
+ "coleta": {
+  "fonte": "ncm:22029100",
+  "ncm": "22029100",
+  "pagina": 3,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22029100/products?page=3",
+  "coletado_em": "2026-09-16T00:44:24Z",
+  "responsavel": "PILAR"
+ },
+ "resposta": {
+  "code": "22029100",
+  "description": "Cerveja sem álcool",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+  "ex": null,
+  "products": [
+   {
+    "description": "CERVEJA CERO SUNBREW ZERO ÁLCOOL CORONA GARRAFA 330ML",
+    "gtin": 7891991304184,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7891991304184",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-02-20T00:33:17.000-03:00",
+    "updated_at": "2026-09-15T05:30:10.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891991304184,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7891991304207,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 4,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0380311FDD99C28A487E006361982B90.png",
+    "brand": {
+     "name": "CORONA EXTRA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA LAGER ZERO ÁLCOOL HEINEKEN LATA 350ML",
+    "gtin": 7896045506910,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896045506910",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-06-01T09:35:10.000-03:00",
+    "updated_at": "2026-09-15T16:18:27.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896045506910,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896045506927,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 12,
+       "layer": 28
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/766E2F51169495DD2EBFA76DD201F8B8.png",
+    "brand": {
+     "name": "HEINEKEN",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_heineken"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA HEINEKEN 0,0% ALCOOL LT 350ML DATA",
+    "gtin": 60008923,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-06-21T15:51:19.000-03:00",
+    "updated_at": "2025-11-15T12:27:39.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 60008923,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/6C04B9C629CED61ED7503659992F2029.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERV HEINEKEN",
+    "gtin": 7896045506927,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-07-15T17:30:02.000-03:00",
+    "updated_at": "2026-08-30T10:09:59.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/766E2F51169495DDABBD8D7BD4FC63A6.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA CORONA ZERO LN 330ML",
+    "gtin": 7891991304191,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7891991304191",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-08-13T14:10:48.000-03:00",
+    "updated_at": "2026-09-14T10:35:24.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891991304191,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0380311FDD99C28A70E47D0B1D207487.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CHOPP DALLA PILSEN PET S/ALCOOL 1,5L",
+    "gtin": 7908784000014,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-02-11T19:36:02.000-03:00",
+    "updated_at": "2025-10-15T11:14:27.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7908784000014,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9EC487E63B1A2A4767781AA684E9CDC3.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA PILSEN ZERO ÁLCOOL SOL GARRAFA 330ML",
+    "gtin": 7896045507368,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896045507368",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-06-26T01:07:44.000-03:00",
+    "updated_at": "2026-09-14T08:02:07.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896045507368,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/766E2F51169495DD80C12425F31C2CE2.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA PLIER ZERO RADLER LEMON - 473 ML - LATA",
+    "gtin": 7896410504572,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-07-06T16:27:42.000-03:00",
+    "updated_at": "2026-05-30T00:14:44.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896410504572,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/B993A75CD1DB874D568A7A9A2E1D2E6E.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "SOL PREMIUM 0,0 LN 330ML 6UN CART",
+    "gtin": 7896045507375,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896045507375",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-10-07T18:21:13.000-03:00",
+    "updated_at": "2026-08-22T15:10:38.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896045507375,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/766E2F51169495DDFF0DFA7D637670E9.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 203,
+     "description": "Cervejas",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "CV CORONA 0.0 330ML",
+    "gtin": 7891991305679,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2025-01-09T21:47:23.000-03:00",
+    "updated_at": "2026-09-13T00:01:25.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891991305679,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0380311FDD99C28A7EFF569DB81934C9.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA CERO SUNBREW ZERO ÁLCOOL CORONA LATA 350ML",
+    "gtin": 7891991307505,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7891991307505",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2025-01-16T01:01:51.000-03:00",
+    "updated_at": "2026-09-15T05:30:12.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891991307505,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0380311FDD99C28A4686CC93D3CE566A.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CORONA CERO SUNBREW N LT SLEEK 350ML C 8 CX CARTAO",
+    "gtin": 7891991307512,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7891991307512",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2025-02-15T07:30:46.000-03:00",
+    "updated_at": "2026-09-06T16:44:01.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891991307512,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0380311FDD99C28A1BE919C0F1F7ECB2.png",
+    "brand": {
+     "name": "CORONA EXTRA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERV.SOL 0,0% ALC.L.NECK 330ML",
+    "gtin": 78960455807368,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2025-02-17T16:47:44.000-03:00",
+    "updated_at": "2025-09-09T01:21:11.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 78960455807368,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896045507382,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 6,
+       "ballast": 7,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/766E2F51169495DD3C795F2B2B8AA260.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA TOSTADA ZERO ÁLCOOL ESTRELLA GALICIA GARRAFA 330ML",
+    "gtin": 8412598009372,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8412598009372",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2025-02-22T01:02:11.000-03:00",
+    "updated_at": "2026-09-04T16:31:32.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8412598009372,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/3F9D51261770675414574F3F16810844.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 208,
+     "description": "Cerveja sem Alcóol",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "CERVEJA COLOMBINA 355ML SESSION IPA S/ALCOOL",
+    "gtin": 7898709700443,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2025-04-04T11:01:32.000-03:00",
+    "updated_at": "2026-04-19T09:54:41.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898709700443,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/22BBA6938B8E4D3EB2C12B7F4808120F.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA GINGER SIM SEM ALCOOL LATA 350ML",
+    "gtin": 70341601006,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/70341601006",
+    "width": 1400.0,
+    "height": 2100.0,
+    "length": 2800.0,
+    "net_weight": 4450,
+    "gross_weight": 4600,
+    "created_at": "2025-07-29T16:17:18.000-03:00",
+    "updated_at": "2025-07-29T16:17:18.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 70341601006,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 10070341601003,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 6,
+       "layer": 22
+      }
+     },
+     {
+      "gtin": 31181002000028,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 6,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4520EB0E209FFDA449A8DA55268AB3AD.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA SIM IPA SEM ALCOOL LATA 350ML",
+    "gtin": 70341601013,
+    "width": 600.0,
+    "height": 1250.0,
+    "length": 600.0,
+    "net_weight": 350,
+    "gross_weight": 383,
+    "created_at": "2025-07-31T15:17:17.000-03:00",
+    "updated_at": "2025-07-31T15:17:17.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 70341601013,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 10070341601010,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 6,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4520EB0E209FFDA469183FBCFF9DF6C8.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHOPP DE VINHO DRAFT LINE ZERO ALCOOL 600ML",
+    "gtin": 7896494211083,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896494211083",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2025-08-06T16:33:20.000-03:00",
+    "updated_at": "2026-06-06T12:42:06.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896494211083,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896494281086,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/819D7B2640F02CF245205ED514FB6FB6.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "CERVEJA PRAYA PURO MALTE LN 355ML",
+    "gtin": 7898694491494,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2025-09-05T02:07:21.000-03:00",
+    "updated_at": "2026-01-14T15:20:56.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898694491494,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/D7893E720C98F06A7A1F127EC7C3ED4A.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA ESTRELLA GALICIA 0,0 ZERO ÁLCOOL LONG NECK 330ML",
+    "gtin": 8412598004605,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8412598004605",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2025-09-11T11:25:07.000-03:00",
+    "updated_at": "2026-08-28T13:46:15.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8412598004605,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 8412598009358,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 6,
+       "layer": 48
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/3F9D5126177067540270E8BC54ED0689.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 208,
+     "description": "Cerveja sem Alcóol",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "EST GALICIA 0,0% TOSTADA LN 330ML",
+    "gtin": 8412598009389,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2025-09-17T00:43:01.000-03:00",
+    "updated_at": "2026-03-21T08:09:21.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8412598009389,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/3F9D512617706754CE57578922B4F929.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA SEM ALCOOL SIM! SOUR MELANCIA",
+    "gtin": 70341601037,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2025-09-19T17:57:25.000-03:00",
+    "updated_at": "2025-10-09T01:01:26.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 70341601037,
+      "commercial_unit": {
+       "type_packaging": "Lata",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4520EB0E209FFDA44958D3C7BABD9F63.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA ERDINGER ZERO ALCOOL ALKOHOLFREI GARRAFA 500ML",
+    "gtin": 4002103248286,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": 500,
+    "gross_weight": 500,
+    "created_at": "2025-09-24T00:34:24.000-03:00",
+    "updated_at": "2026-08-31T00:29:29.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 4002103248286,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 4002103201106,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 7,
+       "layer": 10
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/D65BD7DC3C63AB76A55D606A6E1612DE.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA LN 330ML IMPERIO PURO MALTE ZERO ALCOOL",
+    "gtin": 7898738660640,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898738660640",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2025-09-29T17:24:52.000-03:00",
+    "updated_at": "2026-09-15T09:18:32.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898738660640,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 1789738660647,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 17898738660647,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 17897386600647,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/D64B3791CEE7CB05BF81647F1EBC405C.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA IMPERIO ZERO ALCOOL LT 350ML",
+    "gtin": 7898738660664,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898738660664",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2025-10-02T23:02:59.000-03:00",
+    "updated_at": "2026-09-11T16:39:42.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898738660664,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17898738660661,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 10,
+       "layer": 28
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/D64B3791CEE7CB05BB3E387AFE859DE5.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERV IMIGRACAO 0 0% PILSEN 350ML",
+    "gtin": 7899923609406,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2025-12-14T04:05:14.000-03:00",
+    "updated_at": "2026-08-14T08:02:11.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899923609406,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/7104702859A8586C992A3BE2A45E4666.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA BUDWEISER ZERO LT 473ML",
+    "gtin": 7891991307963,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 470,
+    "gross_weight": 450,
+    "created_at": "2025-12-15T10:43:46.000-03:00",
+    "updated_at": "2026-07-09T07:35:36.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891991307963,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0380311FDD99C28A4DFE6E38B3C85C10.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA KRUG 355ML LN ZERO ALC",
+    "gtin": 7898641261569,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2026-01-14T01:22:06.000-03:00",
+    "updated_at": "2026-07-10T13:34:19.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898641261569,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/09BF005ED5E2BA1FD291B9E88D197464.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERV SKOL 330ML ZERO LN",
+    "gtin": 7891991308267,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7891991308267",
+    "width": 200.0,
+    "height": 120.0,
+    "length": 270.0,
+    "net_weight": 3,
+    "gross_weight": 4,
+    "created_at": "2026-03-03T10:52:14.000-03:00",
+    "updated_at": "2026-09-15T14:36:27.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891991308267,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 24,
+       "ballast": 8,
+       "layer": 20
+      }
+     },
+     {
+      "gtin": 7891991308243,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 7,
+       "layer": 13
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0380311FDD99C28A7AD64FAF253552C9.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA BLACK PRINCESS 330ML ZERO ALCOOL LONG NECK",
+    "gtin": 7898377663101,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898377663101",
+    "width": 62.0,
+    "height": 220.0,
+    "length": 62.0,
+    "net_weight": 1000,
+    "gross_weight": 625,
+    "created_at": "2026-05-08T14:48:48.000-03:00",
+    "updated_at": "2026-08-29T18:50:48.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898377663101,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7898377663118,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 8,
+       "layer": 24
+      }
+     },
+     {
+      "gtin": 7898377663125,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 8,
+       "layer": 24
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4C917DA444004079160A41C5912EF518.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   }
+  ],
+  "current_page": "3",
+  "per_page": 30,
+  "total_pages": 4,
+  "total_count": 95,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22029100/products?page=4",
+  "previous_page": "https://cosmos.bluesoft.com.br/ncms/22029100/products?page=2"
+ }
+}

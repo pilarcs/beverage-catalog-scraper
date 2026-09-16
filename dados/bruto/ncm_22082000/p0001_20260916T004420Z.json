@@ -1,0 +1,1245 @@
+{
+ "coleta": {
+  "fonte": "ncm:22082000",
+  "ncm": "22082000",
+  "pagina": 1,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22082000/products?page=1",
+  "coletado_em": "2026-09-16T00:44:20Z",
+  "responsavel": "PILAR"
+ },
+ "resposta": {
+  "code": "22082000",
+  "description": "Aguardentes de vinho ou de bagaço de uvas",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+  "ex": null,
+  "products": [
+   {
+    "description": "BRANDY CORTEL NAPOLEÓN V.S.O.P 700ML",
+    "gtin": 3269550712918,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3269550712918",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-14T00:34:10.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 23269550712912,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3269550712918,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/D9EEC91E85CA7DF99B2319A5D1B2A523.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "CONHAQUE VSOP HENNESSY GARRAFA 700ML",
+    "gtin": 3245990969402,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3245990969402",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-14T00:32:29.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3245990969402,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/74839E8A0395B87E2FDF7EFDE1F9B8C8.png",
+    "brand": {
+     "name": "HENNESSY",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    },
+    "category": {
+     "id": 149,
+     "description": "Conhaque",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "AGUARDENTE COROADA LIMAO",
+    "gtin": 7898234630093,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 1,
+    "gross_weight": 1,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-02T05:32:30.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898234630093,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9A7E8CDF7AE516F24CAA76ED3684B538.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "BRANDY JEREZ SOLERA RESERVA 700ML",
+    "gtin": 8423360010052,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8423360010052",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-05T04:29:36.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 28423360010056,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 8423360010052,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/FD07C67426F27A70A78AE8134B1E34C6.png",
+    "brand": {
+     "name": "FERNANDO DE CASTILLA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    },
+    "category": {
+     "id": 149,
+     "description": "Conhaque",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "VINHO BRANCO ESPUMANTE CELLA",
+    "gtin": 8001929214679,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-05T03:49:55.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8001929214679,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/A802348BA82F2A0A4731A7D3A8763A42.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "BAGACEIRA|1000|CACHACA",
+    "gtin": 5601193300127,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5601193300127",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:51:15.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 25601193300121,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 5601193300127,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EC0B2BCCE15CD6DB2E8B239FEFBFE4C2.png",
+    "brand": {
+     "name": "NETO COSTA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    },
+    "category": {
+     "id": 151,
+     "description": "Cachaça",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "BAGACEIRA VELHA NETO COSTA",
+    "gtin": 5601193300189,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:51:15.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5601193300189,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EC0B2BCCE15CD6DBCC77C05E756B0286.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "COQUETEL ALCOÓLICO COMPOSTO DOMECQ GARRAFA 1L",
+    "gtin": 7896080001401,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896080001401",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-10T18:02:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/A4536F6456A400D4E6D8C9E73232BEE9.png",
+    "brand": {
+     "name": "DOMECQ",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    },
+    "category": {
+     "id": 149,
+     "description": "Conhaque",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "CONHAQUE MACIEIRA ROYAL SPIRIT GARRAFA 700ML",
+    "gtin": 5604422144202,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5604422144202",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T07:50:32.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 45604422144200,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 5604422144202,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/429D78CE93880FCC85A3B904887ED2ED.png",
+    "brand": {
+     "name": "MACIEIRA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    },
+    "category": {
+     "id": 149,
+     "description": "Conhaque",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "COQUETEL MEL E PEQUI",
+    "gtin": 7896685200070,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896685200070",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-08T17:22:55.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896685200070,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17896685200077,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 5,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/7703F9094554AC8763A090A9A4666645.png",
+    "brand": {
+     "name": "TEM TUDO",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "AGUARDENTE GRAPPA MIOLO GARRAFA 500ML",
+    "gtin": 7896756800215,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896756800215",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T17:59:33.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896756800215,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17896756800212,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EA20088C509175A7FF78DC85217558BF.png",
+    "brand": {
+     "name": "MIOLO",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "BEBIDA PETER ESP PTA MOSCATEL ROSE",
+    "gtin": 7896097720104,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T06:44:46.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 27896097720108,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 7896097720104,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/47F2ADA06F3035C84C8D44010BAEF313.png",
+    "brand": {
+     "name": "PRODUTOS BUFALO",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_produtos-bufalo"
+    },
+    "gpc": {
+     "code": "47000000",
+     "description": "Produtos de Higiene / Limpeza"
+    },
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "CONHAQUE DIMEL",
+    "gtin": 7896008100292,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T02:10:32.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896008100292,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/76A292F550AE1889578783C819868DF5.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "CONHAQUE NAUTILUS 1LT",
+    "gtin": 7897110000975,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T20:19:02.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897110000975,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5E051C4FCC9F8BAADFF5297A4612D894.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "CONHAQUE BRANDY DOMECQ 1 LITRO",
+    "gtin": 7896020200017,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896020200017",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T03:05:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896020200017,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E73C2043BA157EEF188FBB1B8A9D930F.png",
+    "brand": {
+     "name": "BARUEL",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_baruel"
+    },
+    "gpc": {
+     "code": "53000000",
+     "description": "Higiene / Cuidados Pessoais / Beleza"
+    },
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "CONHAQUE DE ALCATRÃO SÃO JOÃO DA BARRA GARRAFA 900ML",
+    "gtin": 7896022610005,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896022610005",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-10T14:16:12.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896022610005,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 27896022610009,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/8F46C921835E071475FE62A5CB64D5B3.png",
+    "brand": {
+     "name": "SELMI",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_selmi"
+    },
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    },
+    "category": {
+     "id": 149,
+     "description": "Conhaque",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "CONHAQUE DOM BOSCO",
+    "gtin": 7896072911176,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T05:54:36.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896072911176,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/17F9F8EF30CD9F01F9C6BF3698B87BC4.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO BLEASDALE LANGHORNE",
+    "gtin": 752183089166,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2023-01-24T02:16:52.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 752183089166,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F810F4DF9AA40C03FB8918923DBB7892.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO BRANCO NIAGARA SECO FRADE RESEVA",
+    "gtin": 7898298540574,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898298540574",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-08T10:05:12.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898298540574,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/ED771A06496CB763D5AC0D3B190D40EE.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO BRANCO SECO PALMEIRAS 88",
+    "gtin": 7896923201043,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T19:14:12.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896923201043,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/33D4B71452BF3011750013F115E8AAA6.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CH SAN ELIAS BLANC SAU",
+    "gtin": 7809585500454,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T04:06:52.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7809585500454,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/AE424275006A7A7B69B7D7944176CCD3.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO DO FRADE TINTO SECO 4,6L",
+    "gtin": 7898298540024,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898298540024",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-02T07:00:40.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898298540024,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/ED771A06496CB76352F952F98A52A658.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO DO FRADE TINTO SECO",
+    "gtin": 7898298540192,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898298540192",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-08T10:05:28.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898298540192,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/ED771A06496CB763D1069ECB66DD8EF1.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO DO FRADE TINTO SUAVE 4,6L",
+    "gtin": 7898298540017,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898298540017",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-02T07:00:40.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898298540017,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/ED771A06496CB76395E1F9EFACA9C17F.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TINTO SECO CATAFESTA 2L",
+    "gtin": 7897200100127,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T20:55:40.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897200100127,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/CA4D5503018BCF7D23878B752C12015A.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TINTO SUAVE CATAFESTA 2L",
+    "gtin": 7897200100110,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T20:55:39.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897200100110,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/CA4D5503018BCF7D60D3ED6E4AED76F6.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO URU ISLA DE LOBOS",
+    "gtin": 7730429000376,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:26:00.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7730429000376,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BB5376CC8782548E52ED4BA8F9D8840E.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "CATUABA ARRETADA",
+    "gtin": 7898395720510,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-02T08:57:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898395720510,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/87FB64CAEF5FE1ED338234E9B03084C0.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "CATUABA ARRETADA",
+    "gtin": 7898395720039,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-02T08:57:41.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898395720039,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/87FB64CAEF5FE1EDBC25AF910BB6FF2E.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   },
+   {
+    "description": "CATUABA VIRTUDE",
+    "gtin": 7896092501111,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T06:31:48.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896092501111,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/342845AF9D7A74BFE132F16767E890FB.png",
+    "ncm": {
+     "code": "22082000",
+     "description": "Aguardentes de vinho ou de bagaço de uvas",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Aguardentes de vinho ou de bagaço de uvas",
+     "ex": null
+    }
+   }
+  ],
+  "current_page": "1",
+  "per_page": 30,
+  "total_pages": 7,
+  "total_count": 197,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22082000/products?page=2"
+ }
+}

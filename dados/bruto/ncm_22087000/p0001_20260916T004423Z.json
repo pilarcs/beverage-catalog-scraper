@@ -1,0 +1,1463 @@
+{
+ "coleta": {
+  "fonte": "ncm:22087000",
+  "ncm": "22087000",
+  "pagina": 1,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22087000/products?page=1",
+  "coletado_em": "2026-09-16T00:44:23Z",
+  "responsavel": "PILAR"
+ },
+ "resposta": {
+  "code": "22087000",
+  "description": "Licores",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+  "ex": null,
+  "products": [
+   {
+    "description": "GRAPPA ITAL PIAVE CUORE",
+    "gtin": 8001530001187,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-05T03:48:18.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8001530001187,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0F008368084B2FFF3FD28B29A46F5C47.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "LICOR ALTOVISO AMENDOA AMARGA",
+    "gtin": 5601338320126,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:54:26.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5601338320126,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4CC0F301CB0B8BAA2C941B90EC53CC6E.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "LICOR AMARETTO DI CARUSO",
+    "gtin": 8003483300133,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8003483300133",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-05T03:54:25.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8003483300133,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/B0AD141FFA4B602FD5D4832F877BB22F.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "LICOR AMARETTO DI CARUSO GOLD",
+    "gtin": 8003483302403,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8003483302403",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-05T03:54:29.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8003483302403,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/B0AD141FFA4B602F743344E2405B5C3A.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "LICOR FINO CREAM & MARULA FRUIT AMARULA GARRAFA 375ML",
+    "gtin": 6001495062478,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/6001495062478",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T02:10:25.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 6001495062423,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 6001495062478,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5D6783711054405A07753ED84F7A0B67.png",
+    "brand": {
+     "name": "AMARULA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "LICOR BENEDICTINE",
+    "gtin": 3035551411002,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3035551411002",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-13T00:32:42.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3035551411002,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/59F1FC84F87975E8B221AAC29D600AB4.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "LICOR BOLS LEMONCELLO",
+    "gtin": 7791200005195,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:33:17.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 67791200005197,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7791200005195,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C1F392A64DE23816D34CB6F55A483E4E.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "BOLS FRUTILLA|700|LIQUEURS",
+    "gtin": 7791200009919,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:33:20.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 67791200009911,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7791200009919,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C1F392A64DE2381699DB646D0E42E9BE.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "LICOR BOLS SOUR APPLE",
+    "gtin": 7791200007212,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:33:18.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 67791200007214,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7791200007212,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C1F392A64DE23816FFBB2F1EDB00CFD9.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "LICOR FINO CREME DE LEITE COM WHISKY CAROLANS GARRAFA 700ML",
+    "gtin": 5011026105223,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5011026105223",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:30:42.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5011026105223,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 5011026106084,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 5,
+       "layer": 10
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0998CEFEF36B946847A0F021F8738BBD.png",
+    "brand": {
+     "name": "CAROLANS",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "LICOR CORDON DOR MARULA",
+    "gtin": 7896028201764,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T03:41:42.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896028201764,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/2153AA059CB8550CB1D9E28851B34BD3.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "LICOR FINO PÊSSEGO PEACHTREE GARRAFA 700ML",
+    "gtin": 8710625524707,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8710625524707",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-20T14:15:07.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8710625524707,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/A3B234005F1D989AE631E2ECF177826D.png",
+    "brand": {
+     "name": "PEACHTREE",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "LICOR DINALLE ACAI",
+    "gtin": 7896356600253,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 0,
+    "gross_weight": 0,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T11:03:44.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896356600253,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EE8894A36055B6BA535519512E953171.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "LICOR DINALLE PEQUI",
+    "gtin": 7896356600451,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T11:03:45.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896356600451,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EE8894A36055B6BA27C10EFB38482162.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "LICOR AMARETTO DISARONNO ORIGINALE GARRAFA 700ML",
+    "gtin": 8001110016303,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8001110016303",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-05T03:47:22.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8001110016303,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 8001110706020,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C4E6EB80F69A4639524F4FB90DE887DD.png",
+    "brand": {
+     "name": "DISARONNO",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "LICOR CREME CASSIS GABRIEL BOUDIER GARRAFA 700ML",
+    "gtin": 3252569600710,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3252569600710",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-14T00:32:57.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3252569600710,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/DC83F6A64A625BE29FEBE027CBC3F0C3.png",
+    "brand": {
+     "name": "GABRIEL BOUDIER",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "LICOR GELLA PINACOLADA COCO/ABACA",
+    "gtin": 7896356600048,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T11:03:43.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896356600048,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EE8894A36055B6BADB887BF071EB706C.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "LICOR FINO CONHAQUE E LARANJA GRAND MARNIER GARRAFA 700ML",
+    "gtin": 3018300000245,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3018300000245",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T20:51:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3018300000245,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/FBB8B46BA7E3FAA2DB46A9C87C323F4B.png",
+    "brand": {
+     "name": "GRAND MARNIER",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_grand-marnier"
+    },
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "LICOR GRAND MARNIER PARIS ED LIMITADA",
+    "gtin": 3018300017274,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-13T00:32:09.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3018300017274,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/FBB8B46BA7E3FAA23D021788B8F4A8D7.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "LICOR GUYLIAN CREME PRALINE",
+    "gtin": 5410976716013,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:42:26.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5410976716013,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/585D568267F2541E2D3BDC845719A95D.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "LICOR FINO CAFÉ ILLY GARRAFA 700ML",
+    "gtin": 8000040020008,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8000040020008",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-05T03:44:18.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8000040020008,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/A5AF7D775C45BBF479E1B5D151839017.png",
+    "brand": {
+     "name": "YULO TOYS INC",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "LICOR CREME CASSIS JEAN DE DIJON GARRAFA 670ML",
+    "gtin": 3252569800813,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3252569800813",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-14T00:32:58.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3252569800813,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/66E65625ED7DB3811A3614026459FC94.png",
+    "brand": {
+     "name": "JEAN DE DIJON",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "LICOR M BRIZARD CHOCOLAT ROYAL",
+    "gtin": 3041311026201,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3041311026201",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T20:52:26.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3041311026201,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/A473D998FC2FBE6882B85D50BCE01403.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "LICOR M BRIZARD GRAND ORANGE",
+    "gtin": 3041311026218,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 1,
+    "gross_weight": 1,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T20:52:26.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3041311026218,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/A473D998FC2FBE68498830F090845766.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "MB PARFAIT AMOUR|700|LIQUEURS",
+    "gtin": 3041312180704,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T20:52:29.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3041312180704,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/3B4A761EA1E06D87F808CB6994CA3506.png",
+    "brand": {
+     "name": "MARIE BRIZARD",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_marie-brizard"
+    },
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "LIQUER",
+    "gtin": 88857003306,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/88857003306",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-03-16T16:35:55.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 88857003306,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/D0E5EA8504255D6AD499BDB5D328A96E.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "MOZART|500|LIQUEURS",
+    "gtin": 9013100062053,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/9013100062053",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-05T05:20:19.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 9013100062053,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F3586F676860399FEC66466DCAF340A2.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "LICOR OPTIMA SAMBUCA",
+    "gtin": 8000428016357,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-05T03:46:11.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8000428016357,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EEBE6AE25149DB4412A677A43C24F194.png",
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "CASSIS SISCA ?|LIQUEURS II",
+    "gtin": 3104691015118,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T20:57:34.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3104691015118,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BE16AD57916D41212672C304B0CB7B7A.png",
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "LICOR STREGA ERVAS AROMATICAS",
+    "gtin": 80220718,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/80220718",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-02-22T21:15:32.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 80220718,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 8009265000079,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 4,
+       "layer": 28
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/1837FB219B3B652E54D4F4A157416D05.png",
+    "brand": {
+     "name": "STREGA ALBERTI",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22087000",
+     "description": "Licores",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Licores",
+     "ex": null
+    },
+    "cest": {
+     "id": 1814,
+     "code": "0201000",
+     "description": "Licores e similares",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   }
+  ],
+  "current_page": "1",
+  "per_page": 30,
+  "total_pages": 34,
+  "total_count": 1007,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22087000/products?page=2"
+ }
+}

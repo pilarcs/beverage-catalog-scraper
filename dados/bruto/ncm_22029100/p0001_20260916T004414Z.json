@@ -1,0 +1,1495 @@
+{
+ "coleta": {
+  "fonte": "ncm:22029100",
+  "ncm": "22029100",
+  "pagina": 1,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22029100/products?page=1",
+  "coletado_em": "2026-09-16T00:44:14Z",
+  "responsavel": "PILAR"
+ },
+ "resposta": {
+  "code": "22029100",
+  "description": "Cerveja sem álcool",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+  "ex": null,
+  "products": [
+   {
+    "description": "CERVEJA AMERICAN LAGER ZERO ÁLCOOL BRAHMA LATA 350ML",
+    "gtin": 7891149104932,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7891149104932",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-12T05:31:01.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891149104932,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7891149104949,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 13,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/860926DA84AB789B8EB3CD644B1A6B6E.png",
+    "brand": {
+     "name": "BRAHMA ZERO",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "SUCO TIAL PÊSSEGO LIGHT 1LT",
+    "gtin": 7896005302545,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896005302545",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T01:57:18.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896005302545,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/78C90512BB6603D07F893855BF1AF956.png",
+    "brand": {
+     "name": "TIAL",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000220",
+     "description": "Suco - Pronto para beber (Não perecível)"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "cest": {
+     "id": 2177,
+     "code": "1711200",
+     "description": "Néctares de frutas e outras bebidas não alcoólicas prontas para beber, exceto isotônicos e energéticos",
+     "parent_id": 1671
+    }
+   },
+   {
+    "description": "BEBIDA MISTA TEKO KIDS MARACUJA",
+    "gtin": 7898303431989,
+    "width": 1.0,
+    "height": 1.0,
+    "length": 1.0,
+    "net_weight": 200,
+    "gross_weight": 200,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-02T07:06:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898303431989,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5171773AD1EB0475956CDE45EE77C8B5.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "PACK CERVEJA PILSEN ZERO ÁLCOOL ITAIPAVA LATA 12 UNIDADES 350ML CADA",
+    "gtin": 7897395040123,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7897395040123",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T21:45:59.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395040123,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54ADD77453A35200B54B.png",
+    "brand": {
+     "name": "ITAIPAVA ZERO",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA KRONENBIER LN",
+    "gtin": 78909205,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-04-30T10:45:42.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 78909205,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7891991003544,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7891991003728,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 24,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C1AD871B285752D5888DEF61805637C9.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 208,
+     "description": "Cerveja sem Alcóol",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "CERVEJA PILSEN ZERO ÁLCOOL SCHIN LATA 350ML",
+    "gtin": 7896052605415,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896052605415",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T05:08:17.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896052601431,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 7896052605415,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/860C7AB87C58E0E73CE287A723455E3C.png",
+    "brand": {
+     "name": "SCHIN",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_schin"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "ENERGIL LARANJA",
+    "gtin": 7898303430029,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-02T07:06:24.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898303430029,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5171773AD1EB04751EE9F97C6DF35A69.png",
+    "brand": {
+     "name": "ENERGIL",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000220",
+     "description": "Suco - Pronto para beber (Não perecível)"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "cest": {
+     "id": 2483,
+     "code": "0301500",
+     "description": "Bebidas hidroeletrolíticas",
+     "parent_id": 1657
+    }
+   },
+   {
+    "description": "CERVEJA CRYSTAL 0 0% ALCOOL LONG NECK",
+    "gtin": 7897395060398,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T21:46:25.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395060398,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54AD2B090944473E55C1.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 208,
+     "description": "Cerveja sem Alcóol",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "PAULANER HEFE-WEISSBIER NATURTRÜB WEIZENBIER GARRAFA 1 UNIDADE",
+    "gtin": 4066600061502,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/paulaner-hefe-weissbier-naturtrub-weizenbier-garrafa-500-ml-1-unidade_600x600-PU5e6db_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-19T00:35:20.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 4066600011507,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 4066600061502,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/18E30A2C6EE6726023EC9E5111283DC8.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "NECTAR TIAL LIGHT 1L ABACAXI",
+    "gtin": 7896005302507,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T01:57:17.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896005302507,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/78C90512BB6603D0E9BF71B8A4C93D0A.png",
+    "brand": {
+     "name": "TIAL",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "cest": {
+     "id": 2177,
+     "code": "1711200",
+     "description": "Néctares de frutas e outras bebidas não alcoólicas prontas para beber, exceto isotônicos e energéticos",
+     "parent_id": 1671
+    }
+   },
+   {
+    "description": "CERVEJA COLONIA ZERO ALCOOL LATA",
+    "gtin": 7898032910205,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898032910205",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-27T09:11:32.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898032910205,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17898032910202,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 13,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/44B7108C794BB3D2F2AAE6BAFB0FA93B.png",
+    "brand": {
+     "name": "COLÔNIA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "NECTAR PURITY LARANJA",
+    "gtin": 7897001050041,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7897001050041",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-18T10:15:35.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897001050041,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17897001050048,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 27,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E70A804F97205E5AD0E93F6843B4E95C.png",
+    "brand": {
+     "name": "PURITY",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "cest": {
+     "id": 2177,
+     "code": "1711200",
+     "description": "Néctares de frutas e outras bebidas não alcoólicas prontas para beber, exceto isotônicos e energéticos",
+     "parent_id": 1671
+    }
+   },
+   {
+    "description": "CERVEJA PILSEN ZERO ÁLCOOL BAVARIA LATA 350ML",
+    "gtin": 7896045504565,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896045504565",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2015-01-14T22:00:00.000-02:00",
+    "updated_at": "2026-07-30T04:51:45.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896045504565,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896045504589,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 12,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/766E2F51169495DDF01FC870E0E5D890.png",
+    "brand": {
+     "name": "BAVARIA 0",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA ZERO ÁLCOOL ESTRELLA GALICIA GARRAFA 250ML",
+    "gtin": 8412598000447,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8412598000447",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2015-01-14T22:00:00.000-02:00",
+    "updated_at": "2026-08-05T04:27:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8412598000447,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 8412598001659,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 8412598001253,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 24,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/3F9D5126177067544F49946A5BDA24AF.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA BITBURGER DRIVE SEM ALCOOL - GRF",
+    "gtin": 4102430315504,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/4102430315504",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2015-07-20T15:28:37.000-03:00",
+    "updated_at": "2026-08-19T00:37:02.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 4102430315504,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E430315EEFC2EF75611C709BE8A73416.png",
+    "brand": {
+     "name": "BITBURGER",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "cest": {
+     "id": 2490,
+     "code": "0302200",
+     "description": "Cerveja sem álcool em garrafa de vidro retornável",
+     "parent_id": 1657
+    }
+   },
+   {
+    "description": "HARRY POTTER BUTTER BEER SODA FLYING CAULDRON BUTTERSCOTCH",
+    "gtin": 33919000458,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/33919000458",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2015-09-16T19:06:05.000-03:00",
+    "updated_at": "2026-02-09T08:13:56.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 33919000458,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/8278784B37A52DB56297CEFE94386FF6.png",
+    "brand": {
+     "name": "SODA NATIONAL",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA ZERO ÁLCOOL ESTRELLA GALICIA GARRAFA 250ML",
+    "gtin": 8412598001659,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8412598001659",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2015-11-13T10:37:46.000-02:00",
+    "updated_at": "2026-08-05T04:27:13.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8412598001710,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 8412598001734,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 7,
+       "layer": 13
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/3F9D5126177067547317ED424CB73E5B.png",
+    "brand": {
+     "name": "ESTRELLA GALICIA",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_estrella-galicia"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "NOVA SCHIN SEM ÁLCOOL LATA 1 UNIDADE",
+    "gtin": 7896052603800,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896052603800",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2016-01-19T13:56:19.000-02:00",
+    "updated_at": "2026-07-30T05:07:56.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896052603800,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896052605422,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/860C7AB87C58E0E725EB4D465EF91A7D.png",
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA S/ ALCOOL L. NECK",
+    "gtin": 7896052605439,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2016-01-19T15:05:52.000-02:00",
+    "updated_at": "2026-07-30T05:08:18.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896052605439,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/860C7AB87C58E0E79EB100430E902C21.png",
+    "brand": {
+     "name": "SCHIN",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_schin"
+    },
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "cest": {
+     "id": 2490,
+     "code": "0302200",
+     "description": "Cerveja sem álcool em garrafa de vidro retornável",
+     "parent_id": 1657
+    },
+    "category": {
+     "id": 203,
+     "description": "Cervejas",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "CERVEJA PILSEN ZERO ÁLCOOL ITAIPAVA LATA 350ML",
+    "gtin": 7897395040390,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7897395040390",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2016-01-19T15:16:56.000-02:00",
+    "updated_at": "2026-09-06T03:10:15.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395040390,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7897395040406,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 14,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54AD97AD73C24F7B40FC.png",
+    "brand": {
+     "name": "ITAIPAVA",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_itaipava"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA CRYSTAL 0 0% ALCOOL LONG NECK",
+    "gtin": 7897395060350,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7897395060350",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2016-01-19T15:31:52.000-02:00",
+    "updated_at": "2026-07-31T21:46:24.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395060350,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54ADF7D424B0F7863FD5.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 203,
+     "description": "Cervejas",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "CERVEJA PILSEN ZERO ÁLCOOL ITAIPAVA GARRAFA 355ML",
+    "gtin": 7897395040468,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7897395040468",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2016-01-19T16:16:27.000-02:00",
+    "updated_at": "2026-07-31T21:46:07.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395040154,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54ADDABC16C9C22A429C.png",
+    "brand": {
+     "name": "ITAIPAVA",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_itaipava"
+    },
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA DE TRIGO SEM ÁLCOOL ERDINGER GARRAFA 330ML",
+    "gtin": 4002103249535,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/4002103249535",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2016-05-12T15:19:45.000-03:00",
+    "updated_at": "2026-08-16T00:32:47.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 4002103249535,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/D65BD7DC3C63AB76D6686EE103C1E8CA.png",
+    "brand": {
+     "name": "ERDINGER",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA ZERO ÁLCOOL ESTRELLA GALICIA LATA 330ML",
+    "gtin": 8412598000478,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8412598000478",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-04-03T15:17:44.000-03:00",
+    "updated_at": "2026-09-11T08:03:34.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8412598003387,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 9,
+       "layer": 13
+      }
+     },
+     {
+      "gtin": 8412598000478,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 8412598003370,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 12,
+       "layer": 27
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/3F9D512617706754046FF864F8D3E4DB.png",
+    "brand": {
+     "name": "ESTRELLA GALICIA",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_estrella-galicia"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "SUCO DE UVA",
+    "gtin": 7897195931775,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7897195931775",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-01-17T11:19:35.000-02:00",
+    "updated_at": "2026-09-11T13:20:54.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897195931775,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/75E26995E1BE5392F93877987BF0CBA2.png",
+    "brand": {
+     "name": "LIFE",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000219",
+     "description": "Suco - Pronto para beber (Perecíveis)"
+    },
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERV MALTA 350ML S/ALCOOL",
+    "gtin": 7896760400661,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-05-03T08:20:37.000-03:00",
+    "updated_at": "2026-08-18T09:59:31.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896760400661,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/46466B32B40F738516300D9305F810C3.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERV PILSEN S/ALCOOL KROMBACHER 330ML",
+    "gtin": 4008287058543,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-08-14T09:21:17.000-03:00",
+    "updated_at": "2026-07-23T21:34:46.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 4008287058543,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/DC7E5C9C06A6458BEBF664EEF16802E7.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA ERDINGER S/ALCOOL 500ML",
+    "gtin": 4002103282044,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-12-03T17:47:49.000-02:00",
+    "updated_at": "2026-07-23T21:28:52.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 4002103282044,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/D65BD7DC3C63AB76D3A55A5B8CED7BAD.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERV MALTA S/ALCOOL 473ML",
+    "gtin": 7896760400609,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2019-02-05T11:20:13.000-02:00",
+    "updated_at": "2026-07-31T18:01:05.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896760400609,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/46466B32B40F7385BE7A8DD1ED1ACE54.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA PILSEN ZERO ÁLCOOL ITAIPAVA GARRAFA 355ML",
+    "gtin": 7897395040703,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7897395040703",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2019-03-16T22:39:32.000-03:00",
+    "updated_at": "2026-07-31T21:46:12.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395040468,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 24,
+       "layer": 8
+      }
+     },
+     {
+      "gtin": 7897395040475,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 7,
+       "layer": 24
+      }
+     },
+     {
+      "gtin": 7897395040703,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7897395000899,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 7,
+       "layer": 24
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54ADA0593267BA3290B7.png",
+    "ncm": {
+     "code": "22029100",
+     "description": "Cerveja sem álcool",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09. - Cerveja sem álcool",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   }
+  ],
+  "current_page": "1",
+  "per_page": 30,
+  "total_pages": 4,
+  "total_count": 95,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22029100/products?page=2"
+ }
+}

@@ -1,0 +1,1472 @@
+{
+ "coleta": {
+  "fonte": "ncm:22085000",
+  "ncm": "22085000",
+  "pagina": 1,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22085000/products?page=1",
+  "coletado_em": "2026-09-16T00:44:22Z",
+  "responsavel": "PILAR"
+ },
+ "resposta": {
+  "code": "22085000",
+  "description": "Gim e genebra",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+  "ex": null,
+  "products": [
+   {
+    "description": "GIN LONDON DRY BEEFEATER GARRAFA 750ML",
+    "gtin": 5000329002537,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5000329002537",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-13T00:17:47.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5000329002537,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 5000329001219,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 4,
+       "layer": 28
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/49B12E6E48467A455F5A2BC9DD1F5EED.png",
+    "brand": {
+     "name": "BEEFEATER",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "cest": {
+     "id": 1812,
+     "code": "0200800",
+     "description": "Gim (gin) e genebra",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 145,
+     "description": "Gin",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "GIN LONDON DRY BULLDOG GARRAFA 750ML",
+    "gtin": 897076002003,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/897076002003",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-04T15:47:30.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 10897076002000,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 6,
+       "layer": 10
+      }
+     },
+     {
+      "gtin": 897076002003,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/FE87B58EE9FE2060642F7E462EE2E4E0.png",
+    "brand": {
+     "name": "BULLDOG",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "cest": {
+     "id": 1812,
+     "code": "0200800",
+     "description": "Gim (gin) e genebra",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 145,
+     "description": "Gin",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "GIN LONDON DRY GORDONS GARRAFA 750ML",
+    "gtin": 5000289020701,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5000289020701",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-03T21:10:02.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5000289020701,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5F829E3C22E97A09347EB092DDD2BB09.png",
+    "brand": {
+     "name": "GORDON'S",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "cest": {
+     "id": 1812,
+     "code": "0200800",
+     "description": "Gim (gin) e genebra",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 145,
+     "description": "Gin",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "GIN GV",
+    "gtin": 7896092500589,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896092500589",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T06:31:43.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896092500589,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17891046160113,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/342845AF9D7A74BFF19B1038235FD57D.png",
+    "brand": {
+     "name": "GV",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "cest": {
+     "id": 1812,
+     "code": "0200800",
+     "description": "Gim (gin) e genebra",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "GIN LONDON DRY TANQUERAY GARRAFA 750ML",
+    "gtin": 5000291020706,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5000291020706",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-09T22:24:23.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5000291020706,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/80E83AFEE314908CCF2CD9FF1497450D.png",
+    "brand": {
+     "name": "TANQUERAY",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "cest": {
+     "id": 1812,
+     "code": "0200800",
+     "description": "Gim (gin) e genebra",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 145,
+     "description": "Gin",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "GENEBRA ZORA DUBAR",
+    "gtin": 7891990000223,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7891990000223",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-10T17:59:56.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891990000223,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17891990000220,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/AE1F541679FE029D0BA439B57F185847.png",
+    "brand": {
+     "name": "DUBAR",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "category": {
+     "id": 151,
+     "description": "Cachaça",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "GIN LODON THAMES",
+    "gtin": 8003483300119,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8003483300119",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-05T03:54:25.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8003483300119,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/B0AD141FFA4B602F45E9E7D9051070D4.png",
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "category": {
+     "id": 69,
+     "description": "Destilados",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "STEINHAEGER DOBLE W MORINGA 06/",
+    "gtin": 7896029700198,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T03:47:37.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896029700198,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C00C36C27079AF1F18AC3951BE6EF78B.png",
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "cest": {
+     "id": 1812,
+     "code": "0200800",
+     "description": "Gim (gin) e genebra",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "GIN DRY SEAGERS GARRAFA 980ML",
+    "gtin": 7891121154009,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7891121154009",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-08T15:09:29.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891121154009,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17891121154006,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/42BE9E6741881C2B08F5CF627FA6B424.png",
+    "brand": {
+     "name": "SEAGERS",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "cest": {
+     "id": 1812,
+     "code": "0200800",
+     "description": "Gim (gin) e genebra",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 145,
+     "description": "Gin",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "GIN WILLIAM PEEL",
+    "gtin": 3107872700506,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T20:57:39.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3107872700506,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 63107872700508,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/D015184273905F73A84931FC31A7D647.png",
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "cest": {
+     "id": 1812,
+     "code": "0200800",
+     "description": "Gim (gin) e genebra",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "STEINHAEGER DOBLE W LUXO GARRAFA 1L",
+    "gtin": 7896029700037,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896029700037",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T03:47:34.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896029700037,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C00C36C27079AF1FB619ADB61B367275.png",
+    "brand": {
+     "name": "DOBLE W",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "cest": {
+     "id": 1812,
+     "code": "0200800",
+     "description": "Gim (gin) e genebra",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 144,
+     "description": "Vodka",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "GIN DRY ROCKS GARRAFA 1L",
+    "gtin": 7896037916123,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896037916123",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-13T14:16:49.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896037916123,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17896037916120,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 4,
+       "layer": 28
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/D4B1049FDC94A15007A2A03B0EBADC52.png",
+    "brand": {
+     "name": "ROCK'S",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "category": {
+     "id": 145,
+     "description": "Gin",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "KIT 1 STEINHAEGER 900ML + 1 CANECA DE CHOPP + 2 CANECAS DE DOSE PARA U-BOOT DOBLE W",
+    "gtin": 7896029700358,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896029700358",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T03:47:38.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896029700358,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C00C36C27079AF1F857EFDCC7D997502.png",
+    "brand": {
+     "name": "DOBLE W",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "50200000",
+     "description": "Bebidas"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "category": {
+     "id": 65,
+     "description": "Bebidas",
+     "parent_id": 210
+    }
+   },
+   {
+    "description": "STEINHAEGER DOBLE W GARRAFA 900ML",
+    "gtin": 7896029700013,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896029700013",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-08T14:13:35.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896029700013,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C00C36C27079AF1FC28E9EC77F36EA12.png",
+    "brand": {
+     "name": "DOBLE W",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "category": {
+     "id": 149,
+     "description": "Conhaque",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "GIN LONDON DRY BOMBAY SAPPHIRE GARRAFA 1,75L",
+    "gtin": 80480301002,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2015-09-16T19:19:12.000-03:00",
+    "updated_at": "2026-08-26T01:00:15.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 80480301002,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 10080480301009,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 6,
+       "ballast": 4,
+       "layer": 16
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E7F6E1D9B1EBBAF9A834054A650A3003.png",
+    "brand": {
+     "name": "BOMBAY SAPPHIR",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "category": {
+     "id": 145,
+     "description": "Gin",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "GIN LONDON DRY BOMBAY SAPPHIRE GARRAFA 750ML",
+    "gtin": 88110158606,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2015-09-16T20:18:53.000-03:00",
+    "updated_at": "2026-04-08T00:08:40.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5010677715003,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 88110158606,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 5010677715201,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 5,
+       "layer": 14
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/32A69C4176A3BC6D87435BDADC76C821.png",
+    "brand": {
+     "name": "BOMBAY",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "category": {
+     "id": 145,
+     "description": "Gin",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "GIN DRY HENDRICKS GARRAFA 750ML",
+    "gtin": 83664990436,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/83664990436",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2015-09-17T01:57:27.000-03:00",
+    "updated_at": "2026-04-28T11:11:56.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 83664990436,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 5010327755502,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 6,
+       "ballast": 6,
+       "layer": 10
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E911221BF5532724256848D410726C38.png",
+    "brand": {
+     "name": "HENDRICKS",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "category": {
+     "id": 145,
+     "description": "Gin",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "GIN ANS EXTRA",
+    "gtin": 3147690060703,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3147690060703",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2015-09-17T02:33:46.000-03:00",
+    "updated_at": "2026-08-15T19:30:37.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3147690060703,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3147691297306,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/852E1360AC3A776E8E8D24980ACB9C23.png",
+    "brand": {
+     "name": "GIBSON'S",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "category": {
+     "id": 145,
+     "description": "Gin",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "GIN GORDON'S 37,5Ø 70CL | GIN ANS EXTRA",
+    "gtin": 5000289020602,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5000289020602",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2015-09-17T04:29:39.000-03:00",
+    "updated_at": "2026-06-08T12:24:44.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5000289020602,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 5000289020725,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5F829E3C22E97A096C5BBB9C8E0011D9.png",
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    }
+   },
+   {
+    "description": "LONDON DRY GIN 1 LT",
+    "gtin": 88110110406,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/88110110406",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2015-09-17T05:53:30.000-03:00",
+    "updated_at": "2026-06-24T14:16:25.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 88110110406,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/32A69C4176A3BC6D1E2FE6508DB58926.png",
+    "brand": {
+     "name": "TANQUERAY",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    }
+   },
+   {
+    "description": "GORDON'S LONDON DRY?|1000|GIN | GIN ANS EXTRA",
+    "gtin": 5000289020800,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5000289020800",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2015-09-17T06:15:35.000-03:00",
+    "updated_at": "2026-07-27T06:22:58.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5000289020800,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5F829E3C22E97A096B4C6D44A9768DC5.png",
+    "brand": {
+     "name": "GORDON'S",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "category": {
+     "id": 69,
+     "description": "Destilados",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "BEB GIN GORDONS 750 ML",
+    "gtin": 5000289020725,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2016-01-22T20:06:46.000-02:00",
+    "updated_at": "2026-07-25T01:28:55.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5F829E3C22E97A09C9059C079AF669D6.png",
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "cest": {
+     "id": 1812,
+     "code": "0200800",
+     "description": "Gim (gin) e genebra",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "STEINHAEGER DOBLE W STANDARD 12/",
+    "gtin": 7896029700051,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2016-03-03T17:58:41.000-03:00",
+    "updated_at": "2026-07-30T03:47:35.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896029700051,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C00C36C27079AF1F25AA0E33B9C152B4.png",
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "cest": {
+     "id": 1812,
+     "code": "0200800",
+     "description": "Gim (gin) e genebra",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "GIN BULLDOG",
+    "gtin": 7896010000580,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2016-03-24T14:54:28.000-03:00",
+    "updated_at": "2026-07-30T02:17:38.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896010000580,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0C8FB3C979829BFE34D1C617F4C1B624.png",
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "cest": {
+     "id": 1812,
+     "code": "0200800",
+     "description": "Gim (gin) e genebra",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "GIN DRY DOBLE W GARRAFA 750ML",
+    "gtin": 7896029700044,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2016-04-06T00:46:38.000-03:00",
+    "updated_at": "2026-07-30T03:47:34.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896029700044,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C00C36C27079AF1F5325DE8C9A08C5EF.png",
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "category": {
+     "id": 145,
+     "description": "Gin",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "KIT STEINHAEGER 600ML",
+    "gtin": 7896029700396,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2016-04-25T14:19:17.000-03:00",
+    "updated_at": "2026-07-30T03:47:38.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896029700396,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C00C36C27079AF1F5218DB6108411A56.png",
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "cest": {
+     "id": 1812,
+     "code": "0200800",
+     "description": "Gim (gin) e genebra",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "GIN HENDRICKS GARRAFA 750ML",
+    "gtin": 5010327755014,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5010327755014",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2016-08-04T15:41:42.000-03:00",
+    "updated_at": "2026-07-25T01:29:52.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5010327755014,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/7DF0BB8799EBA3721CC246F4D89EB3A6.png",
+    "brand": {
+     "name": "HENDRICKS",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "category": {
+     "id": 145,
+     "description": "Gin",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "APERITIVO APERITZ 700ML",
+    "gtin": 8003483301109,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8003483301109",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2016-10-06T10:53:31.000-03:00",
+    "updated_at": "2026-08-05T03:54:26.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8003483301109,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/B0AD141FFA4B602F8C3AF6A3EC30782A.png",
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "category": {
+     "id": 269,
+     "description": "Aperitivos",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "GIN LONDON DRY BOMBAY SAPPHIRE GARRAFA 750ML",
+    "gtin": 7640175740047,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-03-21T17:03:55.000-03:00",
+    "updated_at": "2026-07-25T03:20:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7640175740047,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/96D5BCBCC8BA6DAB81BB4D007FE1BDA6.png",
+    "brand": {
+     "name": "BOMBAY SAPPHIRE",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "category": {
+     "id": 145,
+     "description": "Gin",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "GIN DRY MARTIN MILLERS GARRAFA 700ML",
+    "gtin": 698929000395,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/698929000395",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-04T12:02:20.000-03:00",
+    "updated_at": "2026-05-13T15:31:43.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 698929000395,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E4D11703015FC6F9BFA1B1373BA42CCA.png",
+    "ncm": {
+     "code": "22085000",
+     "description": "Gim e genebra",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Gim e genebra",
+     "ex": null
+    },
+    "category": {
+     "id": 145,
+     "description": "Gin",
+     "parent_id": 69
+    }
+   }
+  ],
+  "current_page": "1",
+  "per_page": 30,
+  "total_pages": 15,
+  "total_count": 439,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22085000/products?page=2"
+ }
+}

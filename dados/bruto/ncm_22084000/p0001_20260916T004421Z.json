@@ -1,0 +1,1467 @@
+{
+ "coleta": {
+  "fonte": "ncm:22084000",
+  "ncm": "22084000",
+  "pagina": 1,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22084000/products?page=1",
+  "coletado_em": "2026-09-16T00:44:21Z",
+  "responsavel": "PILAR"
+ },
+ "resposta": {
+  "code": "22084000",
+  "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+  "ex": null,
+  "products": [
+   {
+    "description": "AG 3 FAZENDAS 12X",
+    "gtin": 7896050200087,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-15T17:33:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896050200087,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17896050200084,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/AA0DF3E6EA8DC19170D3A6D13772A7DB.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "AGUARDENTE ALEGRIA DA ROÇA",
+    "gtin": 7898075980104,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898075980104",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-02T01:42:35.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898075980104,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 78900296321906,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 14,
+       "layer": 11
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/6CFA3D5B09B34F281E8294EEE1AAE7DC.png",
+    "brand": {
+     "name": "CACHAÇA ALEGRIA DA ROÇA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "AGUARD ATTITUDE 1L",
+    "gtin": 8579370000122,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-05T04:43:57.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8579370000122,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/11F867E637E8E4EA7562CEB0BD8F322A.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "AGUARD CANINHA DA ROCA GOLD",
+    "gtin": 7897110001699,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7897110001699",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T20:19:04.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897110001699,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5E051C4FCC9F8BAA8330AF017E935C26.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "CACHAÇA ESPÍRITO DE MINAS 750ML",
+    "gtin": 7898011450142,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898011450142",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-01T00:48:22.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898011450142,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E75125223216477260AAC56437D8BEF2.png",
+    "brand": {
+     "name": "ESPIRITO DE MINAS",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "AGUARD KIRSCH CEREJA",
+    "gtin": 3265120010149,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:05:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3265120010149,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/63412CDBCADB7BDA5281822ABD7EE82C.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "AGUARD LEAO OURO",
+    "gtin": 7896028637426,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896028637426",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T03:42:35.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 78960284865119,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896028637426,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E4B4993C678A84F2DCF23D36950CDBFF.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "AGUARD SAFRA OURO",
+    "gtin": 7897110000203,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T20:18:57.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897110000203,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5E051C4FCC9F8BAA35304FEC43B95991.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "AGUARD SAFRA OURO CARVALHO",
+    "gtin": 7897110000234,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 0,
+    "gross_weight": 0,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T20:18:58.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897110000234,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5E051C4FCC9F8BAA3AA982CB6E84F170.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "CACHAÇA ENVELHECIDA TERRA BRAZILIS GARRAFA 1L",
+    "gtin": 7896002110679,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896002110679",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T01:33:52.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896002110679,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/CC7B0173E309B632A4206D4E30E5F574.png",
+    "brand": {
+     "name": "TERRA BRAZILIS",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 151,
+     "description": "Cachaça",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "AGUARD VELHO BARREIRO GLASS PRATA - 910ML",
+    "gtin": 27896050200821,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/27896050200821/2018-04-02-10-35-28-0300",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": 910,
+    "gross_weight": 910,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2024-08-12T18:32:36.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 27896050200821,
+      "commercial_unit": {
+       "type_packaging": "Garrafa",
+       "quantity_packaging": 12,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896050200827,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/FC5B80DFCAE3CF64259B864D7BE427A5.png",
+    "brand": {
+     "name": "IRB",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "50202200",
+     "description": "Bebidas alcoólicas"
+    },
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "CACHACA 1113",
+    "gtin": 7898915283921,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T08:43:44.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898915283921,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/7125F70FA1094C0C20083ADD7EEDF65C.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "CACHACA BOAZINHA",
+    "gtin": 7898010860805,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898010860805",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-01T00:47:48.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898010860805,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7898010860812,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/2306CD7BD39143D75A7DF553BF79FD5E.png",
+    "brand": {
+     "name": "BOAZINHA COM ROSCA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 151,
+     "description": "Cachaça",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "CACHACA LEBLON",
+    "gtin": 7898924668016,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898924668016",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T09:41:00.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898924668016,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/554A13F7E28AA95CF04C03AC3C37730E.png",
+    "brand": {
+     "name": "CACHAÇA LEBLON",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "CACHAÇA CARVALHO NÊGA FULÔ GARRAFA 750ML",
+    "gtin": 7896113900022,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896113900022",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T07:21:16.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896113900022,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/49D61423E7E4467E8CC441336B1420DF.png",
+    "brand": {
+     "name": "NEGA FULO",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 151,
+     "description": "Cachaça",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "CACHAÇA IPÊ NÊGA FULÔ GARRAFA 750ML",
+    "gtin": 7896113900268,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896113900268",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T07:21:17.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896113900268,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/49D61423E7E4467E46B606CE6004EA18.png",
+    "brand": {
+     "name": "NEGA FULO",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 151,
+     "description": "Cachaça",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "CACHAÇA CLÁSSICA SANTO GRAU PARATY GARRAFA 750ML",
+    "gtin": 7898255980047,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898255980047",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-02T05:55:34.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898255980047,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17898255980044,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/7AB8F3EC09AF0C941BE4EB4D5F054647.png",
+    "brand": {
+     "name": "SANTO GRAU",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 151,
+     "description": "Cachaça",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "RUM CUBANO ENVELHECIDO HAVANA CLUB GARRAFA 750ML",
+    "gtin": 8501110080446,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8501110080446",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-05T04:43:42.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 48501110080444,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 8501110080446,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/2277B6D1388E8C82C355F5DB64ED9CC0.png",
+    "brand": {
+     "name": "HAVANA CLUB",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_havana-club"
+    },
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 146,
+     "description": "Rum",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "RUM ZACAPA CENTENARIO",
+    "gtin": 7401005004513,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T02:40:15.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7401005004513,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/CC75CED8F6C18B46185CABD6233B9A91.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "BEBIDA MISTA MARIA JOANA",
+    "gtin": 7896273100225,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896273100225",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-19T12:01:10.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896273100225,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/09E401D5FD9F055D327903D1A3BB382F.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    }
+   },
+   {
+    "description": "CACHACA CARANGUEJO",
+    "gtin": 7896087200036,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896087200036",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-18T21:58:55.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896087200036,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17896087200033,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/FDE4088CEBD85AB6F53CF0BFF04340A9.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "category": {
+     "id": 151,
+     "description": "Cachaça",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "CANINHA JAMEL 12/",
+    "gtin": 7898172660121,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-02T03:58:23.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898172660121,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/8E9B36C09B7707F5DAF1866914F1819A.png",
+    "brand": {
+     "name": "JAMEL",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "AGUARDENTE DONZELA 1L",
+    "gtin": 7898094890033,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-02T02:05:34.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898094890033,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/A178B9A6D214F184685CAB2A943D5AFC.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "AGUARDENTE MARINBONDO 1L",
+    "gtin": 7898094890019,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-12T10:04:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898094890019,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/A178B9A6D214F18438B7CF3943215DD5.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 151,
+     "description": "Cachaça",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "AG CANINHA 21 6X | CANINHA 21 PIRASSUNUNGA",
+    "gtin": 7896273100027,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896273100027",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-03T21:04:53.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896273100027,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17896273100024,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/09E401D5FD9F055DB99EF5DF87523D33.png",
+    "brand": {
+     "name": "PIRASSUNUNGA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 225,
+     "description": "Cachaça Premium",
+     "parent_id": 151
+    }
+   },
+   {
+    "description": "CACHAÇA 29 GARRAFA 600ML",
+    "gtin": 78912854,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/78912854",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-11T19:19:18.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 78912854,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C1AD871B285752D589B459AF05532D7D.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "AGUARDENTE PITU GOLD LT",
+    "gtin": 7896607100266,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896607100266",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-10T13:55:01.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896607100266,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17896607100263,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 17896607100270,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/3AD806C7A2542B57B95C980A1C0F2235.png",
+    "brand": {
+     "name": "PITÚ",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    },
+    "category": {
+     "id": 151,
+     "description": "Cachaça",
+     "parent_id": 69
+    }
+   },
+   {
+    "description": "AGUARDENTE SPIRIT C/CAFE",
+    "gtin": 7898926704019,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 1,
+    "gross_weight": 1,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T09:53:33.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898926704019,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/37AD0C19EFC5C13991C3E941EF42EE6B.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "AGUARDENTE VELHO BARREIRO OURO",
+    "gtin": 7896050200575,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T05:01:01.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896050200575,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/AA0DF3E6EA8DC191F983AC8A2628AEFB.png",
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "AGUARDENTE VELHO CARREIRO",
+    "gtin": 7898312690025,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-02T07:17:33.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898312690025,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/2D9452AEA49596B2406700CFC4A520B5.png",
+    "brand": {
+     "name": "VELHO CARREIRO",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22084000",
+     "description": "Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas. - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar",
+     "ex": null
+    },
+    "cest": {
+     "id": 1816,
+     "code": "0201200",
+     "description": "Rum",
+     "parent_id": 1656
+    }
+   }
+  ],
+  "current_page": "1",
+  "per_page": 30,
+  "total_pages": 68,
+  "total_count": 2038,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22084000/products?page=2"
+ }
+}

@@ -1,7 +1,7 @@
 name: coleta-diaria
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: {}
 
 concurrency:
   group: coleta-cosmos
@@ -18,17 +18,21 @@ jobs:
     # gravado nos dados (COLETOR_RESPONSAVEL). A lista tem de ter exatamente um nome: só uma pessoa
     # coleta por vez, cada uma com a própria conta do Cosmos.
     strategy:
+      max-parallel: 1
+      fail-fast: false
       matrix:
-        cred: [PILAR]
+        cred: [PILAR, PILLY]
 
     env:
       COSMOS_TOKEN: ${{ secrets[format('{0}_COSMOS_TOKEN', matrix.cred)] }}
       COLETOR_RESPONSAVEL: ${{ matrix.cred }}
 
     steps:
-      - uses: actions/checkout@v7
+      - name: Baixando o repositorio
+        uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v7
+      - name: Preparando Python
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 

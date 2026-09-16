@@ -52,8 +52,9 @@ python -m venv .venv
 
 ## Execução diária
 O workflow `.github/workflows/coleta.yml` só roda por `workflow_dispatch`. Ele é disparado 1x por dia pelo
-cron-job.org. O token do Cosmos fica no *secret* `PILAR_COSMOS_TOKEN`, que o workflow entrega ao coletor
-como `COSMOS_TOKEN`, junto com `COLETOR_RESPONSAVEL: PILAR`. Ao final, ele commita `dados/` e `saida/`,
+cron-job.org. O nome da pessoa aparece **uma única vez** no workflow, na linha `cred: [PILAR]`: dela saem o
+secret usado (`PILAR_COSMOS_TOKEN`, entregue ao coletor como `COSMOS_TOKEN`) e o rótulo gravado nos dados
+(`COLETOR_RESPONSAVEL`). Ao final, ele commita `dados/` e `saida/`,
 mesmo se a coleta falhar.
 
 A configuração no cron-job.org faz um POST em horário fixo diário para
@@ -74,10 +75,9 @@ Antes de mexer no repositório localmente, rode `git pull`: o workflow commita d
 Só uma pessoa coleta por vez, cada uma com a própria conta do Cosmos.
 1. Quem assume vira colaboradora do repositório e cria o *secret* dela
    (ex.: `ORIENTADORA_COSMOS_TOKEN`), em *Settings → Secrets and variables → Actions*.
-2. No `.github/workflows/coleta.yml`, troca as **3 linhas** que citam a pessoa: o secret no passo
-   "Coletar páginas do Cosmos", o `COLETOR_RESPONSAVEL` logo abaixo e o secret no passo de varredura.
-   Nenhuma linha de Python muda. Trocar o secret e esquecer o rótulo faz a coleta dela sair registrada
-   no nome anterior: as duas linhas ficam juntas justamente para não esquecer.
+2. No `.github/workflows/coleta.yml`, troca **uma palavra**: a linha `cred: [PILAR]` passa a
+   `cred: [ORIENTADORA]`. Dela saem o secret usado e o rótulo gravado nos dados, então não há como o
+   rótulo discordar do token. Nenhuma linha de Python muda, e a lista deve ter sempre um único nome.
 3. Commita a mudança. O commit fica no histórico, datado e no nome dela: é o registro de quando a coleta
    mudou de mãos.
 4. A partir da execução seguinte, os registros saem com o rótulo dela e a janela de 24 h dela começa vazia.

@@ -13,6 +13,18 @@ permissions:
 jobs:
   coletar:
     runs-on: ubuntu-latest
+
+    # SUCESSÃO: mude apenas o nome abaixo. Ele escolhe o secret <NOME>_COSMOS_TOKEN e vira o rótulo
+    # gravado nos dados (COLETOR_RESPONSAVEL). A lista tem de ter exatamente um nome: só uma pessoa
+    # coleta por vez, cada uma com a própria conta do Cosmos.
+    strategy:
+      matrix:
+        cred: [PILAR]
+
+    env:
+      COSMOS_TOKEN: ${{ secrets[format('{0}_COSMOS_TOKEN', matrix.cred)] }}
+      COLETOR_RESPONSAVEL: ${{ matrix.cred }}
+
     steps:
       - uses: actions/checkout@v7
 
@@ -20,21 +32,14 @@ jobs:
         with:
           python-version: "3.12"
 
-      # Sucessão: quem assumir a coleta cria o próprio secret (ex.: ORIENTADORA_COSMOS_TOKEN) e troca,
-      # neste arquivo, as 3 linhas que citam a pessoa: o secret aqui, o rótulo abaixo e o secret do
-      # passo de varredura. Nenhuma linha de Python muda.
-      - name: Coletar páginas do Cosmos
+      - name: Coletar páginas do Cosmos (credencial ${{ matrix.cred }})
         env:
-          COSMOS_TOKEN: ${{ secrets.PILAR_COSMOS_TOKEN }}
-          COLETOR_RESPONSAVEL: PILAR
           PYTHONUNBUFFERED: "1"
         run: python -m coletor
 
       - name: Verificar que o token não vazou nos dados
         if: always()
         id: varredura
-        env:
-          COSMOS_TOKEN: ${{ secrets.PILAR_COSMOS_TOKEN }}
         run: |
           mkdir -p dados saida
           if [ -n "$COSMOS_TOKEN" ] && grep -R -F -q -- "$COSMOS_TOKEN" dados saida; then

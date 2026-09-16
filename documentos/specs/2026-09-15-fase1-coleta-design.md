@@ -223,7 +223,7 @@ Refazer um NCM é **decisão manual**.
 - Passos:
   1. checkout;
   2. Python 3.12;
-  3. `python -m coletor`, com `COSMOS_TOKEN` vindo de `secrets.PILAR_COSMOS_TOKEN` e `COLETOR_RESPONSAVEL: PILAR` (ver §13);
+  3. `python -m coletor`, com `COSMOS_TOKEN` e `COLETOR_RESPONSAVEL` vindos do `env` do job (ver §13);
   4. **commit e push de `dados/` e `saida/` com `if: always()`**, somente se houver mudanças.
 - O token do Cosmos só existe como *secret* e nunca é impresso. Na sucessão, troca-se o nome do secret nas duas linhas que o citam (§13).
 
@@ -293,8 +293,11 @@ Aprovada pela Pilar depois das revisões finais, antes da primeira coleta real (
 
 - **Token e responsável em variáveis de nomes fixos** (simplificado em 15/09/2026, a pedido da Pilar):
   o coletor lê `COSMOS_TOKEN` (valor do secret) e `COLETOR_RESPONSAVEL` (rótulo de quem coleta). Ambos
-  obrigatórios; faltando um, erro de configuração e nenhuma consulta. O nome do secret com a pessoa
-  (`PILAR_COSMOS_TOKEN`) fica só no `coleta.yml`, que o entrega como `COSMOS_TOKEN`.
+  obrigatórios; faltando um, erro de configuração e nenhuma consulta. O nome da pessoa vive só no
+  `coleta.yml`, em `strategy.matrix.cred` (lista de um único nome): dele saem
+  `COSMOS_TOKEN: ${{ secrets[format('{0}_COSMOS_TOKEN', matrix.cred)] }}` e
+  `COLETOR_RESPONSAVEL: ${{ matrix.cred }}`, ambos no `env` do job. Padrão confirmado por um workflow em
+  produção da Pilar (coleta do Spotify).
 - **`Config.responsavel`:** vem de `COLETOR_RESPONSAVEL`.
 - **Estado versão 2:** `consultas` passou de lista para dicionário `{<RÓTULO>: [horários]}`. A janela de
   24 consultas em 24 h é contada **por responsável**, então quem assume a coleta começa com a janela vazia.
@@ -302,9 +305,8 @@ Aprovada pela Pilar depois das revisões finais, antes da primeira coleta real (
 - **Registro do responsável:** campo `responsavel` no bloco `coleta` de cada página bruta, coluna
   `responsavel` em `produtos.csv`, `gtins.csv` e `execucoes.csv` (páginas antigas sem o campo viram `""`).
 - **Sucessão:** só uma pessoa coleta por vez, cada uma com a própria conta. Quem assume cria o secret dela e
-  troca 3 linhas do `coleta.yml` (secret do passo de coleta, `COLETOR_RESPONSAVEL` e secret da varredura),
-  commitando — o commit fica como registro datado da troca. Passo a passo no README.
-  Risco aceito: rótulo e secret são campos independentes, então trocar um e esquecer o outro atribui a
-  coleta à pessoa errada; por isso as duas linhas ficam adjacentes e o README avisa.
+  troca **uma palavra** no `coleta.yml` (`cred: [PILAR]` → `cred: [ORIENTADORA]`), commitando — o commit fica
+  como registro datado da troca. Como secret e rótulo derivam da mesma palavra, o rótulo nunca discorda do
+  token usado. Passo a passo no README.
 - **Motivo:** identificar nos dados quem coletou o quê (rastreabilidade para o artigo) sem que ninguém
   compartilhe credenciais, e evitar que as consultas de uma pessoa bloqueiem a cota da outra.

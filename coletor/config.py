@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 import csv
-import re
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Mapping
@@ -29,22 +28,15 @@ class Config:
     raiz: Path
 
 
-_PADRAO_TOKEN = re.compile(r"^(?P<rotulo>[A-Z0-9][A-Z0-9_]*)_COSMOS_TOKEN$")
-
-
 def encontrar_token(ambiente: Mapping[str, str]) -> tuple[str, str]:
-    encontrados = []
-    for chave, valor in ambiente.items():
-        casamento = _PADRAO_TOKEN.match(chave)
-        if casamento and valor.strip():
-            encontrados.append((casamento.group("rotulo"), valor.strip(), chave))
-    if not encontrados:
-        raise ConfigInvalida("nenhum <RÓTULO>_COSMOS_TOKEN definido (ex.: PILAR_COSMOS_TOKEN), no ambiente ou no .env")
-    if len(encontrados) > 1:
-        nomes = ", ".join(sorted(chave for _, _, chave in encontrados))
-        raise ConfigInvalida(f"mais de um <RÓTULO>_COSMOS_TOKEN definido: {nomes}; use apenas um por execução")
-    rotulo, valor, _ = encontrados[0]
-    return rotulo, valor
+    """Devolve (responsável, token). O nome do secret fica no workflow; aqui os nomes são fixos."""
+    token = ambiente.get("COSMOS_TOKEN", "").strip()
+    responsavel = ambiente.get("COLETOR_RESPONSAVEL", "").strip()
+    if not token:
+        raise ConfigInvalida("COSMOS_TOKEN não definido (variável de ambiente ou arquivo .env)")
+    if not responsavel:
+        raise ConfigInvalida("COLETOR_RESPONSAVEL não definido (ex.: PILAR); identifica quem coletou")
+    return responsavel, token
 
 
 def carregar_ncms(caminho: Path) -> tuple[NcmAlvo, ...]:

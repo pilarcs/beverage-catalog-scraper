@@ -56,7 +56,7 @@ def test_ler_arquivo_env_inexistente(tmp_path):
 
 def test_carregar_config_usa_padroes(tmp_path):
     _csv(tmp_path, "ncm;descricao;status\n22030000;Cerveja;alvo\n")
-    config = carregar_config(tmp_path, {"PILAR_COSMOS_TOKEN": "tk"})
+    config = carregar_config(tmp_path, {"COSMOS_TOKEN": "tk", "COLETOR_RESPONSAVEL": "PILAR"})
     assert (config.token, config.responsavel, config.limite_consultas, config.espera_maxima_min, config.raiz) == (
         "tk", "PILAR", 24, 120, tmp_path,
     )
@@ -65,7 +65,8 @@ def test_carregar_config_usa_padroes(tmp_path):
 def test_carregar_config_aceita_valores_do_ambiente(tmp_path):
     _csv(tmp_path, "ncm;descricao;status\n22030000;Cerveja;alvo\n")
     config = carregar_config(
-        tmp_path, {"PILAR_COSMOS_TOKEN": "tk", "LIMITE_CONSULTAS": "10", "ESPERA_MAXIMA_MIN": "0"}
+        tmp_path,
+        {"COSMOS_TOKEN": "tk", "COLETOR_RESPONSAVEL": "PILAR", "LIMITE_CONSULTAS": "10", "ESPERA_MAXIMA_MIN": "0"},
     )
     assert (config.limite_consultas, config.espera_maxima_min) == (10, 0)
 
@@ -74,12 +75,12 @@ def test_carregar_config_aceita_valores_do_ambiente(tmp_path):
     "ambiente",
     [
         {},
-        {"PILAR_COSMOS_TOKEN": "  "},
-        {"COSMOS_TOKEN": "tk"},
-        {"PILAR_COSMOS_TOKEN": "tk", "LIMITE_CONSULTAS": "26"},
-        {"PILAR_COSMOS_TOKEN": "tk", "LIMITE_CONSULTAS": "0"},
-        {"PILAR_COSMOS_TOKEN": "tk", "LIMITE_CONSULTAS": "vinte"},
-        {"PILAR_COSMOS_TOKEN": "tk", "ESPERA_MAXIMA_MIN": "-1"},
+        {"COSMOS_TOKEN": "  ", "COLETOR_RESPONSAVEL": "PILAR"},
+        {"COSMOS_TOKEN": "tk"},  # sem COLETOR_RESPONSAVEL
+        {"COSMOS_TOKEN": "tk", "COLETOR_RESPONSAVEL": "PILAR", "LIMITE_CONSULTAS": "26"},
+        {"COSMOS_TOKEN": "tk", "COLETOR_RESPONSAVEL": "PILAR", "LIMITE_CONSULTAS": "0"},
+        {"COSMOS_TOKEN": "tk", "COLETOR_RESPONSAVEL": "PILAR", "LIMITE_CONSULTAS": "vinte"},
+        {"COSMOS_TOKEN": "tk", "COLETOR_RESPONSAVEL": "PILAR", "ESPERA_MAXIMA_MIN": "-1"},
     ],
 )
 def test_carregar_config_rejeita_valores_invalidos(tmp_path, ambiente):
@@ -88,27 +89,26 @@ def test_carregar_config_rejeita_valores_invalidos(tmp_path, ambiente):
         carregar_config(tmp_path, ambiente)
 
 
-def test_encontrar_token_um_rotulo_valido():
-    assert encontrar_token({"PILAR_COSMOS_TOKEN": "tk"}) == ("PILAR", "tk")
+def test_encontrar_token_le_nomes_fixos():
+    assert encontrar_token({"COSMOS_TOKEN": " tk ", "COLETOR_RESPONSAVEL": " PILAR "}) == ("PILAR", "tk")
 
 
-def test_encontrar_token_nenhum_definido():
-    with pytest.raises(ConfigInvalida) as excinfo:
-        encontrar_token({})
-    assert str(excinfo.value) == "nenhum <RÓTULO>_COSMOS_TOKEN definido (ex.: PILAR_COSMOS_TOKEN), no ambiente ou no .env"
-
-
-def test_encontrar_token_mais_de_um_definido_cita_os_dois_em_ordem():
-    with pytest.raises(ConfigInvalida) as excinfo:
-        encontrar_token({"B_COSMOS_TOKEN": "y", "A_COSMOS_TOKEN": "x"})
-    assert str(excinfo.value) == "mais de um <RÓTULO>_COSMOS_TOKEN definido: A_COSMOS_TOKEN, B_COSMOS_TOKEN; use apenas um por execução"
-
-
-def test_encontrar_token_valor_so_com_espacos_e_ignorado():
-    assert encontrar_token({"PILAR_COSMOS_TOKEN": "   ", "ORIENTADORA_COSMOS_TOKEN": "tk"}) == ("ORIENTADORA", "tk")
-
-
-@pytest.mark.parametrize("chave", ["cosmos_token", "_COSMOS_TOKEN", "PILAR_COSMOS_TOKEN_X"])
-def test_encontrar_token_chave_invalida_nao_e_aceita(chave):
+@pytest.mark.parametrize(
+    "ambiente",
+    [
+        {},
+        {"COLETOR_RESPONSAVEL": "PILAR"},
+        {"COSMOS_TOKEN": "   ", "COLETOR_RESPONSAVEL": "PILAR"},
+        {"COSMOS_TOKEN": "tk"},  # sem COLETOR_RESPONSAVEL
+        {"COSMOS_TOKEN": "tk", "COLETOR_RESPONSAVEL": "  "},
+    ],
+)
+def test_encontrar_token_exige_token_e_responsavel(ambiente):
     with pytest.raises(ConfigInvalida):
-        encontrar_token({chave: "tk"})
+        encontrar_token(ambiente)
+
+
+def test_encontrar_token_nao_vaza_o_token_na_mensagem():
+    with pytest.raises(ConfigInvalida) as excinfo:
+        encontrar_token({"COSMOS_TOKEN": "segredo-123"})
+    assert "segredo-123" not in str(excinfo.value)

@@ -95,3 +95,11 @@ def test_anterior_sem_valor_devolve_2(tmp_path, capsys):
     codigo = entrada.main(raiz=_raiz(tmp_path), ambiente={}, argv=["--reconciliar", "--anterior"], instalar_sinais=False)
     assert codigo == 2
     assert capsys.readouterr().err
+
+
+def test_anterior_sem_reconciliar_e_argumento_invalido(tmp_path, capsys):
+    codigo = entrada.main(
+        raiz=_raiz(tmp_path), ambiente={}, argv=["--anterior", str(tmp_path)], instalar_sinais=False
+    )
+    assert codigo == 2
+    assert "Argumento inválido" in capsys.readouterr().err

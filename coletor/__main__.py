@@ -36,6 +36,8 @@ def _analisar_argv(argv: Sequence[str]) -> tuple[bool, Path | None] | None:
             indice += 2
         else:
             return None
+    if anterior is not None and not reconciliar_flag:
+        return None
     return reconciliar_flag, anterior
 
 

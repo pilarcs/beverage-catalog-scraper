@@ -255,3 +255,28 @@ def test_reconciliar_estado_corrompido_levanta_estado_invalido(tmp_path):
     (raiz / "dados" / "estado.json").write_text("{não é json", encoding="utf-8")
     with pytest.raises(EstadoInvalido):
         reconciliar(raiz, None)
+
+
+def test_reconciliar_nao_inventa_conclusao_sem_a_pagina_no_disco(tmp_path):
+    """Estado diz que a última página é a 3, mas só a 1 existe no disco: não marca concluído."""
+    raiz = tmp_path / "raiz"
+    _ncms_csv(raiz)
+    estado_mod.salvar(
+        raiz / "dados" / "estado.json",
+        _estado_com(
+            {},
+            {
+                "22030000": {
+                    "ultima_pagina": 3, "total_paginas": 3, "total_produtos": 6,
+                    "total_lido_em": "2026-09-16T06:00:00Z", "concluido_em": None,
+                }
+            },
+        ),
+    )
+    _gravar_pagina(raiz, "22030000", 1, 3, "2026-09-16T06:01:00Z")
+
+    reconciliar(raiz, None)
+
+    info = estado_mod.info_ncm(estado_mod.carregar(raiz / "dados" / "estado.json"), "22030000")
+    assert info["ultima_pagina"] == 3
+    assert info["concluido_em"] is None

@@ -89,8 +89,10 @@ jobs:
           echo "::error::Não foi possível salvar os dados após 5 tentativas."
           exit 1
 
+      # Só guarda o artifact se a varredura do token passou: se ela falhou, os arquivos podem conter
+      # o token, e publicá-los como artifact num repositório público seria o mesmo vazamento.
       - name: Guardar dados como artifact se algo falhar
-        if: failure()
+        if: ${{ failure() && steps.varredura.outcome == 'success' }}
         uses: actions/upload-artifact@v7
         with:
           name: dados-${{ github.run_id }}

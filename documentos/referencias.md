@@ -34,6 +34,7 @@ bibliográficas e para a reprodutibilidade.
 | 20 | 2026-09-15 | Claude | WebFetch | https://docs.github.com/en/account-and-profile/reference/permission-levels-for-a-personal-account-repository | Níveis de permissão em repositório de conta pessoal (a página não trata de secrets/variáveis do Actions) |
 | 21 | 2026-09-15 | Claude | WebFetch | https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/use-secrets | Secrets: em repositório de conta pessoal, colaboradores podem criar/atualizar; o workflow lê o valor atual via contexto `secrets`; secret não definido vira texto vazio |
 | 22 | 2026-09-15 | Claude | WebFetch | https://docs.github.com/en/actions/reference/workflows-and-actions/contexts | Contextos do Actions: sintaxe de índice, disponibilidade de `env`/`vars` em `steps[*].env`; a página não confirma acesso a secret por nome dinâmico (`secrets[format(...)]`), por isso não foi usado |
+| 23 | 2026-09-15 | Claude | WebFetch | https://docs.cron-job.org/rest-api.html | cron-job.org: não há configuração de códigos HTTP aceitos; 2xx (inclusive 204) já é sucesso, e `redirectSuccess` trata apenas 3xx |
 
 As datas dos acessos 1 e 3 foram confirmadas pela Pilar em 2026-09-15.
 

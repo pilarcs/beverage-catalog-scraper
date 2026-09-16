@@ -6,7 +6,9 @@ cadastrados nos NCMs de bebidas alcoólicas vendidas ao consumidor final (e cerv
 ## Fonte e limites
 - Os dados vêm do Bluesoft Cosmos, uma base **colaborativa**: podem conter erros, duplicatas e lacunas.
 - O uso está sujeito aos [Termos de Uso do Cosmos](https://cosmos.bluesoft.com.br/termos_de_servico).
-- Plano gratuito da API: 25 consultas/dia. O coletor usa **no máximo 24 por janela de 24 h**.
+- Plano gratuito da API: 25 consultas/dia. O coletor usa **no máximo 23 por janela de 24 h** — não 24: em
+  16/09/2026 a 25ª consulta do dia recebeu HTTP 429, então 24 não deixava folga para requisições que o
+  Cosmos conte e nós não.
 
 ## Estrutura
 | Caminho | Conteúdo |
@@ -42,7 +44,7 @@ python -m venv .venv
    COLETOR_RESPONSAVEL=PILAR
    ```
    - `COLETOR_RESPONSAVEL` identifica **quem coletou**: é gravado em cada página bruta e nas colunas de
-     `produtos.csv`, `gtins.csv` e `execucoes.csv`. A cota de 24 consultas por 24 h é contada **por responsável**.
+     `produtos.csv`, `gtins.csv` e `execucoes.csv`. A cota de 23 consultas por 24 h é contada **por responsável**.
    - Os dois são obrigatórios: sem um deles, o coletor para com erro de configuração e não consulta a API.
 2. Rode `.venv/Scripts/python -m coletor`.
 
@@ -56,6 +58,12 @@ cron-job.org. O nome da pessoa aparece **uma única vez** no workflow, na linha 
 secret usado (`PILAR_COSMOS_TOKEN`, entregue ao coletor como `COSMOS_TOKEN`) e o rótulo gravado nos dados
 (`COLETOR_RESPONSAVEL`). Ao final, ele commita `dados/` e `saida/`,
 mesmo se a coleta falhar.
+
+Se o `git push` falhar (por exemplo, duas execuções coincidindo e criando os mesmos arquivos), o workflow
+reconcilia: as páginas brutas nunca conflitam, o `estado.json` é fundido (união das consultas por
+responsável, maior página por NCM) e os CSVs derivados são regerados a partir do bruto — e tenta de novo,
+até 5 vezes. Se ainda assim falhar, os dados daquela execução ficam disponíveis como *artifact* da execução
+(aba Actions, 30 dias de retenção).
 
 A configuração no cron-job.org faz um POST em horário fixo diário para
 `https://api.github.com/repos/pilarcs/webscrapping-bev/actions/workflows/coleta.yml/dispatches`, com os

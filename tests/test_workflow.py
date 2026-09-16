@@ -21,3 +21,8 @@ def test_workflow_so_por_disparo_sem_concorrencia_e_commit_sempre():
     assert "mkdir -p dados saida" in conteudo
     assert "grep -R -F" in conteudo
     assert "steps.varredura.outcome == 'success'" in conteudo
+    assert "python -m coletor --reconciliar --anterior" in conteudo
+    assert "git reset --hard origin/main" in conteudo
+    assert "actions/upload-artifact@v7" in conteudo
+    assert "if: failure()" in conteudo
+    assert "for tentativa in 1 2 3 4 5" in conteudo

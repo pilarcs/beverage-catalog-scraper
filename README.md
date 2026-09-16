@@ -66,7 +66,7 @@ até 5 vezes. Se ainda assim falhar, os dados daquela execução ficam disponív
 (aba Actions, 30 dias de retenção).
 
 A configuração no cron-job.org faz um POST em horário fixo diário para
-`https://api.github.com/repos/pilarcs/webscrapping-bev/actions/workflows/coleta.yml/dispatches`, com os
+`https://api.github.com/repos/pilarcs/beverage-catalog-scraper/actions/workflows/coleta.yml/dispatches`, com os
 cabeçalhos:
 - `Authorization: Bearer <token do GitHub, fine-grained, restrito a este repositório, permissão Actions: Read and write>`
 - `Accept: application/vnd.github+json`

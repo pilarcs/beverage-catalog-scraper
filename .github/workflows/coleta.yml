@@ -21,7 +21,7 @@ jobs:
       max-parallel: 1
       fail-fast: false
       matrix:
-        cred: [PILAR, PILLY]
+        cred: [PILAR, PILLY, DOUGLAS]
 
     env:
       COSMOS_TOKEN: ${{ secrets[format('{0}_COSMOS_TOKEN', matrix.cred)] }}

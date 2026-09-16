@@ -40,7 +40,7 @@ A Fase 1 está **concluída** quando:
 
 | Restrição | Origem |
 |---|---|
-| Máximo de **24 consultas por janela móvel de 24 h** | Plano gratuito = 25/dia; 1 de folga (D9, D18, D20) |
+| Máximo de **23 consultas por janela móvel de 24 h** (alterado em 16/09/2026, ver §14; era 24) | Plano gratuito = 25/dia; a 25ª consulta do dia recebeu HTTP 429 em 16/09/2026 (fato verificado, ver §14) |
 | Paginação fixa de 30 itens; NCM só com 8 dígitos | Fatos verificados (plano, seção 3) |
 | **Uma única conta e um único token** (nomeado `<RÓTULO>_COSMOS_TOKEN`, alterado em 15/09/2026, ver §13) | Termos de Uso (D12) |
 | Repositório **público** (código e dados); segredos nunca no repositório | D21 |
@@ -97,11 +97,11 @@ daquele NCM. Se o total crescer durante a coleta, as páginas novas também são
 ### 5.2 Cota (D18, D20)
 - Cada **requisição HTTP enviada** (inclusive novas tentativas e as que retornam erro) tem o horário registrado em `estado.consultas[<RÓTULO>]` (alterado em 15/09/2026, ver §13: janela por responsável).
   O histórico guarda as últimas 48 h.
-- Antes de cada requisição: se houve **≥ 24 requisições nas últimas 24 h**:
+- Antes de cada requisição: se houve **≥ 23 requisições nas últimas 24 h** (padrão alterado em 16/09/2026, ver §14; era 24):
   - se a mais antiga da janela libera em **≤ 120 minutos** (`ESPERA_MAXIMA_MIN`), o coletor **espera** e continua;
     isso cobre um eventual atraso na fila do GitHub depois do disparo;
   - senão, para com motivo `limite` (execução com sucesso).
-- `LIMITE_CONSULTAS` (padrão 24) e `ESPERA_MAXIMA_MIN` (padrão 120) são configuráveis por variável de ambiente.
+- `LIMITE_CONSULTAS` (padrão 23) e `ESPERA_MAXIMA_MIN` (padrão 120) são configuráveis por variável de ambiente.
 - HTTP 429 é tratado como proteção extra: para com motivo `429` (sucesso) e registra o horário.
 
 ### 5.3 Estado — `dados/estado.json`
@@ -310,3 +310,44 @@ Aprovada pela Pilar depois das revisões finais, antes da primeira coleta real (
   token usado. Passo a passo no README.
 - **Motivo:** identificar nos dados quem coletou o quê (rastreabilidade para o artigo) sem que ninguém
   compartilhe credenciais, e evitar que as consultas de uma pessoa bloqueiem a cota da outra.
+
+## 14. Alteração aprovada em 16/09/2026 — reconciliação e limite 23
+
+Aprovada pela Pilar em 16/09/2026, depois de um teste real com dois disparos simultâneos do workflow.
+
+**Defeito observado:** as duas execuções partiram do mesmo commit, sem `dados/`/`saida/` locais, e ambas
+**criaram** os mesmos arquivos (páginas brutas à parte, que nunca conflitam — nome único
+`p{pagina:04d}_{UTC}.json`). O `git pull --rebase` do passo "Salvar dados no repositório" parou em conflito
+`add/add` em `dados/estado.json` e nos 4 CSVs; as tentativas seguintes falhavam com "Pulling is not possible
+because you have unmerged files". Na mesma execução de teste, a **25ª consulta do dia recebeu HTTP 429**
+(fato verificado; ajusta a seção 3).
+
+**Regra de fusão do estado** (`coletor/reconciliar.py`, sem nenhuma chamada à API):
+- `consultas`: por responsável, **união** dos horários (sem duplicatas), em ordem crescente — o lado seguro,
+  pois no máximo o coletor acha que gastou mais cota do que gastou.
+- `ncms`: para cada NCM presente em qualquer um dos dois estados, `ultima_pagina` = maior valor; os campos
+  `total_paginas`, `total_produtos` e `total_lido_em` vêm do estado cujo `total_lido_em` é mais recente
+  (comparação de strings ISO; ausência conta como mais antiga); `concluido_em` = o primeiro não nulo,
+  preferindo o mais antigo, para não reescrever uma data de conclusão já registrada.
+- Depois da fusão, `ultima_pagina` de cada NCM sobe, se necessário, até a maior página realmente presente em
+  `dados/bruto/ncm_<ncm>/` (as páginas brutas dos dois estados já foram unificadas nesse diretório pelo
+  workflow, antes de chamar a reconciliação). Se isso completar o NCM (`ultima_pagina ≥ total_paginas > 0`)
+  e `concluido_em` ainda for nulo, ele recebe o `coletado_em` dessa última página.
+
+**Regeneração dos CSVs:** `produtos.csv`, `gtins.csv` e `conferencia_ncm.csv` são sempre regerados a partir
+de todo o bruto em disco (`exportar.gerar_csvs`), usando os NCMs de `ncms_alvo.csv` — sem exigir
+`COSMOS_TOKEN` nem `carregar_config`, porque reconciliar não consulta a API. `execucoes.csv`, quando existe
+uma cópia anterior, é fundido por concatenação, deduplicação exata (mesma tupla de `exportar.COLUNAS_EXECUCOES`)
+e ordenação por `inicio`.
+
+**Laço de 5 tentativas e artifact de segurança** (`.github/workflows/coleta.yml`): a cada falha de
+`git pull --rebase && git push`, o workflow aborta o rebase, copia `dados/`/`saida/` atuais para
+`$RUNNER_TEMP/anterior`, faz `git fetch` + `git reset --hard origin/main`, restaura o bruto acumulado, roda
+`python -m coletor --reconciliar --anterior "$RUNNER_TEMP/anterior"` e tenta commitar e empurrar de novo —
+até 5 vezes no total. Se as 5 tentativas falharem, o job termina com erro e, como rede de segurança, o
+último passo (`if: failure()`) guarda `dados/` e `saida/` como *artifact* da execução
+(`actions/upload-artifact@v7`, 30 dias de retenção), para não perder o que foi coletado.
+
+**Limite padrão 23:** `LIMITE_CONSULTAS` passa de 24 para 23 (faixa continua 1–25). Motivo: em 16/09/2026 a
+25ª consulta do dia recebeu HTTP 429, então 24 não deixava folga para requisições que o Cosmos conte e que
+o coletor não contava (ex.: novas tentativas descartadas antes de registrar o horário). Ajusta a seção 5.2.

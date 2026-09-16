@@ -155,6 +155,25 @@ def test_reconciliar_concluido_em_prefere_o_mais_antigo_quando_os_dois_existem(t
     assert info["concluido_em"] == "2026-09-16T08:00:00Z"
 
 
+def test_reconciliar_ncm_presente_em_um_so_lado_e_mantido_como_esta(tmp_path):
+    raiz, anterior = tmp_path / "raiz", tmp_path / "anterior"
+    _ncms_csv(raiz)
+    info_so_no_atual = {
+        "ultima_pagina": 2, "total_paginas": 5, "total_produtos": 50,
+        "total_lido_em": "2026-09-16T06:00:00Z", "concluido_em": None,
+    }
+    info_so_no_anterior = {
+        "ultima_pagina": 3, "total_paginas": 4, "total_produtos": 40,
+        "total_lido_em": "2026-09-16T05:00:00Z", "concluido_em": None,
+    }
+    estado_mod.salvar(raiz / "dados" / "estado.json", _estado_com({}, {"22030000": info_so_no_atual}))
+    estado_mod.salvar(anterior / "dados" / "estado.json", _estado_com({}, {"22085000": info_so_no_anterior}))
+    reconciliar(raiz, anterior)
+    estado = estado_mod.carregar(raiz / "dados" / "estado.json")
+    assert estado_mod.info_ncm(estado, "22030000") == info_so_no_atual
+    assert estado_mod.info_ncm(estado, "22085000") == info_so_no_anterior
+
+
 def test_reconciliar_ultima_pagina_sobe_conforme_bruto_no_disco(tmp_path):
     raiz = tmp_path / "raiz"
     _ncms_csv(raiz)

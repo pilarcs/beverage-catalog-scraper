@@ -62,6 +62,8 @@ A configuração no cron-job.org faz um POST em horário fixo diário para
 cabeçalhos:
 - `Authorization: Bearer <token do GitHub, fine-grained, restrito a este repositório, permissão Actions: Read and write>`
 - `Accept: application/vnd.github+json`
+- `X-GitHub-Api-Version: <versão indicada na documentação do endpoint>` — opcional, mas recomendado:
+  fixa a versão da API e evita surpresa se o padrão mudar
 
 e corpo `{"ref":"main"}`. Qualquer resposta `2xx` é considerada sucesso (o disparo é assíncrono; o resultado da
 coleta em si só aparece depois, na aba Actions do repositório).

@@ -1,0 +1,1246 @@
+{
+ "coleta": {
+  "fonte": "ncm:22030000",
+  "ncm": "22030000",
+  "pagina": 30,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22030000/products?page=30",
+  "coletado_em": "2026-09-17T02:46:15Z",
+  "responsavel": "DOUGLAS"
+ },
+ "resposta": {
+  "code": "22030000",
+  "description": "Cervejas de malte.",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+  "ex": null,
+  "products": [
+   {
+    "description": "CERVEJA CRYSTAL",
+    "gtin": 7897395050108,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7897395050108",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T21:46:13.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395050108,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54ADD8153BF0DCDEC8F0.png",
+    "brand": {
+     "name": "CRYSTAL",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA PILSEN GLACIAL GARRAFA 600ML",
+    "gtin": 7896052601660,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896052601660",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T05:07:26.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896052601660,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/860C7AB87C58E0E790E272682DCA1219.png",
+    "brand": {
+     "name": "GLACIAL",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA HEINEKEN MISTA CARTONADA C/8",
+    "gtin": 7898196701657,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-02T04:33:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898196701657,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F5438F6BC6461A24C60990DE38538AF3.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "ISENBECK PREMIUM GARRAFA 1 UNIDADE",
+    "gtin": 7795697104928,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/isenbeck-premium-garrafa-1000-ml-1-unidade_600x600-PU63a4d_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:41:42.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7795697104928,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0A93F2FDDB5A03C4872F66011F299BF1.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA KAISER BOCK",
+    "gtin": 78904675,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 600,
+    "gross_weight": 630,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-14T10:52:44.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 78904675,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C1AD871B285752D57F5CA97867B9E7A5.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA KAISER BOCK L NECK",
+    "gtin": 78908635,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-14T10:53:42.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 78908635,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896045534562,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C1AD871B285752D52A4CA1A1768810E7.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA KAISER GOLD",
+    "gtin": 78904996,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-14T10:52:49.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 78904996,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C1AD871B285752D5C724B541B438E250.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "KAISER GOLD EXTRA LATA 1 UNIDADE",
+    "gtin": 7896045501564,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/kaiser-gold-extra-lata-350-ml-1-unidade_600x600-PU5f449_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T04:51:27.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896045501564,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896045502028,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/766E2F51169495DDD3D4A26F1F522FE3.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "SMARTSHAKE V2 NEON YELLOW - SMARTSHAKE",
+    "gtin": 78908628,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/78908628",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-14T10:53:39.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 78908628,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896045512768,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 7896045572762,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C1AD871B285752D557F1DB25F0FB89E4.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA KAISER L NECK C/6",
+    "gtin": 7896045512768,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T04:52:01.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/766E2F51169495DD0E90DC77CB46588B.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "KAISER PILSEN LATA 12 UNIDADES",
+    "gtin": 7896045500116,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/kaiser-pilsen-lata-350-ml-12-unidades_100x100-PU5e1e5_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-03T10:01:05.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896045501489,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896045512393,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/766E2F51169495DD0AC33B2ED3E60E4D.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA KAISER LATA LV15 PG14",
+    "gtin": 7896045504077,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": 350,
+    "gross_weight": 350,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T04:51:39.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896045504077,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/766E2F51169495DDD028A7E030A08A16.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA KAISER LATA CAIXA/6",
+    "gtin": 7896045503834,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T04:51:38.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896045503834,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/766E2F51169495DD050FBEDAAA74DF28.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "KAISER PILSEN LATA 6 UNIDADES",
+    "gtin": 7896045503070,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/kaiser-pilsen-lata-500-ml-6-unidades_100x100-PU748c2_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T04:51:32.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/766E2F51169495DD99DF4A732062152E.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA KAISER SUMMER L NECK",
+    "gtin": 78908659,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-14T10:53:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 78908659,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896045591732,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C1AD871B285752D5264D3F478C467F96.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "KAISER SUMMER DRAFT LA||BEER",
+    "gtin": 7896045500185,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T04:51:21.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/766E2F51169495DD6498178B453DDE78.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "KRONEINBIER LATA||BEER",
+    "gtin": 7891991005425,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-27T02:14:10.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891991002363,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7891991005425,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9C81941DB3CA23F6DBEB4AEBBA376F8C.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA KRONEMBIER S/ALC LATA CAIXA/12",
+    "gtin": 7891991002349,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-27T02:13:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9C81941DB3CA23F6E02A21DBE34D27F9.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA S/ALCOOL KRONENBIER 35",
+    "gtin": 7891991003544,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-27T02:14:01.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9C81941DB3CA23F6119CE63DCA50CD4B.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "LEFFE BLONDE ALE LONG NECK 1 UNIDADE",
+    "gtin": 5410228142089,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/leffe-blonde-ale-long-neck-330-ml-1-unidade_600x600-PU5dd7a_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:41:12.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5410228142089,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/FDD00F532149F73A630B3F58D590A700.png",
+    "brand": {
+     "name": "LEFFE BLONDE",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "LEFFE BROWN",
+    "gtin": 5410228146162,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5410228146162",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:41:13.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5410228146162,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 5410228853039,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 6,
+       "layer": 12
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/FDD00F532149F73A99BE2BBBED9CBD3C.png",
+    "brand": {
+     "name": "LEFFE BRUNE",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 203,
+     "description": "Cervejas",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "CERVEJA OPA BIER PILSEN",
+    "gtin": 7898921091053,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898921091053",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T09:20:07.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898921091053,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/D1CD2F5F4457488B021B4735DEC971B9.png",
+    "brand": {
+     "name": "OPA BIER",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA OPA BIER PORTER",
+    "gtin": 7898921091107,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898921091107",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T09:20:07.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898921091107,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/D1CD2F5F4457488B1DFDCD52CA3D59AC.png",
+    "brand": {
+     "name": "OPA BIER",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA OPA BIER WEIZEN",
+    "gtin": 7898921091145,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898921091145",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T09:20:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898921091145,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/D1CD2F5F4457488BC5F389295C5B1B83.png",
+    "brand": {
+     "name": "OPA BIER",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA PATRICIA ONE WAY",
+    "gtin": 7730400000050,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 1,
+    "gross_weight": 1,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:25:55.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7730400000050,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9623091C342CFDBF13FADA3F3E80038A.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA SANTA CERVEJAA PILSEN",
+    "gtin": 78906594,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-14T10:53:30.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 78906594,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C1AD871B285752D58401D9770BDF0E91.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "MALZIBIER SCHINCARIOL",
+    "gtin": 7896052600311,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896052600311",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T05:07:02.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896052600311,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/860C7AB87C58E0E725580A5738291CCF.png",
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "NOVA SCHIN MALZBIER LATA 1 UNIDADE",
+    "gtin": 7896052601837,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/nova-schin-malzbier-lata-350-ml-1-unidade_100x100-PU5db24_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T05:07:29.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896052601837,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896052601844,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/860C7AB87C58E0E7FE3ACAB70187BC63.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 203,
+     "description": "Cervejas",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "NOVA SCHIN PILSEN GARRAFA 1 UNIDADE",
+    "gtin": 7896052600274,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/nova-schin-pilsen-garrafa-600-ml-1-unidade_600x600-PU748e4_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T05:07:01.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896052600274,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/860C7AB87C58E0E729E5DC867582F7E2.png",
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA SKOL 360",
+    "gtin": 7891149103560,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-26T21:25:00.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891149103560,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/860926DA84AB789B234144DD73CB8956.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   }
+  ],
+  "current_page": "30",
+  "per_page": 30,
+  "total_pages": 200,
+  "total_count": 5981,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22030000/products?page=31",
+  "previous_page": "https://cosmos.bluesoft.com.br/ncms/22030000/products?page=29"
+ }
+}

@@ -11,6 +11,8 @@ def test_workflow_so_por_disparo_sem_concorrencia_e_commit_sempre():
     assert "contents: write" in conteudo
     assert "timeout-minutes" not in conteudo
     assert "cred: [PILAR]" in conteudo
+    assert "max-parallel: 1" in conteudo
+    assert "ref: ${{ github.ref_name }}" in conteudo
     assert "COSMOS_TOKEN: ${{ secrets[format('{0}_COSMOS_TOKEN', matrix.cred)] }}" in conteudo
     assert "COLETOR_RESPONSAVEL: ${{ matrix.cred }}" in conteudo
     assert "secrets.PILAR_COSMOS_TOKEN" not in conteudo

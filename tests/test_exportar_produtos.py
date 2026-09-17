@@ -74,6 +74,36 @@ def test_gravar_e_ler_csv_utf8_bom_ponto_e_virgula(tmp_path):
     assert exportar.ler_csv(tmp_path / "nao_existe.csv") == []
 
 
+def test_pagina_repetida_mesmo_ncm_e_pagina_nao_duplica_produtos():
+    # Duas pernas da matrix do workflow podem baixar a mesma página (checkout desatualizado);
+    # o bruto grava as duas, mas a exportação não deve contar o produto duas vezes.
+    paginas = [
+        documento("22030000", 2, [produto(1), produto(2)]),
+        documento("22030000", 2, [produto(1), produto(2)], coletado_em="2026-09-16T06:20:00Z", responsavel="PILLY"),
+    ]
+    _, linhas = exportar.linhas_produtos(paginas)
+    assert len(linhas) == 2
+    assert [l["responsavel"] for l in linhas] == ["PILAR", "PILAR"]
+
+
+def test_pagina_repetida_mesmo_ncm_e_pagina_nao_duplica_gtins():
+    paginas = [
+        documento("22030000", 2, [produto(1, gtins_extra=(9,))]),
+        documento("22030000", 2, [produto(1, gtins_extra=(9,))], coletado_em="2026-09-16T06:20:00Z"),
+    ]
+    assert len(exportar.linhas_gtins(paginas)) == 2
+
+
+def test_pagina_repetida_ncms_diferentes_conta_as_duas():
+    # D4: a mesma página (número) em NCMs diferentes não é a "mesma página" — sem deduplicação.
+    paginas = [
+        documento("22030000", 1, [produto(1)]),
+        documento("22085000", 1, [produto(2)]),
+    ]
+    _, linhas = exportar.linhas_produtos(paginas)
+    assert len(linhas) == 2
+
+
 def test_pagina_sem_responsavel_vira_vazio():
     pagina = documento("22030000", 1, [produto(1, gtins_extra=(9,))])
     del pagina["coleta"]["responsavel"]

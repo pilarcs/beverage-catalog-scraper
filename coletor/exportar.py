@@ -1,4 +1,5 @@
-"""Geração dos CSVs a partir do bruto (fonte da verdade). Nenhuma deduplicação (D4)."""
+"""Geração dos CSVs a partir do bruto (fonte da verdade). Sem deduplicação entre páginas
+diferentes (D4) — só a mesma (ncm, página) baixada mais de uma vez é colapsada em uma leitura."""
 
 from __future__ import annotations
 
@@ -51,8 +52,22 @@ def registro_id(coleta: dict, posicao: int) -> str:
     return f"{coleta['fonte']}|p{coleta['pagina']:04d}|{coleta['coletado_em']}|{posicao:02d}"
 
 
-def _produtos(paginas: Sequence[dict]) -> Iterator[tuple[dict, int, dict]]:
+def _sem_paginas_repetidas(paginas: Sequence[dict]) -> list[dict]:
+    """Mantém só a primeira leitura de cada (ncm, página): duas pernas da matrix do
+    workflow podem baixar a mesma página com um checkout desatualizado, e o bruto nunca
+    sobrescreve — sem isso, o produto conta em dobro."""
+    vistas: set[tuple[str, int]] = set()
+    unicas: list[dict] = []
     for documento in paginas:
+        chave = (documento["coleta"]["ncm"], documento["coleta"]["pagina"])
+        if chave not in vistas:
+            vistas.add(chave)
+            unicas.append(documento)
+    return unicas
+
+
+def _produtos(paginas: Sequence[dict]) -> Iterator[tuple[dict, int, dict]]:
+    for documento in _sem_paginas_repetidas(paginas):
         for posicao, produto in enumerate(documento["resposta"].get("products") or [], start=1):
             yield documento["coleta"], posicao, produto
 

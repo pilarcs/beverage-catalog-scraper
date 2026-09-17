@@ -30,6 +30,10 @@ jobs:
     steps:
       - name: Baixando o repositorio
         uses: actions/checkout@v7
+        with:
+          # Sem isso, todas as pernas da matrix usam o SHA travado no disparo do workflow:
+          # a 2ª perna não veria o commit que a 1ª acabou de dar push segundos antes.
+          ref: ${{ github.ref_name }}
 
       - name: Preparando Python
         uses: actions/setup-python@v7

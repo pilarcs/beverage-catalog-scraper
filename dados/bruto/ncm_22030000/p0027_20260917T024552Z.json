@@ -1,0 +1,1556 @@
+{
+ "coleta": {
+  "fonte": "ncm:22030000",
+  "ncm": "22030000",
+  "pagina": 27,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22030000/products?page=27",
+  "coletado_em": "2026-09-17T02:45:52Z",
+  "responsavel": "PILAR"
+ },
+ "resposta": {
+  "code": "22030000",
+  "description": "Cervejas de malte.",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+  "ex": null,
+  "products": [
+   {
+    "description": "CERVEJA CRÈME ALE PURO MALTE GREENE KING WEXFORD IRISH STYLE LATA 440ML",
+    "gtin": 84662006006,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/84662006006",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-14T12:37:21.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 84662006006,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 84662006105,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 24,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F1ED6996EA3DC889D97443E3F0AC159B.png",
+    "brand": {
+     "name": "GREENE KING",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA STOUT DOUBLE CHOCOLATE YOUNGS GARRAFA 500ML",
+    "gtin": 5011876000358,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5011876000358",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:31:06.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5000264012189,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 5011876000358,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/1B992391AD925ADDE0C9345A9A70EABB.png",
+    "brand": {
+     "name": "YOUNG'S",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "YOUNG´S SPECIAL LONDON ALE ENGLISH BROWN ALE GARRAFA 1 UNIDADE",
+    "gtin": 5011876000686,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/young-s-special-london-ale-english-brown-ale-garrafa-500-ml-1-unidade_600x600-PU7d1b1_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:31:07.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5011876000686,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 5011876001621,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 8,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/1B992391AD925ADDF27D6EFABF23F28B.png",
+    "brand": {
+     "name": "YOUNGS LONDON",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA ANDERSON VALLEY HOP OTTIN",
+    "gtin": 9125000063,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/9125000063",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-14T12:42:52.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 9125000063,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/7430439020E4FFECF3C8D24A21DEFB6E.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "WELLS BOMBARDIER EXTRA SPECIAL BITTER GARRAFA 1 UNIDADE",
+    "gtin": 5000264012790,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:28:17.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 50000264012158,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 5000264012158,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 5000264012790,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5ADDCA450EA415E5B2CBCAE11596B431.png",
+    "brand": {
+     "name": "WELLS BOMBARDIER",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "KIT WEIHENSTEPHANER",
+    "gtin": 7898925394020,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898925394020",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T09:45:06.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898925394020,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C81D14E5E5D96BDC8C582B5A03BC2DCD.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA PETRA WEISS BIER 5 LITROS BARRIL",
+    "gtin": 7897395020545,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7897395020545",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T21:45:27.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395020545,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54AD1BAA8F6C3B5F63B9.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA ASPEN LATA",
+    "gtin": 7891986008790,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 350,
+    "gross_weight": 368,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-27T02:12:21.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891986008790,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/51EB2D911A0791E9B73C2F58153342C4.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA BAVARIA LN",
+    "gtin": 78912779,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 355,
+    "gross_weight": 373,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-14T11:08:07.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 78912779,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 178912778,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C1AD871B285752D552C91F39801A39BA.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA BOHEMIA LATA",
+    "gtin": 7891991010177,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7891991010177",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-04T10:11:29.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891991010177,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9C81941DB3CA23F600335F40C6EE20F5.png",
+    "brand": {
+     "name": "BOHEMIA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA BRAHMA",
+    "gtin": 7891149104109,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7891149104109",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 473,
+    "gross_weight": 497,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-06T10:20:14.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891149104109,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7891149104116,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 8,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/860926DA84AB789BDE5D75D1E4109A45.png",
+    "brand": {
+     "name": "BRAHMA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CINTRA PILSEN LATA 1 UNIDADE",
+    "gtin": 7898086200024,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/cintra-pilsen-lata-350-ml-1-unidade_300x300-PU748d7_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-02T01:56:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898086200024,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EA37D0AA485F21B72AE0C21635DEB6EF.png",
+    "brand": {
+     "name": "CINTRA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA CRYSTAL LITRAO",
+    "gtin": 7897395050238,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7897395050238",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T21:46:17.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395050238,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7897395050245,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54ADF98EE1E375A4B618.png",
+    "brand": {
+     "name": "CRYSTAL",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA PILSEN CRYSTAL GARRAFA 250ML",
+    "gtin": 7897395050252,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7897395050252",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-09T09:07:55.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395050252,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 7,
+       "layer": 25
+      }
+     },
+     {
+      "gtin": 7897395050269,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 7,
+       "layer": 25
+      }
+     },
+     {
+      "gtin": 17897395050259,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 7,
+       "layer": 25
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54AD44E71CE0D925BD61.png",
+    "brand": {
+     "name": "CRYSTAL",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA PILSEN CRYSTAL LATA 269ML",
+    "gtin": 7897395060299,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7897395060299",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-26T14:10:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395060299,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7897395060381,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 7897395099442,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 15,
+       "ballast": 14,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54AD611160F893E0CA89.png",
+    "brand": {
+     "name": "CRYSTAL",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CRYSTAL MALZBIER LONG NECK 1 UNIDADE",
+    "gtin": 7897395050122,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/crystal-malzbier-long-neck-355-ml-1-unidade_300x300-PU737e1_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T21:46:14.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395050115,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 7897395050122,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 990035969,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54AD61898EF2D9D74273.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA CRYSTAL FUSION GUARANA LT CX12",
+    "gtin": 7897395060176,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T21:46:20.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395060176,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7897395060183,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54ADCC07883678D9ACE0.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 203,
+     "description": "Cervejas",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "CERVEJA CRYSTAL FUSION LIMAO LT CX12",
+    "gtin": 7897395060152,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T21:46:20.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395060152,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7897395060169,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54ADE4DCFF1F0F3B4C35.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 203,
+     "description": "Cervejas",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "CERVEJA CRYSTAL FUSION MARACUJA LT CAIXA 12",
+    "gtin": 7897395060251,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T21:46:23.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395060251,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7897395060268,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54AD47CF43C5BC480E76.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CRYSTAL MALZBIER LATA 1 UNIDADE",
+    "gtin": 7897395050191,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/crystal-malzbier-lata-350-ml-1-unidade_300x300-PU737e2_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T21:46:16.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395050191,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7897395050207,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 22,
+       "layer": 12
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54AD1087E7C177BBAF47.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 203,
+     "description": "Cervejas",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "CERVEJA CRYSTAL PILSEN 5 LITROS BARRIL",
+    "gtin": 7897395050320,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 1,
+    "gross_weight": 1,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T21:46:18.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395050320,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54AD760A0F99CB85E7A4.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA CRYSTAL PREMIUM LONG NECK",
+    "gtin": 7897395050139,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T21:46:14.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395050139,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7897395050146,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54AD1D221C79E05DA80D.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 203,
+     "description": "Cervejas",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "CERVEJA CRYSTAL PREMIUM 5 LITROS BARRIL",
+    "gtin": 7897395050276,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T21:46:18.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395050276,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54AD4B0774D8E79FB342.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA AMERICAN LAGER FAXE LATA 1000ML",
+    "gtin": 5741000107829,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5741000107829",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T02:05:41.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 15741000107826,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 5741000107829,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 5741000493403,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/933190B93686104669B38CD0CCE43D95.png",
+    "brand": {
+     "name": "FAXE",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA AMERICAN LAGER ROYAL EXPORT FAXE LATA 1000ML",
+    "gtin": 5741000004722,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5741000004722",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T02:05:39.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 15741000004729,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 5741000004722,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 5741000004739,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/82E6328F15E3DF3606F1790A294AA882.png",
+    "brand": {
+     "name": "FAXE",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA PILSEN GLACIAL LATA 350ML",
+    "gtin": 7896052601882,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896052601882",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-10T15:43:37.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896052601882,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896052601899,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/860C7AB87C58E0E7F18FDC42618D7C96.png",
+    "brand": {
+     "name": "GLACIAL",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA PILSEN ITAIPAVA GARRAFA 1L",
+    "gtin": 7897395040222,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7897395040222",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-03T08:03:30.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395040222,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54ADB98653576E0B102E.png",
+    "brand": {
+     "name": "ITAIPAVA",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_itaipava"
+    },
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "ITAIPAVA PILSEN LATA 1 UNIDADE",
+    "gtin": 7897395040178,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/itaipava-pilsen-lata-310-ml-1-unidade_300x300-PU5d8e9_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T21:46:01.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395040178,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54ADCFF19553DDE48C86.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 203,
+     "description": "Cervejas",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "CERVEJA ITAIPAVA FEST LATA",
+    "gtin": 7897395040345,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7897395040345",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T21:46:04.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897395040345,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7897395040444,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07851663351B54ADA2D16C4A9D9A9A17.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 203,
+     "description": "Cervejas",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "CERVEJA ITAIPAVA FEST LONG NECK",
+    "gtin": 78921351,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-11T19:19:26.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 78921351,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7897395040116,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C1AD871B285752D5939452963181D92D.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   }
+  ],
+  "current_page": "27",
+  "per_page": 30,
+  "total_pages": 200,
+  "total_count": 5981,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22030000/products?page=28",
+  "previous_page": "https://cosmos.bluesoft.com.br/ncms/22030000/products?page=26"
+ }
+}

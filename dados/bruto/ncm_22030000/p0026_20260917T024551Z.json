@@ -1,0 +1,1291 @@
+{
+ "coleta": {
+  "fonte": "ncm:22030000",
+  "ncm": "22030000",
+  "pagina": 26,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22030000/products?page=26",
+  "coletado_em": "2026-09-17T02:45:51Z",
+  "responsavel": "PILAR"
+ },
+ "resposta": {
+  "code": "22030000",
+  "description": "Cervejas de malte.",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+  "ex": null,
+  "products": [
+   {
+    "description": "CERVEJA LAGER PURO MALTE MARCO ZERO PAULISTÂNIA GARRAFA 600ML",
+    "gtin": 7898933034086,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898933034086",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T10:32:44.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898933034086,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7898933034093,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/6B46D7CB8592F80EC33F12C35E49068B.png",
+    "brand": {
+     "name": "PAULISTANIA",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_paulistania"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "KIT TAÇA + 2 CERVEJAS LAGER PURO MALTE MARCO ZERO PAULISTÂNIA 600ML CADA",
+    "gtin": 7898933034116,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898933034116",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T10:32:44.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898933034116,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/6B46D7CB8592F80E14C1D1035A0179E1.png",
+    "brand": {
+     "name": "PAULISTANIA",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_paulistania"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA PAULISTANIA KIT CUBO",
+    "gtin": 7898933034376,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T10:32:47.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898933034376,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/6B46D7CB8592F80E43CA40694F53CADE.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "OLD TOM CHOCOLATE ENGLISH BROWN ALE GARRAFA 1 UNIDADE",
+    "gtin": 5015759000817,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5015759000817",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T04:06:36.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5015759000817,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F5E7775E2DB9BC3B6C4EA38CCB8BD3EF.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "OLD TOM ORIGINAL STRONG ALE GARRAFA 1 UNIDADE",
+    "gtin": 5015759000220,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/old-tom-original-strong-ale-garrafa-330-ml-1-unidade_600x600-PU89131_1.jpg",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:31:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5015759000220,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F5E7775E2DB9BC3BE5B55F36330B0C50.png",
+    "brand": {
+     "name": "LAPTOPTRAVELLER",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "PREMIUM BEER",
+    "gtin": 87975003502,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/87975003502",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-14T12:41:54.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 87975003502,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4F760B44FEAFBCBB6E45C29849054CCA.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "IMPORTED PREMIUM BEER",
+    "gtin": 87975026501,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/87975026501",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-30T12:00:12.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 87975026501,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4F760B44FEAFBCBBF6A0341293775F55.png",
+    "brand": {
+     "name": "TWIN SISTERS",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA SCHINEIDER 1L",
+    "gtin": 7793147119775,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:38:22.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7793147119775,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4EA4F96163A6450A45EB887AFE36F4EF.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "EGGENBERG HOPFENKONIG",
+    "gtin": 90091360,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/90091360",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-14T12:42:42.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 90091360,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/8D2B5EE66BE7E009ACC2D923141AC1CB.png",
+    "brand": {
+     "name": "EGGENBERG",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "EGGENBERG MACARRÃO QUEEN'S NESSIE",
+    "gtin": 90091131,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/90091131",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-14T12:42:39.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 90091131,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/8D2B5EE66BE7E0090245563F6D9AFE38.png",
+    "brand": {
+     "name": "EGGENBERG",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "PALM ROYALE BELGIAN PALE ALE LONG NECK 1 UNIDADE",
+    "gtin": 5410783001432,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/palm-royale-belgian-pale-ale-long-neck-330-ml-1-unidade_600x600-PU5e80f_1.jpg",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:42:12.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5410783001432,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/19C67D1CF1D16169D915756FF4C41368.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CORSENDONK TEMPELIER",
+    "gtin": 5411491004418,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5411491004418",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:42:39.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5411491004418,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F06CC8785F826CE0FF9B462F8146B635.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA THEAKSTON OLD PECULIER",
+    "gtin": 5035766720225,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:33:39.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5035766720225,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 5035766720720,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 8,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/FEA44AA4E0E843E7DF1840D50C24CF2A.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA DUNKEL PURO MALTE THEREZÓPOLIS GARRAFA 600ML",
+    "gtin": 7896336803490,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/therezopolis-ebenholz-munich-dunkel-garrafa-600-ml-1-unidade_600x600-PU73204_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-30T10:50:43.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896336803490,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896336803506,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BCBACB2392EA3F75C2A2229F280DE058.png",
+    "brand": {
+     "name": "THEREZOPOLIS",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA TOZAN KIRIN ICHIBAN LATA",
+    "gtin": 40063103515,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-14T10:20:41.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 40063103515,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/DEC0FC57775A1AB83AD47119568FD79C.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA TUCHER 2 DE + COPO",
+    "gtin": 7898941340018,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T11:22:17.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898941340018,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7898941340025,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 5,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/201EC61FFA1DE231780010384B8E6B1B.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "ERDINGER WEIBBIER WEISS GARRAFA 1 UNIDADE",
+    "gtin": 4006298004009,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/erdinger-weibbier-weiss-garrafa-500-ml-1-unidade_300x300-PU5db09_1.jpg",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-17T00:34:00.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 4006298004009,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 4006298034211,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 20,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07DC0FD20C334FF397E3FFF057E20784.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA TUCHER UBERSSE",
+    "gtin": 4006298002609,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:33:49.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 4006298002609,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7898941340094,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 20,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/07DC0FD20C334FF32B2FCBB1F0ADA6DD.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "URTHEL SAISONNIÈRE",
+    "gtin": 54121003,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/54121003",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-14T10:36:06.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 54121003,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/3708CF95F800D288C39B3CF7C1D3E55C.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "URTHEL SAMARANTH",
+    "gtin": 54121072,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/54121072",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-05-14T10:36:14.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 54121072,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/3708CF95F800D288C7EBFC49EC6B840A.png",
+    "brand": {
+     "name": "MEDLINE",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_medline"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "KIT WARSTEINER",
+    "gtin": 7898933034079,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898933034079",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T10:32:43.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898933034079,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/6B46D7CB8592F80E849AE08107D16DF9.png",
+    "brand": {
+     "name": "WASTEINER",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA WARSTEINER LN P VERUM",
+    "gtin": 7795697104997,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:41:43.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7795697104997,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0A93F2FDDB5A03C442E632C47143D4C8.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA WARSTEINER LT 1L P VERUM",
+    "gtin": 7795697104973,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:41:43.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7795697104973,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0A93F2FDDB5A03C414EF8B799AC47B36.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA GERMAN PILSENER WARSTEINER GARRAFA 660ML",
+    "gtin": 4000856090831,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/4000856090831",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-16T00:31:38.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 4000856090831,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 4000856390832,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 4,
+       "layer": 15
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/287CB88C09CD54E315F03E656EDF991B.png",
+    "brand": {
+     "name": "WARSTEINER",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA WARSTEINER VERUM 5LT",
+    "gtin": 4000856003107,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-16T00:31:26.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 4000856003107,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 4000856303139,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 2,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/287CB88C09CD54E37F3B0372084B6B73.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA WEIZENBOCK VITUS WEIHENSTEPHANER GARRAFA 500ML",
+    "gtin": 4105120004108,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/4105120004108",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:52:57.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 4105120004108,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/95DBC6BC3D24F095B528172C79BB7776.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA HEFE-WEISSBIER WEIHENSTEPHANER GARRAFA 500ML",
+    "gtin": 4105120503922,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/weihenstephaner-hefe-weiss-garrafa-500-ml-1-unidade_600x600-PU5dd70_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:52:59.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 4105120503922,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F03877A454097BE60C641D41D3A695BC.png",
+    "brand": {
+     "name": "WEIHENSTEPHANER",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 141,
+     "description": "Cervejas Tradicionais",
+     "parent_id": 203
+    }
+   },
+   {
+    "description": "CERVEJA WEIHENSTEPHANER DUNKEL",
+    "gtin": 4105120503878,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:52:58.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 4105120503878,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F03877A454097BE6E49C9EEA7C958944.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA WEIHENSTEPHANER TRADITION",
+    "gtin": 4105120504271,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:52:59.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 4105120504271,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F03877A454097BE6A11370B937200EA1.png",
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    }
+   },
+   {
+    "description": "CERVEJA INGLESA BANANA BREAD",
+    "gtin": 5000264012776,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5000264012776",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:28:16.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5000264012776,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5ADDCA450EA415E587BF4AB7FC0CACBF.png",
+    "gpc": {
+     "code": "10000159",
+     "description": "Cerveja"
+    },
+    "ncm": {
+     "code": "22030000",
+     "description": "Cervejas de malte.",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Cervejas de malte.",
+     "ex": null
+    },
+    "category": {
+     "id": 204,
+     "description": "Cervejas Especiais",
+     "parent_id": 203
+    }
+   }
+  ],
+  "current_page": "26",
+  "per_page": 30,
+  "total_pages": 200,
+  "total_count": 5981,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22030000/products?page=27",
+  "previous_page": "https://cosmos.bluesoft.com.br/ncms/22030000/products?page=25"
+ }
+}

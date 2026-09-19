@@ -1,0 +1,1264 @@
+{
+ "coleta": {
+  "fonte": "ncm:22041010",
+  "ncm": "22041010",
+  "pagina": 29,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22041010/products?page=29",
+  "coletado_em": "2026-09-19T02:49:36Z",
+  "responsavel": "DOUG"
+ },
+ "resposta": {
+  "code": "22041010",
+  "description": "Tipo champanha (champagne)",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+  "ex": null,
+  "products": [
+   {
+    "description": "ESPUMANTE SPARKLING APARO 750ML",
+    "gtin": 7791670025792,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-12T13:35:09.000-03:00",
+    "updated_at": "2026-09-18T08:37:53.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7791670025792,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/B46A8298C1A4C577528E58F384008F52.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO RIO VALLEY FRISANTE BR 269ML",
+    "gtin": 7898638065620,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-13T08:12:53.000-03:00",
+    "updated_at": "2026-05-12T17:39:05.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898638065620,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/8FD366E8ABBDADB773CE80C9C5B09C82.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO RSE FRIS RIO VALEY LT 269ML SUAVE",
+    "gtin": 7898638065637,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-13T08:12:55.000-03:00",
+    "updated_at": "2026-05-12T17:24:19.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898638065637,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17898638065634,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/8FD366E8ABBDADB781F8D0B884A28A4A.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TRILHAS DAS SERRAS CHARDONAY 750ML",
+    "gtin": 7899686702376,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-15T12:01:55.000-03:00",
+    "updated_at": "2023-06-09T06:07:34.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899686702376,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/1C2C13A3227F9C03CB1253CEC057F956.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TRILHAS DOS PAMPAS TANNAT 750ML SM",
+    "gtin": 7899686702369,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-17T16:32:11.000-03:00",
+    "updated_at": "2023-08-05T13:12:45.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899686702369,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/1C2C13A3227F9C03510E23C2ABDDBDFD.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESPUMANTE MOSCATEL JOLIMONT 750ML",
+    "gtin": 7897227400026,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-18T23:07:19.000-03:00",
+    "updated_at": "2025-12-18T18:03:47.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897227400026,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/43E098F1363604752FA9B8A4959ABB4D.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO LA CASA CENTENARIA BCO SV 750",
+    "gtin": 7898960314083,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-19T12:14:00.000-03:00",
+    "updated_at": "2026-01-18T10:21:38.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898960314083,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C8CD4C32F6C0CFD2A1C40B9637D13605.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMPAGNE ROSÉ VEUVE CLICQUOT BRUT 750ML",
+    "gtin": 3049614183201,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3049614183201",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-23T21:39:04.000-03:00",
+    "updated_at": "2023-03-31T14:21:35.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3049614183201,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E28878B93B340221B326F1B40724DD01.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMPAGNE FRIDGE X SMEG ROSÉ VEUVE CLICQUOT 750ML",
+    "gtin": 3049614215643,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3049614215643",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-23T21:39:16.000-03:00",
+    "updated_at": "2024-12-21T13:35:39.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3049614215643,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3049614215476,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/8CEB2D92B970D80EDC1369B806256EAE.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMPAGNE FRIDGE BRUT VEUVE CLICQUOT 750ML",
+    "gtin": 3049614214370,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3049614214370",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-23T21:39:19.000-03:00",
+    "updated_at": "2023-08-08T15:48:57.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3049614214370,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3049614215407,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/8CEB2D92B970D80EDDABC8A5BBA427F3.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMPAGNE GRAND VINTAGE 2013 COM CARTUCHO MOET & CHANDON 750ML",
+    "gtin": 3185370750131,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3185370750131",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-23T21:40:57.000-03:00",
+    "updated_at": "2023-03-31T13:41:29.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3185370750131,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/615AFB5C77C0059D5D1DB8168AD5DF8C.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMPAGNE RUINART ROSE 750ML",
+    "gtin": 3185370303320,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3185370303320",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-23T21:41:00.000-03:00",
+    "updated_at": "2025-04-22T11:10:34.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3185370303320,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 13185370303327,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/269EE2E6B399F137999C43DE48FC7146.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMPAGNE BRUT CARTE BLANCHE BERNARD REMY 750ML",
+    "gtin": 3553200100027,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-23T21:53:43.000-03:00",
+    "updated_at": "2025-06-14T11:45:28.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3553200100027,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3553200000051,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 8,
+       "layer": 10
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F7DF4CAEBE4D771BF3AFC9149CD6D0D3.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESPUMANTE ARGENTINO BRANCO EXTRA BRUT DANTE ROBINO MENDOZA GARRAFA 750ML",
+    "gtin": 7790717152255,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7790717152255",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-23T23:16:51.000-03:00",
+    "updated_at": "2026-09-18T09:44:42.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7790717152255,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F118CB92C6FA51A68FC1942DF6AA1AA3.png",
+    "brand": {
+     "name": "DANTE ROBINO",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "ESPUM ARG APARO SPARKLING SWEET 750ML",
+    "gtin": 7791670025808,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-23T23:18:47.000-03:00",
+    "updated_at": "2026-02-17T21:27:37.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7791670025808,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/B46A8298C1A4C577A7741E1B6FBF6C7E.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESPUMANTE BRANCO BRUT ORGÂNICO ASTRAL GARIBALDI 750ML",
+    "gtin": 7896034302523,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-24T04:44:27.000-03:00",
+    "updated_at": "2026-01-20T18:52:11.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896034302523,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17896034302520,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/52EB911C31E39181135CB4416A22D439.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESPUMANTE PRESENCE DEMI SEC PETERLONGO 750ML",
+    "gtin": 7896097716053,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-24T05:45:29.000-03:00",
+    "updated_at": "2025-10-06T16:43:17.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896097716053,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/47F2ADA06F3035C83A4A5B25046F82B5.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMP DOM PERIGNON 750ML LUMINOUS",
+    "gtin": 3185370722992,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3185370722992",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-25T10:41:26.000-03:00",
+    "updated_at": "2025-12-23T07:09:58.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3185370722992,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/615AFB5C77C0059D9B620AED35B940CB.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMP MOET CHANDON 750ML BRUT",
+    "gtin": 3185370740194,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3185370740194",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-25T11:01:27.000-03:00",
+    "updated_at": "2024-11-23T06:24:38.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3185370400746,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     },
+     {
+      "gtin": 3185370740194,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3185370751862,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/615AFB5C77C0059D9B7D24B683C47AC4.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMP VEUVE CLICQUOT 750ML BRUT",
+    "gtin": 3049614214790,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3049614214790",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-25T11:01:35.000-03:00",
+    "updated_at": "2026-04-10T08:51:27.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3049614035814,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 6,
+       "ballast": 20,
+       "layer": 3
+      }
+     },
+     {
+      "gtin": 3049614214790,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3049614215124,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 6,
+       "ballast": 20,
+       "layer": 3
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/8CEB2D92B970D80EA5125E11022A8DD8.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMP MOET CHANDON 750ML ROSE IMPERIAL",
+    "gtin": 3185370740767,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3185370740767",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-25T11:01:40.000-03:00",
+    "updated_at": "2024-01-28T11:25:59.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3185370740767,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3185370752098,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/615AFB5C77C0059D3762881C46CEC01E.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMPAGNE CRISTAL BRUT 750ML",
+    "gtin": 3114080721452,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3114080721452",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-27T15:20:51.000-03:00",
+    "updated_at": "2026-01-28T13:59:16.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3114080721452,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/3A9F38B6C6C638B293D6F7C9BE1AA19B.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMP DOM PERIGNON 750ML ROSE VINTAGE 2008 C/ CARTUCHO",
+    "gtin": 3185370703151,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3185370703151",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-31T10:01:10.000-03:00",
+    "updated_at": "2024-09-28T12:55:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3185370703151,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3185370703564,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 3,
+       "layer": 4
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/615AFB5C77C0059D1C7F2F8AE01C698A.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMP KRUG 750ML GRAND CUVEE",
+    "gtin": 3258064099370,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3258064099370",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-31T11:21:00.000-03:00",
+    "updated_at": "2025-04-18T12:15:53.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3258064099370,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3258064100076,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/23FA3790C7CD534DE62E1DB811E4ABAF.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMP MOET CHANDON 3L ROSE IMPERIAL",
+    "gtin": 3185370304341,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3185370304341",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-31T13:21:02.000-03:00",
+    "updated_at": "2025-08-16T16:24:48.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3185370304341,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3185370361306,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 6,
+       "layer": 10
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/269EE2E6B399F1376345CD09D8A0B90E.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMP VEUVE CLICQUOT 750ML EXTRA BRUT OLD",
+    "gtin": 3049614192265,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3049614192265",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-03-31T15:41:00.000-03:00",
+    "updated_at": "2023-12-03T10:55:01.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3049614192265,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3049614192456,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 11,
+       "layer": 3
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E28878B93B3402213B629DD62A2FCC78.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMP VEUVE CLICQUOT 750ML TAPE COLLECTION",
+    "gtin": 3049614197093,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3049614197093",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-04-05T08:58:46.000-03:00",
+    "updated_at": "2023-09-03T21:44:29.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3049614197093,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3049614197697,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 13,
+       "layer": 5
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E28878B93B340221368F59BA87CC104E.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMP VEUVE CLICQUOT 750ML PENCIL",
+    "gtin": 3049614191053,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3049614191053",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-04-05T09:35:06.000-03:00",
+    "updated_at": "2024-10-23T13:00:34.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3049614191053,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3049614191503,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 13,
+       "layer": 5
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E28878B93B34022118EDB48227A69BE0.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMP VEUVE CLICQUOT 750ML LA GRAND DAME",
+    "gtin": 3049614215759,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3049614215759",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-04-05T09:35:13.000-03:00",
+    "updated_at": "2025-08-16T16:22:13.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3049614215759,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3049614219498,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 13,
+       "layer": 5
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/8CEB2D92B970D80E16E541A0135777DB.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESP CHANDON 3L BRUT ROSE",
+    "gtin": 7891083611640,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7891083611640",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-04-05T11:18:45.000-03:00",
+    "updated_at": "2025-09-15T18:16:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891083611640,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/371CA4E1367CEE3395DC2C3BB58F438B.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   }
+  ],
+  "current_page": "29",
+  "per_page": 30,
+  "total_pages": 34,
+  "total_count": 996,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22041010/products?page=30",
+  "previous_page": "https://cosmos.bluesoft.com.br/ncms/22041010/products?page=28"
+ }
+}

@@ -1,0 +1,1262 @@
+{
+ "coleta": {
+  "fonte": "ncm:22041010",
+  "ncm": "22041010",
+  "pagina": 18,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22041010/products?page=18",
+  "coletado_em": "2026-09-19T02:49:30Z",
+  "responsavel": "DOUG"
+ },
+ "resposta": {
+  "code": "22041010",
+  "description": "Tipo champanha (champagne)",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+  "ex": null,
+  "products": [
+   {
+    "description": "ESPUMANTE SPERONE CHILL 750ML ROSE",
+    "gtin": 8008513008058,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8008513008058",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-11-22T23:36:27.000-02:00",
+    "updated_at": "2026-08-05T04:03:41.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8008513008058,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/8AFAB7AE5FE443A231BA9DB2982CAE0A.png",
+    "brand": {
+     "name": "SPERONE",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "ESPUMANTE BRASILEIRO BRANCO DEMI-SEC GARIBALDI VERO TREBBIANO PROSECCO E MALVASIA SERRA GAÚCHA GARRAFA 750ML",
+    "gtin": 7896034300604,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896034300604",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-12-21T14:19:07.000-02:00",
+    "updated_at": "2026-09-08T14:39:59.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896034300604,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/52EB911C31E391810764771CE5966A89.png",
+    "brand": {
+     "name": "GARIBALDI",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "ESPUMANTE BRASILEIRO ROSÉ BRUT GARIBALDI VERO TREBBIANO COLOMBARD ANCELLOTTA SERRA GAÚCHA GARRAFA 750ML",
+    "gtin": 7896034302097,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896034302097",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-12-21T14:19:07.000-02:00",
+    "updated_at": "2026-08-30T10:22:41.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896034302097,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17896034302094,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 4,
+       "layer": 20
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/52EB911C31E391812232A1C36434CE68.png",
+    "brand": {
+     "name": "GARIBALDI",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "FILTRADO ESPUMA DE PRATA 660ML BLACK SERIES",
+    "gtin": 7896097720180,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896097720180",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-01-05T11:38:26.000-02:00",
+    "updated_at": "2026-07-30T06:44:48.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896097720180,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 27896097720184,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 4,
+       "layer": 14
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/47F2ADA06F3035C8158211233C196383.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "KIT ESPUM M PASCOAL 750ML PROSECCO",
+    "gtin": 7897015210295,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-02-16T16:26:56.000-02:00",
+    "updated_at": "2025-10-06T17:03:57.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897015210295,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9D30A3AD7D1FA653BAAC59547026E454.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "VN BRA ESPUMANTE CAVE GEISSE BRUT 750ML",
+    "gtin": 7898249840753,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898249840753",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-05T16:01:54.000-03:00",
+    "updated_at": "2026-08-02T05:48:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898249840753,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/90C567D137FE3470EE89E7DD5AED290F.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESPUMANTE BRUT NATURE 750ML CAVE GEISSE",
+    "gtin": 7898249840364,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898249840364/2018-09-03-09-54-02-0300",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-05T16:05:33.000-03:00",
+    "updated_at": "2026-08-02T05:48:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898249840364,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/90C567D137FE3470E899ECB2CDCCAFAE.png",
+    "brand": {
+     "name": "CAVE GEISSE",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000275",
+     "description": "Vinho - Espumante"
+    },
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VINHO ESPUMANTE BRASILEIRO TERROIR ROSE BRUT 750ML CAVE GEISSE",
+    "gtin": 7898249840470,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898249840470/2018-09-03-10-29-17-0300",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-05T16:14:50.000-03:00",
+    "updated_at": "2026-08-02T05:48:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898249840470,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/90C567D137FE3470BDD721C04F950A3A.png",
+    "brand": {
+     "name": "CAVE GEISSE",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "gpc": {
+     "code": "10000275",
+     "description": "Vinho - Espumante"
+    },
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VN BRA ESP CAVE GEISSE BRUT 750ML",
+    "gtin": 7898249840357,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898249840357",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-05T16:23:16.000-03:00",
+    "updated_at": "2026-08-02T05:48:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898249840357,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/90C567D137FE347022C83E84F3AE4485.png",
+    "brand": {
+     "name": "CAVE GEISSE",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "VN BRA ESP CAVE GEISSE TERROIR NATURE 750ML",
+    "gtin": 7898249840395,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-05T16:27:57.000-03:00",
+    "updated_at": "2026-08-02T05:48:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898249840395,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/90C567D137FE34700BC1D8A00FA86276.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESPUMANTE NECTAR DE PARIS 750ML",
+    "gtin": 40232803710,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-12T09:03:49.000-03:00",
+    "updated_at": "2019-12-14T06:29:38.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 40232803710,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/6739FA8EE2C827084AAADDBF6C6F3157.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA ESP.VEUVE CLICQUOT DEMI-S",
+    "gtin": 3049614083921,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3049614083921",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-24T06:38:42.000-03:00",
+    "updated_at": "2026-07-23T20:52:56.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3049614083921,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3049614086212,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 9,
+       "layer": 5
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9D3BC1A755B4CE3135AB0CB5007B938E.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA RUINART BLANC C/CART.",
+    "gtin": 3185370303405,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-24T06:38:46.000-03:00",
+    "updated_at": "2026-09-12T17:37:53.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3185370303405,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/269EE2E6B399F137889C1D5CBCD912FA.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA MOET ROSE IMPERIAL BLACK",
+    "gtin": 3185370542200,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-24T06:38:46.000-03:00",
+    "updated_at": "2026-07-23T21:01:15.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3185370542200,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/DF1E43DB4921408672788BFE44FF5B43.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA ARROGANT FROG PINOT NOIR",
+    "gtin": 3760040422015,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3760040422015",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-24T06:38:56.000-03:00",
+    "updated_at": "2026-07-23T21:25:16.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3760040422015,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/3C8E732F962F5C66020C0931C30F1C55.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO NAC CHANDON 1,5L -BRUT ROSE-",
+    "gtin": 7891083611589,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7891083611589",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-24T06:41:38.000-03:00",
+    "updated_at": "2026-07-26T19:59:41.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891083611589,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/371CA4E1367CEE3318265EAF88EFE992.png",
+    "brand": {
+     "name": "CHANDON",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_chandon"
+    },
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "VINHO NAC ESP CDS BRUT CHARMAT BRANCO",
+    "gtin": 7895000372461,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-24T06:43:45.000-03:00",
+    "updated_at": "2025-11-02T09:00:22.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7895000372461,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0AE1958CA3CD1E0894388F9C6DBC07BF.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESPUMANTE NAC SALTON SERIES MOSCATEL",
+    "gtin": 7896023013911,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896023013911",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-24T06:44:02.000-03:00",
+    "updated_at": "2026-08-31T10:09:36.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896023013911,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7896023013928,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 5,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C5AE4F94519052AA539101DE70ABA05B.png",
+    "brand": {
+     "name": "SALTON",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "VINHO MARIA VALDUGA ESPUMANTE BRUT",
+    "gtin": 7898276971307,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-24T06:47:42.000-03:00",
+    "updated_at": "2026-08-02T06:29:39.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898276971307,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E46AA83F1FA251782151AC1FEB5D9BB0.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "VINHO NAC ESP. BRUT C.V -C/COLLER-",
+    "gtin": 7898276972120,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-24T06:47:42.000-03:00",
+    "updated_at": "2025-10-11T10:04:24.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898276972120,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E46AA83F1FA2517819951336C6D42276.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO NAC ESP SUR LIE BRANCO",
+    "gtin": 7898276972199,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898276972199",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-06-24T06:47:42.000-03:00",
+    "updated_at": "2026-08-10T08:53:57.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898276972199,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17898276972196,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E46AA83F1FA251784CB0939C9694A2B5.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "ESPUMANTE BRASILEIRO BRANCO BRUT ALIANÇA CHARDONNAY CAMPANHA GAÚCHA GARRAFA 750ML",
+    "gtin": 7896100500952,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896100500952",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-08-08T22:51:52.000-03:00",
+    "updated_at": "2026-07-30T06:49:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896100500952,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17896100500959,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/132CADFE30334840EA38D6172F7B3212.png",
+    "brand": {
+     "name": "NOVA ALIANCA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "ESPUMANTE PORTUGUES GATAO 750ML BCO",
+    "gtin": 5601129035505,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5601129035505",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-08-14T00:41:50.000-03:00",
+    "updated_at": "2026-07-25T01:50:40.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5601129035505,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 15601129075508,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 3,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/B550C8E38E380D75E0103CE912F7E634.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "VN ITA A MANO BIANCO IGT BCO 750ML",
+    "gtin": 8026705201018,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-08-14T06:28:18.000-03:00",
+    "updated_at": "2026-08-05T04:12:24.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8026705201018,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/2081C84DAB7256A497B1DD0C33B4C646.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESP BRA ESTRELATO DEMI SEC 750ML",
+    "gtin": 7896776800127,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-08-14T08:01:21.000-03:00",
+    "updated_at": "2026-07-31T18:11:53.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896776800127,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/41CD56A0F505CD7864B85DF184C36F0D.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMP DEUZT DEMI SEC 750ML",
+    "gtin": 3359950065001,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-08-14T08:05:50.000-03:00",
+    "updated_at": "2026-07-23T21:11:59.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3359950065001,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/1D52E1503E1EFBB99BCFA6B111EC996A.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMP LA ROULLERE BRUT IMP 750ML",
+    "gtin": 3411630100232,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-08-14T08:08:41.000-03:00",
+    "updated_at": "2026-07-23T21:13:41.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3411630100232,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/D1F5DF0F1B1C67D6C76ECA05EDDA29E5.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "VN MALMA MALBEC PICADA 375ML",
+    "gtin": 7798108956192,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-08-14T08:08:48.000-03:00",
+    "updated_at": "2026-07-25T03:47:43.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7798108956192,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/7D6BF44B49974525B7D1F9B22327920E.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "CHAMP FRA POL ROGER BRUT 750ML",
+    "gtin": 7899413310041,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-08-14T08:15:37.000-03:00",
+    "updated_at": "2026-08-03T15:20:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413310041,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA6444453683B08CDCE95915B8.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESPUMANTE BRASILEIRO BRANCO BRUT BOSSA N°1 HERMANN SERRA GAÚCHA GARRAFA 750ML",
+    "gtin": 7898051145718,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898051145718",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2018-08-14T08:22:44.000-03:00",
+    "updated_at": "2026-08-02T01:12:04.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898051145718,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/B9F11B1B74F24CA687B1D0424476B59D.png",
+    "ncm": {
+     "code": "22041010",
+     "description": "Tipo champanha (champagne)",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Tipo champanha (champagne)",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   }
+  ],
+  "current_page": "18",
+  "per_page": 30,
+  "total_pages": 34,
+  "total_count": 996,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22041010/products?page=19",
+  "previous_page": "https://cosmos.bluesoft.com.br/ncms/22041010/products?page=17"
+ }
+}

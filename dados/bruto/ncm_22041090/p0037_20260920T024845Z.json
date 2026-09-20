@@ -1,0 +1,1265 @@
+{
+ "coleta": {
+  "fonte": "ncm:22041090",
+  "ncm": "22041090",
+  "pagina": 37,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22041090/products?page=37",
+  "coletado_em": "2026-09-20T02:48:45Z",
+  "responsavel": "PILLY"
+ },
+ "resposta": {
+  "code": "22041090",
+  "description": "Outros",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+  "ex": null,
+  "products": [
+   {
+    "description": "ESPUMANTE BLANC DE BLANC NATURE DON GUERINO 750ML",
+    "gtin": 7898956540939,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-05-23T15:34:51.000-03:00",
+    "updated_at": "2022-08-29T08:52:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898956540939,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17898956540936,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/A58F502A9E850EEE53C6A10D9DA928FD.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "ESPUMANTE BRANCO PORTA 6 COM 750ML",
+    "gtin": 5601996952417,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-05-25T08:30:53.000-03:00",
+    "updated_at": "2025-10-23T11:33:52.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5601996952417,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/944F909DB94FA3C5E121C92B7D35242E.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO DE MESA BRANCO DOCE MUMM VIDRO 750ML",
+    "gtin": 7791560074077,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-05-25T08:57:22.000-03:00",
+    "updated_at": "2026-07-13T20:52:21.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7791560074077,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/6BB0D4B07C03338ED13302736572AA03.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CASA PERINI ESP. ROSE 750ML",
+    "gtin": 789645112117,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/789645112117",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-06-02T14:44:58.000-03:00",
+    "updated_at": "2023-01-14T02:46:30.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 789645112117,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E55287D3BCF9DD178A864CEEF59F20B7.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "ESPUMANTE ITA ROSE DE NOIR 750ML",
+    "gtin": 8003325603972,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-06-04T16:47:06.000-03:00",
+    "updated_at": "2025-04-11T00:30:17.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8003325603972,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/7A0883195E15B76C13C7DED262245B0A.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO PROSECCO LA GIOIOSA DOC ROSE MILLESIMATO 2020 11% 6/750ML",
+    "gtin": 3760217676548,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-06-21T20:13:39.000-03:00",
+    "updated_at": "2024-05-05T11:16:39.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3760217676548,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/80438C759022FAA4815B81296817C0CC.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO VASTAGO 750ML TORRONTES",
+    "gtin": 7798124701608,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7798124701608",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-06-27T15:26:09.000-03:00",
+    "updated_at": "2022-10-26T10:28:31.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7798124701608,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9BD3218AADCCFD864D33E45DE97E49B7.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO QUINTA DO SOL RESERVA GAR 750ML",
+    "gtin": 5600353613015,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-08-05T09:33:24.000-03:00",
+    "updated_at": "2025-02-12T14:21:27.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5600353613015,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/AA1661AD07A3697B01248CA430180754.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO SANTA CAROLINA ESTREL RES 750ML",
+    "gtin": 8422938195443,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8422938195443",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-08-05T10:01:32.000-03:00",
+    "updated_at": "2025-07-03T11:48:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8422938195443,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 27804350003622,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BC460CC0C12BBAE871645D3EC508F497.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "ESPUMANTE ITALIANO ROSÉ BRUT TOSTI PROSECCO GARRAFA 750ML",
+    "gtin": 8034042440755,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8034042440755",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-08-05T10:11:45.000-03:00",
+    "updated_at": "2026-06-12T15:20:16.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8034042440755,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/976D0BA6DA3F184396BC8AFC4551F035.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "VHO ESP TORRES ALTOS IBERICOS RESERVA 750ML",
+    "gtin": 8410113009197,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8410113009197",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-09-01T15:38:12.000-03:00",
+    "updated_at": "2025-10-28T06:41:44.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8410113009197,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 28410113009191,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/60A6B481E4F006FFCD21637E1556FEAE.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "V.CLAUDI O NOR ESP.MOSCAT.BCO (ARG)750ML",
+    "gtin": 736532813701,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/736532813701",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-09-09T08:34:40.000-03:00",
+    "updated_at": "2023-09-16T15:24:56.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 736532813701,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 10736532881370,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 5,
+       "layer": 18
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E4FF785D68FD126B979E8F6DB27CBD7E.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO BRA JOTA PE TINTO SUAVE 1L",
+    "gtin": 7896452101906,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896452101906",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-09-15T17:01:48.000-03:00",
+    "updated_at": "2026-07-01T13:32:34.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896452101906,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17896452101903,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 4,
+       "layer": 23
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/84CD710E4660325F7A63FD96FF5F4588.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VINHO BRA JOTA PE TINTO SECO 1L",
+    "gtin": 7896452101883,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896452101883",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-09-15T17:01:49.000-03:00",
+    "updated_at": "2025-10-03T10:29:26.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896452101883,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17896452101880,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 4,
+       "layer": 23
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/84CD710E4660325F8C83125B01BA6B5E.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 247,
+     "description": "Vinho Tinto",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO ITAL.SORELLI CHIANTI RIVERSA DOCG 750ML",
+    "gtin": 8042295010533,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8042295010533",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-09-16T14:14:17.000-03:00",
+    "updated_at": "2025-09-07T18:21:24.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8042295010533,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/644C211E3B7F34A543C3E488A69E2D15.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "ESPUMANTE BRASILEIRO BRANCO DOCE CAMPO LARGO MOSCATEL GARRAFA 750ML",
+    "gtin": 7896931615528,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896931615528",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-09-18T05:25:31.000-03:00",
+    "updated_at": "2026-08-19T10:02:32.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896931615528,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17896931615525,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 6,
+       "ballast": 20,
+       "layer": 4
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/14DAE3D3C58AA21C697F49B48A1F3E88.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "ESPUMANTE BRASILEIRO BRANCO NATURAL BRUT CAMPO LARGO CHARDONNAY PINOT NOIR RIESLING GARRAFA 750ML",
+    "gtin": 7896931615511,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896931615511",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-09-18T05:25:31.000-03:00",
+    "updated_at": "2026-07-28T10:03:48.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896931615511,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17896931615518,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 4,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/14DAE3D3C58AA21C7849EFCF91A168DE.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "VN POR GRANDE VADIO 2014 750ML",
+    "gtin": 5600392741335,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-09-19T12:22:52.000-03:00",
+    "updated_at": "2022-09-19T12:22:52.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5600392741335,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/6B8E422CFCD7FA12E345E588118573C6.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESPUMANTE PETERLONGO 660ML MOSCATEL RS",
+    "gtin": 7896097717142,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-10-03T15:17:32.000-03:00",
+    "updated_at": "2025-01-02T10:22:18.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896097717142,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/47F2ADA06F3035C8681A668A27C0B2A4.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "CAVA GRAN LIVENZA BRUT 750ML SM CX 6",
+    "gtin": 8411277205722,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-10-08T11:54:49.000-03:00",
+    "updated_at": "2025-01-16T15:21:53.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8411277205722,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/23FFE160F9CFCADEFDEDFACD675D2FA3.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "V.CORDERO PIEL LOBO ESP.BCO DEMI SEC (ARG)750ML",
+    "gtin": 7798353193137,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7798353193137",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": 750,
+    "gross_weight": 750,
+    "created_at": "2022-11-04T09:58:03.000-03:00",
+    "updated_at": "2026-09-03T12:25:37.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7798353193137,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17798353193134,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 5,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/67768B1BB3C41FC3932F45C044F50419.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "V.CORDERO PIEL LOBO ESP.BRUT BCO (ARG)750ML",
+    "gtin": 7798353193151,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7798353193151",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-11-04T09:58:05.000-03:00",
+    "updated_at": "2026-06-10T01:15:11.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7798353193151,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17798353193158,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/67768B1BB3C41FC351DA1A0C59DE7F13.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "V.CORDERO PIEL LOBO ESP.BCO DOCE(ARG)750ML",
+    "gtin": 7798353192246,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7798353192246",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-11-04T10:17:58.000-03:00",
+    "updated_at": "2026-09-15T03:43:19.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7798353192246,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17798353192243,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 5,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/67768B1BB3C41FC34EEFE5A067BDCCE7.png",
+    "brand": {
+     "name": "MOSQUITA MUERTA WINES",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "V.TORRE ORIA CAVA BRUT ROSE (ESP)750ML",
+    "gtin": 8410744002147,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-11-07T13:38:27.000-03:00",
+    "updated_at": "2024-09-07T13:26:25.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8410744002147,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 8410744012146,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 5,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/6C8A949ADB72C950660D9D35BD002A90.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "V.TORRE ORIA CAVA ESP.BCO DEMI SEC 750ML",
+    "gtin": 8410744012535,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8410744012535",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-11-07T13:58:14.000-03:00",
+    "updated_at": "2023-06-20T23:04:32.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8410744012535,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 68410744012537,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 5,
+       "layer": 22
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/6C8A949ADB72C9500CAA5FD43D1B4F29.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "V.TORRE ORIA CAVA ESP.BRUT BCO (ESP) 750ML",
+    "gtin": 8410744000013,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8410744000013",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-11-07T13:58:15.000-03:00",
+    "updated_at": "2023-07-09T15:51:21.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8410744000013,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 8410744010012,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 5,
+       "layer": 17
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/6C8A949ADB72C95018540EDC78F37FB3.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "CAVA FREIXENET DEMI SEC 750ML CX 6",
+    "gtin": 8410036102111,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-11-12T12:29:08.000-03:00",
+    "updated_at": "2026-03-08T20:00:57.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0EAB92B4D7E8DF6156411519BBB53A1D.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "CAVA FREIXENET CORDON ROSADO BRUT 750ML",
+    "gtin": 8410036809003,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-11-16T16:23:18.000-03:00",
+    "updated_at": "2026-03-08T20:01:06.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E784FEC0020908876222A83473AFFB23.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "V ESPUMANTE CAVA LUCENTUM DEMI SEC 750ML",
+    "gtin": 8410261463001,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-11-16T18:40:15.000-03:00",
+    "updated_at": "2023-05-07T13:11:48.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8410261463001,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9AC7AE7AC464080BC70C1994B683F58E.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "V ESPUMANTE CAVA LUCENTUM BRUT 750ML",
+    "gtin": 8410261463018,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-11-16T18:40:15.000-03:00",
+    "updated_at": "2023-08-06T14:30:06.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8410261463018,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9AC7AE7AC464080B095115308B34ECDD.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   }
+  ],
+  "current_page": "37",
+  "per_page": 30,
+  "total_pages": 45,
+  "total_count": 1326,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22041090/products?page=38",
+  "previous_page": "https://cosmos.bluesoft.com.br/ncms/22041090/products?page=36"
+ }
+}

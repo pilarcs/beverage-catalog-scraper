@@ -1,0 +1,1208 @@
+{
+ "coleta": {
+  "fonte": "ncm:22041090",
+  "ncm": "22041090",
+  "pagina": 42,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22041090/products?page=42",
+  "coletado_em": "2026-09-20T02:48:48Z",
+  "responsavel": "PILLY"
+ },
+ "resposta": {
+  "code": "22041090",
+  "description": "Outros",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+  "ex": null,
+  "products": [
+   {
+    "description": "ESPUMANTE TELLUS DEM",
+    "gtin": 7798051302046,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-12-18T01:20:59.000-03:00",
+    "updated_at": "2025-06-14T00:20:30.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7798051302046,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/91E4F6F480AEC870D774E383968EE165.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESPUMANTE ESP FREIXENET SEM ALCOOL ROSE 750ML",
+    "gtin": 8410036809553,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8410036809553",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-12-21T17:16:30.000-03:00",
+    "updated_at": "2026-07-03T00:31:01.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8410036809553,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E784FEC002090887A91CDAEDF69D06BB.png",
+    "brand": {
+     "name": "FREIXENET",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 246,
+     "description": "Vinho Rosé",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "ESPUMANTE ESP FREIXENET SEM ALCOOL BRANCO 750ML",
+    "gtin": 8410036809577,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8410036809577",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-12-21T17:16:30.000-03:00",
+    "updated_at": "2026-06-12T14:59:30.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8410036809577,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E784FEC0020908872E1AFCEBC28640D0.png",
+    "brand": {
+     "name": "FREIXENET",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 245,
+     "description": "Vinho Branco",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "ESPUMANTE RANDON 750ML MOSCATEL ROSE",
+    "gtin": 7896741705945,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-12-24T23:15:40.000-03:00",
+    "updated_at": "2026-06-01T23:45:43.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896741705945,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/A94EFC15BAF7F647B3859268BD93301B.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "BRUT CHARMAT",
+    "gtin": 7897678100889,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-12-25T01:28:08.000-03:00",
+    "updated_at": "2025-10-11T09:08:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897678100889,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/CED1CF56AD6B0599CB1B7A2AF94EE699.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "LICOR FINO DE MACADAMIA E CARAMELO 750ML",
+    "gtin": 7898070389537,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898070389537",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2023-12-25T03:09:17.000-03:00",
+    "updated_at": "2025-03-18T00:02:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898070389537,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17898070389534,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/7FDC42B37A68FA3513CE88CFA50508AA.png",
+    "brand": {
+     "name": "MACADOMO",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 240,
+     "description": "Licor",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "ESPUM ESP BCO BACH EXTRISIM C 750ML SEMI SECO",
+    "gtin": 8410013992094,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-01-14T18:21:39.000-03:00",
+    "updated_at": "2024-09-09T15:41:57.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8410013992094,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 8410013992100,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 4,
+       "layer": 18
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0A406E2A66FB91D29D7F6BF0914F3B52.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESPUM BCO BACH EXTRISIM CAVA 750ML NATURE",
+    "gtin": 8410013991042,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-01-14T18:21:42.000-03:00",
+    "updated_at": "2026-03-24T09:01:28.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8410013991042,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 8410013991035,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 4,
+       "layer": 23
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0A406E2A66FB91D268286F2822CEC6E1.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO MOSCATEL ESPUMANTE ROSE",
+    "gtin": 7897332600427,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-01-22T01:12:32.000-03:00",
+    "updated_at": "2025-12-03T22:44:33.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7897332600427,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4D9EA8DFBBF3817F132E9352CF2DD29C.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESPUMANTE BRASILEIRO BRANCO SUR LIE NATURE GIOIA CHARDONNAY PINOT NOIR RIESLING ITÁLICO PINTO BANDEIRA GARRAFA 750ML",
+    "gtin": 7891141033995,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-02-25T15:27:06.000-03:00",
+    "updated_at": "2024-06-25T01:01:19.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891141033995,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/95E97FAF3516BD31441F43FBC58A9A31.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "VINHO PICHILEMU 750ML SAUVIGNON BLANC",
+    "gtin": 7801222924951,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-03-03T13:29:43.000-03:00",
+    "updated_at": "2026-04-24T01:26:27.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7801222924951,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5ACFDC3BE08C03806EAAB76C7410DF1E.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "BALDE ESP PERINI MOSCATEL",
+    "gtin": 7896452102187,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896452102187",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-04-04T10:11:27.000-03:00",
+    "updated_at": "2025-01-13T00:22:45.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896452102187,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/84CD710E4660325F61DE229C34A5A56D.png",
+    "brand": {
+     "name": "CASA PERINI",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "KIT ESPUM.NAC.CASA PERINI AQUARELA BALDE C/7 750ML",
+    "gtin": 7896452102194,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896452102194",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-05-03T10:44:27.000-03:00",
+    "updated_at": "2026-06-10T00:55:12.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896452102194,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/84CD710E4660325F7A8D82B7F960FCBB.png",
+    "brand": {
+     "name": "CASA PERINI",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "CAVA ESP PATA NEGRA BRUT ROSE",
+    "gtin": 8410261114019,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8410261114019",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-05-29T23:58:11.000-03:00",
+    "updated_at": "2026-06-09T01:00:03.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8410261114019,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 8410261114514,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 4,
+       "layer": 20
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/8692345DC57632E4F30445EC1AAFE2BF.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "V.GASEIF.MOSCATINO ROSE (ARG)750ML",
+    "gtin": 7798159946135,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7798159946135",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-06-04T14:35:56.000-03:00",
+    "updated_at": "2024-09-29T14:33:14.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7798159946135,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/806EE566BC5E6FD7DB8D7FE0FEA73FC6.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TT PICHILEMU CARMENERE 750ML",
+    "gtin": 7801222916994,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-06-29T14:31:41.000-03:00",
+    "updated_at": "2026-06-16T19:23:20.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7801222916994,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5ACFDC3BE08C0380C4F9EF527DE5DBDE.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO PICHILEMU CHILE CABERNE",
+    "gtin": 7801222916963,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-06-30T16:03:35.000-03:00",
+    "updated_at": "2026-06-16T19:23:20.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7801222916963,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5ACFDC3BE08C03804ECC837DA0D66570.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO QUENTE 180ML",
+    "gtin": 3000063109310,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-07-01T06:23:08.000-03:00",
+    "updated_at": "2024-07-01T06:23:10.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3000063109310,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/20CD8D61B68F1F1A8AAD7FD5111C58B4.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESPUMANTE BRASILEIRO MOSCATEL BRANCO CHAMP SOLAIR 750ML...",
+    "gtin": 7896840260765,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-07-06T17:46:25.000-03:00",
+    "updated_at": "2025-10-11T09:14:17.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896840260765,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/37CB608848F65745AD36876477419D2F.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "ESPUMANTE BRASILEIRO BRANCO DOCE CONDE DE FOUCAULD MOSCATEL SERRA GAÚCHA GARRAFA 750ML",
+    "gtin": 7891141038235,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7891141038235",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-07-14T13:43:37.000-03:00",
+    "updated_at": "2026-08-28T11:04:20.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7891141038235,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/95E97FAF3516BD31EFA5C5DC5284C52E.png",
+    "brand": {
+     "name": "CONDE DE FOUCAULD",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "ESPUMANTE FRANCÊS BRANCO MEIO SECO BLANC DE BLANCS JP. CHENET DIVINE MUSCAT GARRAFA 750ML",
+    "gtin": 3500610134432,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-07-23T01:01:29.000-03:00",
+    "updated_at": "2025-12-20T17:35:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3500610134432,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9BF1EC77CFDD24F5A2C6CA20AE742B4F.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "ESPUMANTE FRANCÊS BRANCO BRUT BLANC DE BLANCS JP. CHENET DIVINE CHARDONNAY GARRAFA 750ML",
+    "gtin": 3500610135736,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-07-23T01:01:34.000-03:00",
+    "updated_at": "2026-01-17T17:33:21.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3500610135736,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9BF1EC77CFDD24F5DFD64D2FA11F4658.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "ESPUMANTE FRANCÊS ROSÉ MEIO SECO JP. CHENET DIVINE PINOT NOIR GARRAFA 750ML",
+    "gtin": 3500610135743,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-07-23T01:01:38.000-03:00",
+    "updated_at": "2024-07-23T01:01:38.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3500610135743,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9BF1EC77CFDD24F5CA7C31A1495FFAD1.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 143,
+     "description": "Espumante e Champanhe",
+     "parent_id": 140
+    }
+   },
+   {
+    "description": "VINHO CHIL.MONTES PURPLE ANGEL 750ML",
+    "gtin": 715126000260,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/715126000260",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-07-24T09:03:12.000-03:00",
+    "updated_at": "2025-06-23T19:42:30.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 715126000260,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9B90685C3274453253783E544015610F.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "V.ESP.TELLUS MOSCATO BCO (ARG)750ML",
+    "gtin": 7798051302039,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7798051302039",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-08-08T15:11:15.000-03:00",
+    "updated_at": "2024-09-29T14:24:46.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7798051302039,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 67798051302031,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 5,
+       "layer": 24
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/91E4F6F480AEC8702681D7A0123BA20D.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "V.ESP.CASA DE AMARO MOSCATEL 750ML",
+    "gtin": 7898278141159,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-08-13T13:13:23.000-03:00",
+    "updated_at": "2024-08-13T19:18:37.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898278141159,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/82EA05F7E21C8D22D226FF54C9D20EDC.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "V.ESP.DUC ROYAL DEMI SEC BCO(FRANC)750ML",
+    "gtin": 3500610098307,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-08-14T07:32:22.000-03:00",
+    "updated_at": "2024-08-14T12:14:04.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3500610098307,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/802873A0F7D233C0028D5A6CE395866B.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "V.ESP.SIGNORE GIUSEPPE MOSCATO(ITAL)750M",
+    "gtin": 3263280117197,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-08-14T07:35:38.000-03:00",
+    "updated_at": "2024-08-14T09:27:22.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3263280117197,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/CD631DEE1AB6D58849E34D334B0FCF1A.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "V.ESP.DUC ROYAL BRUT BCO (FRANC)750ML",
+    "gtin": 3500610142260,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-08-14T07:50:36.000-03:00",
+    "updated_at": "2025-02-17T13:00:47.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3500610142260,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9BF1EC77CFDD24F55441DA01C3FFF477.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   },
+   {
+    "description": "V.ESP.FLOCS RESERVA BRUT BCO (ESP)750ML",
+    "gtin": 8429671400704,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2024-08-14T08:04:43.000-03:00",
+    "updated_at": "2024-08-14T13:08:27.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8429671400704,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/69538A58FF9945AE061FB1380B20B0E3.png",
+    "ncm": {
+     "code": "22041090",
+     "description": "Outros",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluídos os vinhos enriquecidos com álcool; mostos de uvas, excluídos os da posição 2009 - Vinhos espumantes e vinhos espumosos - Outros",
+     "ex": null
+    }
+   }
+  ],
+  "current_page": "42",
+  "per_page": 30,
+  "total_pages": 45,
+  "total_count": 1326,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22041090/products?page=43",
+  "previous_page": "https://cosmos.bluesoft.com.br/ncms/22041090/products?page=41"
+ }
+}

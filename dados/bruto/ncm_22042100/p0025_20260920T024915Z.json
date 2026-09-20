@@ -1,0 +1,1218 @@
+{
+ "coleta": {
+  "fonte": "ncm:22042100",
+  "ncm": "22042100",
+  "pagina": 25,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22042100/products?page=25",
+  "coletado_em": "2026-09-20T02:49:15Z",
+  "responsavel": "DOUGLAS"
+ },
+ "resposta": {
+  "code": "22042100",
+  "description": "Em recipientes de capacidade não superior a 2 l",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+  "ex": null,
+  "products": [
+   {
+    "description": "VINHO FRANCÊS TINTO MEIO SECO RÉSERVE BARTON & GUESTIER PINOT NOIR ILE DE BEAUTÉ GARRAFA 750ML",
+    "gtin": 3035131113852,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3035131113852",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T20:52:15.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3035131113852,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3035131116839,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 6,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/8A2196CE17C0954685E922840F13A7A1.png",
+    "brand": {
+     "name": "BARTON & GUESTIER",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_barton-guestier"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 247,
+     "description": "Vinho Tinto",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO FRANCÊS BRANCO RESERVE SECO BARTON & GUESTIER SAUVIGNON BLANC CÔTES DE GASCOGNE GARRAFA 750ML",
+    "gtin": 3035138005679,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3035138005679",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T20:52:18.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3035138005679,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/835E1E3E86CB547FC396596D7A865174.png",
+    "brand": {
+     "name": "BARTON & GUESTIER",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_barton-guestier"
+    },
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 245,
+     "description": "Vinho Branco",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO FRA BORDEAUX GRAND TERROIR",
+    "gtin": 3258691240008,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:04:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3258691240008,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/FFD48048D1144DEBBCD34D3E52BD578B.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA BORDEAUX GRAND TERROIRS",
+    "gtin": 3258691154695,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:04:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3258691154695,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/20C69D823AD513321F0EB0193A32057E.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CALVET SYRAH VARIETAL",
+    "gtin": 3159560603880,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:00:14.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3159560603880,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F69DFB9A97F90C7A90CBF22A8DA8566D.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CALVET BEAUJ VIL ROUGE",
+    "gtin": 3159560700091,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:00:15.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3159560700091,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3159560750096,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/421B126B55B1E6476912DD1A77E358E1.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VINHO FRA CALVET BORDEAUX CONV ROU",
+    "gtin": 3159567000552,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:00:16.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3159567000552,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3159568500594,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/1FA53939632B58E30B01E1ABF37D4812.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VINHO FRA CALVET BORDEAUX RES ROUG",
+    "gtin": 3159560510300,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-13T00:38:07.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3159560510300,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3159565510305,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EA27F15099F1272E694975AB7884210B.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CELLIER DU RHONE COTES DU RHONE",
+    "gtin": 3250390386872,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3250390386872",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-14T00:32:46.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3250390386872,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4145CC381106CC7A3932D884327A3252.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VINHO FRA CHABLIS AC BCO",
+    "gtin": 3267680008994,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:05:54.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3267680008994,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C77E33A977F91BC43913C8EE945E7B19.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CHAT HAUT BRANDA TINTO",
+    "gtin": 3262850032649,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:05:28.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3262850032649,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/39D2D50B63730197508845ED4F3D5A0E.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CHAT LA GRACE DIEU DESODORANTE PRIEURS TTO",
+    "gtin": 7899413324765,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T15:20:18.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413324765,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA6444453628E94DD43875119E.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CHAT LAGRANGE POMEROL TTO",
+    "gtin": 7899413314179,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T15:20:10.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413314179,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA644445361F9EBC1E69C22D84.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CHAT PONTET-CHAPPAZ MARGAUX",
+    "gtin": 3500610031601,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:19:54.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3500610031601,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/802873A0F7D233C015D55A225A9301E9.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CHAT ROC MEYNARD TTO",
+    "gtin": 7899413324758,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 1,
+    "gross_weight": 1,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T15:20:17.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413324758,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA644445362416B7DD61948152.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CHAT SAINTE GEMME TTO",
+    "gtin": 7899413310829,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T15:20:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413310829,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA644445363715F636BDD32AD0.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CHAT TOURTIRAC TINTO",
+    "gtin": 3258691155012,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 1,
+    "gross_weight": 1,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:04:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3258691155012,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/20C69D823AD5133215C51F6C5B208BCD.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CHATEAU BEL AIR TINTO",
+    "gtin": 3263070026159,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:05:31.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3263070026159,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/23BADCA02288A30DA7A5A8170D42AB88.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CHATEAU PHELAN SEGUR TTO",
+    "gtin": 7899107670680,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 1,
+    "gross_weight": 1,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T14:25:42.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899107670680,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF83AB3C1C95737909AD225136FEB32F.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CHATEAUNEUF DU PAPE",
+    "gtin": 3267680012083,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 1,
+    "gross_weight": 1,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:05:55.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3267680012083,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C77E33A977F91BC41CD2968CF9DAEE2C.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CHEVALIER FRANCE BEAUJOL",
+    "gtin": 3262850015406,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:05:27.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3262850015406,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/39D2D50B637301973EB7D1CE4BB1649E.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CHEVALIER FRANCE C RHONE",
+    "gtin": 3262850017431,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:05:27.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3262850017431,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/39D2D50B637301977ACB0B12EFED018E.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA CROZES HERMITAGE TTO",
+    "gtin": 7899413310935,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": 1,
+    "gross_weight": 1,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T15:20:09.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413310935,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA644445362664B503D43E54D2.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA D'ANJOU ROSE",
+    "gtin": 3262850016588,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:05:27.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3262850016588,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/39D2D50B637301979821060F847FFAAE.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA DE PAYS CEST LA VIE CHARD/SAUV",
+    "gtin": 3296311121054,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3296311121054",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:07:02.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3296311121054,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3296311721056,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4ADF51C6533BBB9730A1CA692556D5B0.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VINHO FRA DE PAYS CEST LA VIE PINOT/SYRAH",
+    "gtin": 3296311152027,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3296311152027",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-14T00:35:19.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3296311152027,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3296311752029,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4ADF51C6533BBB979D62BC91D18FA159.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VINHO FRA FRANC MONTAND BRUT",
+    "gtin": 3263286318000,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3263286318000",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:05:40.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3263286318000,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3263288310965,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4490C1621C724DC99A61C78DDD56B97E.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA GUILHEM TTO",
+    "gtin": 7899413309021,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-03T15:20:07.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413309021,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA64444536E9279BA47620888B.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO FRA J DROUHIN BOURGOGNE ROUGE",
+    "gtin": 12086511011,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-04-09T09:51:03.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 12086511011,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 20012086511015,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 3,
+       "layer": 30
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/AE338027B700B34094E2E60C51511555.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VINHO FRA J P CHENET BLANC BLANCS",
+    "gtin": 3263286301316,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3263286301316",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-18T09:48:31.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3263286301316,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3263288300737,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4490C1621C724DC9E9C8F3D31B153E4C.png",
+    "brand": {
+     "name": "J P CHENET",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   }
+  ],
+  "current_page": "25",
+  "per_page": 30,
+  "total_pages": 761,
+  "total_count": 22828,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22042100/products?page=26",
+  "previous_page": "https://cosmos.bluesoft.com.br/ncms/22042100/products?page=24"
+ }
+}

@@ -1,0 +1,1331 @@
+{
+ "coleta": {
+  "fonte": "ncm:22042100",
+  "ncm": "22042100",
+  "pagina": 20,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22042100/products?page=20",
+  "coletado_em": "2026-09-20T02:49:12Z",
+  "responsavel": "DOUGLAS"
+ },
+ "resposta": {
+  "code": "22042100",
+  "description": "Em recipientes de capacidade não superior a 2 l",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+  "ex": null,
+  "products": [
+   {
+    "description": "VINHO CHILENO BRANCO SECO RESERVA ESTRELLAS SANTA CAROLINA CHARDONNAY VALLE DEL RAPEL GARRAFA 750ML",
+    "gtin": 7804350596342,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804350596342",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:58:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804350596342,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/A7385E209779AEB99E4231D400129C90.png",
+    "brand": {
+     "name": "SANTA CAROLINA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 245,
+     "description": "Vinho Branco",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO CHILENO BRANCO SECO RESERVADO SANTA CAROLINA SAUVIGNON BLANC VALLE CENTRAL GARRAFA 750ML",
+    "gtin": 7804350596229,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804350596229",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-18T11:09:59.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804350596229,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17804350596226,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 4,
+       "layer": 15
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/A7385E209779AEB9A4D8688F71A92C93.png",
+    "brand": {
+     "name": "SANTA CAROLINA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 245,
+     "description": "Vinho Branco",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO CHILENO TINTO MEIO SECO RESERVADO SANTA CAROLINA SHIRAZ VALLE CENTRAL GARRAFA 750ML",
+    "gtin": 7804350003918,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804350003918",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-16T06:48:40.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804350003918,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17804350003915,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 4,
+       "layer": 14
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5AAFD85BA0EEC613756EE0B1FB1290B2.png",
+    "brand": {
+     "name": "SANTA CAROLINA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 247,
+     "description": "Vinho Tinto",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO CHIL STA CAROL BAR SEL SYRAH",
+    "gtin": 7804350701432,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804350701432",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:58:58.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804350701432,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/A226DF83085588A01425C8CE04793B4B.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VINHO CHIL STA CAROL HERENCIA CARMENERE",
+    "gtin": 7804350003932,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804350003932",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:58:42.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804350003932,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/5AAFD85BA0EEC613A70A22035FD9658E.png",
+    "brand": {
+     "name": "SANTA CAROLINA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 247,
+     "description": "Vinho Tinto",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO CHILENO TINTO MEIO SECO RESERVADO SANTA HELENA CABERNET SAUVIGNON VALLE CENTRAL GARRAFA 1500ML",
+    "gtin": 7804300120566,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804300120566",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:09.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300120566,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD32B658815AE3F50AA9.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 247,
+     "description": "Vinho Tinto",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "RESERVADO SANTA HELENA TINTO CARMENÈRE 2008",
+    "gtin": 7804300126681,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/reservado-santa-helena-tinto-carmenere-2008_300x300-PU3834b_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:25.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300126681,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17804300126688,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 24,
+       "ballast": 3,
+       "layer": 14
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD3202A56155110A5D67.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VINHO CHIL STA HEL MERLOT",
+    "gtin": 7804300126674,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:25.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300126674,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD32CE722627A5762203.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CHIL STA HEL VAR CAB SAUV",
+    "gtin": 7804300010034,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:00.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300010034,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17804300010031,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/660F22D4E7F04B27F5EDC146FE89D1E5.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VARIETAL SANTA HELENA BRANCO CHARDONNAY 2012",
+    "gtin": 7804300123277,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/varietal-santa-helena-branco-chardonnay-2012_600x600-PU7e4e4_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:19.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300123277,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD32F1FE0198B66A3B7F.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CHIL STA HEL VAR MERLOT",
+    "gtin": 7804300120986,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:11.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 27804300120980,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7804300120986,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD325E100739B0577827.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CHIL STA HEL N GUARDA C SAU",
+    "gtin": 7804300127282,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:27.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300127282,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD324C168273CB4D1668.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "SELECCION DEL DIRECTORIO GRAN RESERVA SANTA HELENA BRANCO CHARDONNAY 2011",
+    "gtin": 7804300128197,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/seleccion-del-directorio-gran-reserva-santa-helena-branco-chardonnay-2011_600x600-PU6d6b2_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-18T12:37:49.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300128197,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17804300128194,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD32A18EEA33936B89D2.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "SELECCION DEL DIRECTORIO GRAN RESERVA SANTA HELENA TINTO CARMENÈRE 2011",
+    "gtin": 7804300128203,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/seleccion-del-directorio-gran-reserva-santa-helena-tinto-carmenere-2011_600x600-PU6d6b6_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-01T04:01:11.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300128203,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD321225C0CC6DBA79ED.png",
+    "brand": {
+     "name": "VINHO SANTA HELENA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CHIL STA HEL PREM MALBEC",
+    "gtin": 7804300128456,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:29.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300128456,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD3251C6BDC49D5989C2.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CHIL STA HEL PREM SHIRAZ",
+    "gtin": 7804300128463,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:29.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300128463,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD3246BDC8C9DA31ADC9.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CHIL STA HEL S D'ORO CAR MAL",
+    "gtin": 7804300122638,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:17.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300122638,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD32E6F2E9052A008667.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "SELECCION DEL DIRECTORIO GRAN RESERVA SANTA HELENA TINTO CARMENÈRE 2011",
+    "gtin": 7804300123888,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/seleccion-del-directorio-gran-reserva-santa-helena-tinto-carmenere-2011_600x600-PU6d6b6_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:22.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300123888,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17804300123885,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD3273DE2F1F4D3E821E.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "SELECCION DEL DIRECTORIO GRAN RESERVA SANTA HELENA TINTO MERLOT 2011",
+    "gtin": 7804300121327,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/seleccion-del-directorio-gran-reserva-santa-helena-tinto-merlot-2011_600x600-PU6f21b_1.jpg",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:13.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300121327,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD32A7CB926DFE134B0A.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CHIL SUNRISE MERLOT ROSE",
+    "gtin": 7804320039718,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:55:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804320039718,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4DD960D888328C53B42E0DEC9C7B3923.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "SUNRISE PINOT NOIR|750|WINE",
+    "gtin": 7804320631370,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:56:53.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804320631370,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/06E59E5BDACFEF4529ACF7E8465D6850.png",
+    "brand": {
+     "name": "CONCHA Y TORO",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_concha-y-toro"
+    },
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CHIL TABALI RES CABERNET",
+    "gtin": 7804300126940,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804300126940",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:25.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300126940,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17804300126947,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD32BC7C89395A647284.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CHIL TABALI RES CARMENERE",
+    "gtin": 7804300126971,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804300126971",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:26.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300126971,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17804300126978,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD32584A08EC3525B299.png",
+    "brand": {
+     "name": "TABALÍ",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 247,
+     "description": "Vinho Tinto",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO CHIL TABALI RES CHARDONNAY",
+    "gtin": 7808734200580,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7808734200580",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T04:04:24.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7808734200580,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17808734200587,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/62E94AD88E198FACCC8819FBDF537F91.png",
+    "brand": {
+     "name": "VINA TABALI S.A",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 245,
+     "description": "Vinho Branco",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO CHIL TABALI RES PINOT NOIR",
+    "gtin": 7808734200788,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7808734200788",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T04:04:26.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7808734200788,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17808734200785,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/62E94AD88E198FAC3EEDD8A6306E68AC.png",
+    "brand": {
+     "name": "VINA TABALI S.A",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 247,
+     "description": "Vinho Tinto",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO CHIL TABALI RES SAUV BLANC",
+    "gtin": 7804300126988,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804300126988",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:26.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300126988,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17804300126985,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD327F5DC242ED0C169F.png",
+    "brand": {
+     "name": "VINA TABALI S.A",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 245,
+     "description": "Vinho Branco",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO CHIL TABALI RES SYRAH",
+    "gtin": 7804300126957,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:26.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300126957,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD32E29520C55819B2DF.png",
+    "brand": {
+     "name": "TABALÍ",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CHIL TANTEHUE CAB SAUVIGNON",
+    "gtin": 7808725400234,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7808725400234",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T04:03:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7808725400234,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17808725400231,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 12,
+       "ballast": 3,
+       "layer": 14
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EC075360A57B628D4E68A29138960CF1.png",
+    "brand": {
+     "name": "VENTISQUERO",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 247,
+     "description": "Vinho Tinto",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO CHIL TANTEHUE CAB/MERLOT",
+    "gtin": 7808725400463,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T04:03:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7808725400463,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EC075360A57B628DE4FF50E34DE1E96E.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CHIL TANTEHUE CHARDONNAY",
+    "gtin": 7808725400364,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T04:03:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7808725400364,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EC075360A57B628DD877A52382511665.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   }
+  ],
+  "current_page": "20",
+  "per_page": 30,
+  "total_pages": 761,
+  "total_count": 22828,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22042100/products?page=21",
+  "previous_page": "https://cosmos.bluesoft.com.br/ncms/22042100/products?page=19"
+ }
+}

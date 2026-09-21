@@ -1,0 +1,1233 @@
+{
+ "coleta": {
+  "fonte": "ncm:22042100",
+  "ncm": "22042100",
+  "pagina": 123,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22042100/products?page=123",
+  "coletado_em": "2026-09-21T02:49:24Z",
+  "responsavel": "DOUGLAS"
+ },
+ "resposta": {
+  "code": "22042100",
+  "description": "Em recipientes de capacidade não superior a 2 l",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+  "ex": null,
+  "products": [
+   {
+    "description": "VINHO STA HELENA D ORO MERLOT",
+    "gtin": 7804300011437,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804300011437",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:07.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300011437,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17804300011434,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/660F22D4E7F04B272AD80F5F986EA81B.png",
+    "brand": {
+     "name": "SANTA HELENA",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_santa-helena.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 247,
+     "description": "Vinho Tinto",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO STA HELENA D D CHARDO",
+    "gtin": 7804300010362,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804300010362",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:02.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300010362,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/660F22D4E7F04B271E63E9CFCBAC6B13.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "SELECCION DEL DIRCTORIO SANTA HELENA TINTO PINOT NOIR 2008",
+    "gtin": 7804300121884,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804300121884",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:16.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300121884,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17804300121881,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD32E070389B5B487B52.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO STA HELENA LATE HARVEST",
+    "gtin": 7804300124021,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:24.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300124021,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD32510FB882F9B4E57F.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO SANTA HELENA SHIRAZ",
+    "gtin": 7804300123529,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:21.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300123529,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD32C4904C65A2502262.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "SANTA HELENA |375|WINE",
+    "gtin": 7804300121471,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804300121471",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:54:14.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804300121471,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17804300121478,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 24,
+       "ballast": 3,
+       "layer": 14
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/E8CF0441D2B4AD32D072F6D9EB0F078F.png",
+    "brand": {
+     "name": "VINHO SANTA HELENA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VINHO SUA FRISANTE BCO",
+    "gtin": 7790717151357,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:32:02.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7790717151357,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F118CB92C6FA51A6F4A82CAF9F5FED20.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO SUA FRISANTE TINTO",
+    "gtin": 7790717151333,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:32:01.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7790717151333,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F118CB92C6FA51A655961AABE487540E.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO SUNRISE CARBENET SAUV",
+    "gtin": 7804320043364,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:55:52.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804320043364,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4DD960D888328C53B4B3B8056EFB382A.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "CONCHA&TORO SUNRISE W|750|WINE",
+    "gtin": 7804320368115,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804320368115",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:56:34.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804320368115,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/50D01733F0207A8BF5742B0707088E17.png",
+    "brand": {
+     "name": "CONCHA Y TORO",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_concha-y-toro"
+    },
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "BUENO PARALELO 31 MIOLO TINTO CABERNET SAUVIGNON MERLOT PETIT VERDOT 2009",
+    "gtin": 7804320581002,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804320581002",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:56:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804320581002,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17804320581009,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/A99D74FFD15C09540CA9CA29FC89815B.png",
+    "brand": {
+     "name": "CONCHA Y TORO",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_concha-y-toro"
+    },
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 247,
+     "description": "Vinho Tinto",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "SUNRISE SECO|750|WINE",
+    "gtin": 7804320348179,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804320348179",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:56:33.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804320348179,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17804320348176,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/50D01733F0207A8B9B2202D435428E56.png",
+    "brand": {
+     "name": "CONCHA Y TORO",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_concha-y-toro"
+    },
+    "gpc": {
+     "code": "50000000",
+     "description": "Alimentos / Bebidas / Tabaco"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 245,
+     "description": "Vinho Branco",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO SUNRISE SHIRAZ",
+    "gtin": 7804320043807,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:55:53.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804320043807,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4DD960D888328C53C02EAAB06DB25836.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO SUSHI VIN BRANCO",
+    "gtin": 7898131680214,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-02T03:00:57.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898131680214,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/B72B73C1FD050ABEA22E12094BFA037B.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TAMARI CHARDONNAY",
+    "gtin": 7798117472553,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:48:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 27798117479884,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7798117472553,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/733C1E82E4DD678522631A9BC83753EE.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TAMARI MALBEC TT",
+    "gtin": 7798117472515,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:48:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 17798117472666,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 7798117472515,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/733C1E82E4DD6785559F27596CE3C771.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TAMARI RESERVA MALBEC TT",
+    "gtin": 7798117471532,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:48:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7798117471532,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/733C1E82E4DD67855CCA44EFFABFC3D6.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TARAPACA EL ROSAL PINOT NOIR",
+    "gtin": 7804340901194,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": 750,
+    "gross_weight": 750,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:58:01.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804340901194,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/52DE5F31EB89FC59E21F4DCAD4C2549C.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINA TARAPACA GRAN RES|750|WINE",
+    "gtin": 7804340909053,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804340909053",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-09-18T11:30:24.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804340909053,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/52DE5F31EB89FC59785340D440812330.png",
+    "brand": {
+     "name": "GRAN RESERVA TARAPACÁ",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 247,
+     "description": "Vinho Tinto",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO TARAPACA LACUESTA",
+    "gtin": 7804340905055,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:58:07.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804340905055,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/52DE5F31EB89FC5906F5441AE57F9994.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TAVOLA ZAGALIA BRANCO",
+    "gtin": 8003969003312,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-08-05T03:55:38.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8003969003312,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/38836B01904A7BE0E334AA5DAA2D111F.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TERRA NOVA SHIRAZ T S",
+    "gtin": 7896756800383,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T17:59:35.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896756800383,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EA20088C509175A798C689270E57ED4D.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TERRA NOVA SHIRAZ TINTO SECO",
+    "gtin": 7896756801489,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T17:59:45.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896756801489,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EA20088C509175A7274163AB158E13CD.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TERRA VITIS CORTES RHONE",
+    "gtin": 3500699900225,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:20:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 3500699900225,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/7C90B87813C222168A21D8A81E64BA95.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "TORO DI PIEDRA VINA REQUINGUA TINTO CABERNET SAUVIGNON CARMENÈRE 2005",
+    "gtin": 7804361000104,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804361000104",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:59:06.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804361000104,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F0571EB69A3994BCD5B9E98E1AA1D44A.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VINHO TERRANOBLE MERLOT",
+    "gtin": 7804361001682,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:59:09.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804361001682,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F0571EB69A3994BC920529D116CAD415.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "SOL VITA LATE HARVEST CALYPTRA BRANCO SAUVIGNON BLANC 2008",
+    "gtin": 7896756800222,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/sol-vita-late-harvest-375ml-calyptra-branco-sauvignon-blanc-2008_600x600-PU70671_1.jpg",
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-31T17:59:33.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7896756800222,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EA20088C509175A7CF2DA44EE7BAEF6C.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TERRAS DURIENSES",
+    "gtin": 5601878422403,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T01:56:09.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5601878422403,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/B05FB1CF66D91ADC425980431E5CE0E5.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TIERRA DEL FUEGO CHARDONAY",
+    "gtin": 7804342020404,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-25T03:58:21.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804342020404,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/7CF5B8CBBD1C3BE0836A43F1E92BDC16.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TIMBERLAY MERLOT/CABERNET",
+    "gtin": 3305162101235,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/3305162101235",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2014-04-24T11:07:34.000-03:00",
+    "updated_at": "2026-07-23T21:07:23.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 23305162111283,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 3305162101235,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/4AE50A64AA4DB1DA9B94E6BD62F4B667.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   }
+  ],
+  "current_page": "123",
+  "per_page": 30,
+  "total_pages": 761,
+  "total_count": 22828,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22042100/products?page=124",
+  "previous_page": "https://cosmos.bluesoft.com.br/ncms/22042100/products?page=122"
+ }
+}

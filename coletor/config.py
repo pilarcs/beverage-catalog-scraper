@@ -87,7 +87,7 @@ def carregar_config(raiz: Path, ambiente: Mapping[str, str]) -> Config:
         token=token,
         responsavel=responsavel,
         ncms=carregar_ncms(raiz / "ncms_alvo.csv"),
-        limite_consultas=_ler_inteiro(ambiente, "LIMITE_CONSULTAS", 23, 1, 25),
+        limite_consultas=_ler_inteiro(ambiente, "LIMITE_CONSULTAS", 25, 1, 25),
         espera_maxima_min=_ler_inteiro(ambiente, "ESPERA_MAXIMA_MIN", 120, 0, 1440),
         raiz=raiz,
     )

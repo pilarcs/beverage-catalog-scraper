@@ -1,0 +1,1353 @@
+{
+ "coleta": {
+  "fonte": "ncm:22042100",
+  "ncm": "22042100",
+  "pagina": 281,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22042100/products?page=281",
+  "coletado_em": "2026-09-23T02:48:58Z",
+  "responsavel": "PILLY"
+ },
+ "resposta": {
+  "code": "22042100",
+  "description": "Em recipientes de capacidade não superior a 2 l",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+  "ex": null,
+  "products": [
+   {
+    "description": "VINHO DANIE DE WET PINOTAGE 2013 750 ML AFRICA DO SUL MISTRAL IMPORTADORA DE VINHOS",
+    "gtin": 7899413340420,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:43:09.000-03:00",
+    "updated_at": "2026-08-03T15:20:31.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413340420,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA64444536C6DDF70A4FAEC3C9.png",
+    "brand": {
+     "name": "MISTRAL",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_mistral"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO REGALEALI ROSE 2013 SICILIA ITALIA 750 ML MISTRAL IMPORTADORA DE VINHOS",
+    "gtin": 7899413358883,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:43:09.000-03:00",
+    "updated_at": "2026-08-03T15:20:47.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413358883,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA6444453642A864D5C4B1F6DE.png",
+    "brand": {
+     "name": "REGALEALI LE ROSE",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO CABERNET SAUVIGNON/MERLOT 750ML DANIE DE WET",
+    "gtin": 7899413372322,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:43:37.000-03:00",
+    "updated_at": "2026-08-03T15:20:56.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413372322,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA64444536DD6339124BA74F56.png",
+    "brand": {
+     "name": "DANIE DE WET",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO TINTO ROSSO PICENO 750ML SALADINI PILASTRI",
+    "gtin": 7899413364853,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:43:42.000-03:00",
+    "updated_at": "2026-08-03T15:20:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413364853,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA644445364D64D1B32C6F2FAD.png",
+    "brand": {
+     "name": "ROSSO PICENO",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO DANIE DE WET CHARDONNAY 2015 AFRICA DO SUL 750 ML MISTRAL IMPORTADORA DE VINHOS",
+    "gtin": 7899413363450,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:43:50.000-03:00",
+    "updated_at": "2026-08-03T15:20:50.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413363450,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA64444536A349451022F9B10B.png",
+    "brand": {
+     "name": "DANIE DE WET",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO TINTO SANTA ALVARADA CABERNET SAUVIGNON 750ML SANTA ALVARA",
+    "gtin": 7899413350351,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:43:51.000-03:00",
+    "updated_at": "2026-08-03T15:20:39.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413350351,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA6444453654143D6A0BA20C91.png",
+    "brand": {
+     "name": "SANTA ALVARA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO TINTO CARMEN SYRAH 750ML CARMEN",
+    "gtin": 7899413366765,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:43:51.000-03:00",
+    "updated_at": "2026-08-03T15:20:52.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413366765,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA6444453603249838370D2467.png",
+    "brand": {
+     "name": "CARMEN",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO CHARDONNAY 750ML DANIE DE WET",
+    "gtin": 7899413372353,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:43:51.000-03:00",
+    "updated_at": "2026-08-03T15:20:56.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413372353,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA64444536611789CBFED1311E.png",
+    "brand": {
+     "name": "DANIE DE WET",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO REGALEALI ROSSO NERO DAVOLA 2011 SICILIA ITALIA 750 ML MISTRAL IMPORTADORA DE VINHOS",
+    "gtin": 7899413350535,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:43:58.000-03:00",
+    "updated_at": "2026-08-03T15:20:40.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413350535,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA6444453688DE04D480BFF7F3.png",
+    "brand": {
+     "name": "MISTRAL",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_mistral"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO TINTO ESTIBA I MALBEC 750ML ESTIBA I",
+    "gtin": 7899413367366,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:44:02.000-03:00",
+    "updated_at": "2026-08-03T15:20:52.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413367366,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA64444536CD122168D454B44C.png",
+    "brand": {
+     "name": "ESTIBA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO NERO DAVOLA 750ML BONACCHI",
+    "gtin": 7899413367526,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:48:33.000-03:00",
+    "updated_at": "2026-08-03T15:20:52.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413367526,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA64444536D1278019D3408FE7.png",
+    "brand": {
+     "name": "BONACCHI",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO SANTA ALVARA MERLOT 2013 CHILE 750 ML VALLE CENTRAL MISTRAL IMPORTADORA DE VINHOS",
+    "gtin": 7899413359613,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:48:39.000-03:00",
+    "updated_at": "2026-08-03T15:20:47.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413359613,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA64444536833DA73C25F03302.png",
+    "brand": {
+     "name": "SANTA ALVARA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO BRANCO SANTA ALVARA CHARDONAY 750ML SANTA ALVARA",
+    "gtin": 7899413369193,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:48:39.000-03:00",
+    "updated_at": "2026-08-03T15:20:54.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413369193,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA64444536D1D1F23A970C8D1E.png",
+    "brand": {
+     "name": "SANTA ALVARA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO FRASCATI SECCO 750ML SELCIATELLA",
+    "gtin": 7899413353321,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:49:45.000-03:00",
+    "updated_at": "2026-08-03T15:20:43.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413353321,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA64444536B6CA3FF4F7537D68.png",
+    "brand": {
+     "name": "SELCIATELLA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO CABERNE SAUVIGNON 750ML SANTA ALVARA",
+    "gtin": 7899413371080,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:49:55.000-03:00",
+    "updated_at": "2026-08-03T15:20:55.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413371080,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA644445364526808C3D415695.png",
+    "brand": {
+     "name": "SANTA ALVARA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO SANTA ALVARA RESERVA SAUVIGNON BLANC 2015 CHILE 750 ML MISTRAL IMPORTADORA DE VINHOS",
+    "gtin": 7899413365607,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T04:49:55.000-03:00",
+    "updated_at": "2026-08-03T15:20:52.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899413365607,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BF1074CA6444453665A4EF6978450660.png",
+    "brand": {
+     "name": "SANTA ALVARA",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO IL BALOS CABERNET SAUVIGNON TENUTA",
+    "gtin": 7899488800805,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T05:02:02.000-03:00",
+    "updated_at": "2026-08-03T15:33:43.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899488800805,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/2A257254C5A2BA0BDBB252845AB70A35.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO BRANCO PINOT GRIGIO TENUTA",
+    "gtin": 7899488800775,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T05:03:15.000-03:00",
+    "updated_at": "2026-08-03T15:33:43.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7899488800775,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/2A257254C5A2BA0B2C812165965CAC43.png",
+    "brand": {
+     "name": "PINOT GRIGIO",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO REGALEALI BIANCO 2014 750 ML SICILIA ITALIA MISTRAL IMPORTADORA DE VINHOS",
+    "gtin": 8001666751017,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T07:15:34.000-03:00",
+    "updated_at": "2026-08-05T03:48:45.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8001666751017,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/AA8018DE9C39355BB3E774F4F95D6C36.png",
+    "brand": {
+     "name": "REGALELI",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO POGGIOTONDO BIANCO 2011 750ML TOSCANA ITALIA WORLD WINE",
+    "gtin": 8005222006634,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T07:26:47.000-03:00",
+    "updated_at": "2026-08-05T03:59:11.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8005222006634,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/21F1D606AF3EEF9F1AA2024B80956541.png",
+    "brand": {
+     "name": "POGGIOTONDO",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "CANTUCCI BISCOITO DOCE COM AMENDOA 240G NUTRIFREE",
+    "gtin": 8008696020410,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T07:28:00.000-03:00",
+    "updated_at": "2024-03-16T21:10:58.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8008696020410,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/54BE9FD63F7B5A184B5BC49A11A9B23E.png",
+    "brand": {
+     "name": "NUTRIFREE",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO BRANCO GRIGIO 750ML DOLCI TERRE",
+    "gtin": 8033378620619,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T07:47:41.000-03:00",
+    "updated_at": "2026-08-05T04:14:42.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8033378620619,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C6747AC742A8FBF32963377282EA9950.png",
+    "brand": {
+     "name": "DOLCITERRE",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO TINTO CABERNET SUAVIGNON 750ML DOLCI TERRE",
+    "gtin": 8033378620718,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T07:52:19.000-03:00",
+    "updated_at": "2026-08-05T04:14:42.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8033378620718,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C6747AC742A8FBF36B4E5420683C55CE.png",
+    "brand": {
+     "name": "DOLCITERRE",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO POGGIOTONDO ROSSO 2014 750ML TOSCANA ITALIA WORLD WINE",
+    "gtin": 8032937130040,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T07:52:19.000-03:00",
+    "updated_at": "2026-08-05T04:14:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8032937130040,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/0ADB1291B5F3E22892E3DD3D7254AB97.png",
+    "brand": {
+     "name": "POGGIOTONDO",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO CORRALILLO CHARDONNAY 2013 CHILE 750ML GRAND CRU",
+    "gtin": 815992010049,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T07:55:45.000-03:00",
+    "updated_at": "2023-11-15T10:39:33.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 815992010049,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/B77E2546D43B4068E221CDF61821A2F0.png",
+    "brand": {
+     "name": "GRAND CRU",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO CORRALILLO RIESLING 2013 CHILE MATETIC 750 ML GRAND CRU",
+    "gtin": 815992010124,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T07:57:10.000-03:00",
+    "updated_at": "2021-10-16T08:04:35.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 815992010124,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/B77E2546D43B40685E4792DAA8422EA8.png",
+    "brand": {
+     "name": "GRAND CRU",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "CARINENA VINHO GRAN VIU SELECCION 2007 ESPANHA 750ML GRAND CRU",
+    "gtin": 8437004177018,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8437004177018",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T08:22:12.000-03:00",
+    "updated_at": "2026-08-05T04:33:25.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8437004177018,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/58C70923034DDB0673FBE2B913C7D491.png",
+    "brand": {
+     "name": "GRAND CRU",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO MENGUANTE TEMPRANILLO 2014 ESPANHA 750 ML GRAND CRU",
+    "gtin": 8437004177087,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T08:22:16.000-03:00",
+    "updated_at": "2026-08-05T04:33:25.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8437004177087,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/58C70923034DDB06BD659DAA6F7A7871.png",
+    "brand": {
+     "name": "GRAND CRU",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO MENGUANTE VIDADILLO 2011 ESPANHA 750ML GRAND CRU",
+    "gtin": 8437004177179,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T08:23:02.000-03:00",
+    "updated_at": "2026-08-05T04:33:26.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8437004177179,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/58C70923034DDB06B830772E0A3F7733.png",
+    "brand": {
+     "name": "GRAND CRU",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "cest": {
+     "id": 1828,
+     "code": "0202400",
+     "description": "Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas",
+     "parent_id": 1656
+    }
+   },
+   {
+    "description": "VINHO TINTO DOCE SUAVE 750ML CREAM MALAGA",
+    "gtin": 87752004142,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2017-06-16T08:41:48.000-03:00",
+    "updated_at": "2023-01-23T08:18:27.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 87752004142,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/48CA44BEB492A271D1DDD199BCE278AE.png",
+    "brand": {
+     "name": "KEDEM",
+     "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_kedem"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   }
+  ],
+  "current_page": "281",
+  "per_page": 30,
+  "total_pages": 762,
+  "total_count": 22834,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22042100/products?page=282",
+  "previous_page": "https://cosmos.bluesoft.com.br/ncms/22042100/products?page=280"
+ }
+}

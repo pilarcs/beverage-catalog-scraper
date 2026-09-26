@@ -1,0 +1,1206 @@
+{
+ "coleta": {
+  "fonte": "ncm:22042100",
+  "ncm": "22042100",
+  "pagina": 554,
+  "url": "https://cosmos.bluesoft.com.br/api/ncms/22042100/products?page=554",
+  "coletado_em": "2026-09-26T02:48:32Z",
+  "responsavel": "PILAR"
+ },
+ "resposta": {
+  "code": "22042100",
+  "description": "Em recipientes de capacidade não superior a 2 l",
+  "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+  "ex": null,
+  "products": [
+   {
+    "description": "LOVIN RED ONE 269ML",
+    "gtin": 7898966788079,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898966788079",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T03:09:50.000-03:00",
+    "updated_at": "2026-07-23T18:30:55.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898966788079,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 27898966788073,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 24,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9B9987F935311DA3393C3656F3BCC399.png",
+    "brand": {
+     "name": "LOVIN",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 247,
+     "description": "Vinho Tinto",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO BRUT LOVIN 269ML",
+    "gtin": 7898966788109,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898966788109",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T03:10:22.000-03:00",
+    "updated_at": "2025-03-19T08:24:56.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898966788109,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 27898966788103,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 24,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9B9987F935311DA3EC63293AF92B11BC.png",
+    "brand": {
+     "name": "LOVIN",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 245,
+     "description": "Vinho Branco",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "LOVIN WHITE DRY 269ML",
+    "gtin": 7898966788062,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7898966788062",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T03:18:08.000-03:00",
+    "updated_at": "2026-07-10T12:07:17.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7898966788062,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 27898966788066,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 24,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/9B9987F935311DA3CC3EF3208A5FAB21.png",
+    "brand": {
+     "name": "LOVIN",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 245,
+     "description": "Vinho Branco",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO AUSTRALIANO SAUVIGNON BLANC BANKSIA 750ML",
+    "gtin": 9316071983106,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T03:37:12.000-03:00",
+    "updated_at": "2023-06-28T09:51:22.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 9316071983106,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/3F14BE5FF6B922E88294E1FA4A02F355.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VIN TTO L ARGENTA CABERNET FRANC 750ML",
+    "gtin": 7908039100612,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7908039100612",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T03:37:35.000-03:00",
+    "updated_at": "2026-06-18T15:28:53.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7908039100612,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/81292810306B5EE9526C717E92D5FDCF.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "V. AFR NEDERBURG FOUN I79I SAU BLAN 2021",
+    "gtin": 6001108098382,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/6001108098382",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T03:38:40.000-03:00",
+    "updated_at": "2026-08-23T10:28:34.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 6001108098382,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/62538BAC1B342D58C353C7277DF1D864.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VINHO TINTO PIUMA SALENTO PRIMITIVO 750ML",
+    "gtin": 8026290001932,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T03:46:08.000-03:00",
+    "updated_at": "2024-06-20T12:36:30.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8026290001932,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/675DCDE99D8B3141867810AE92867748.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO BRANCO MALVASIA CANTINA DI VENOSA VERBO 750ML",
+    "gtin": 8005368024103,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T03:46:46.000-03:00",
+    "updated_at": "2024-06-20T10:36:51.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8005368024103,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/BAFF8A62541721F7F08C89ADEFD11614.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO ITALIANO GATTAVECCHI TOSCANA TINTO 750ML",
+    "gtin": 8010376000049,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T03:52:05.000-03:00",
+    "updated_at": "2024-08-18T23:07:19.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8010376000049,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/51736314E8B78549F639B657A469FFDE.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TINTO GOLDEN SUN RESERVE SHIRAZ 750ML",
+    "gtin": 9346543006743,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T03:52:07.000-03:00",
+    "updated_at": "2024-08-13T03:34:14.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 9346543006743,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/079997698E471274B13C64D29A8E2B0D.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO ITALIANO TINTO CORTE FEDERICO 750ML",
+    "gtin": 8053303272249,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T04:07:10.000-03:00",
+    "updated_at": "2026-05-03T19:20:37.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8053303272249,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/01C65EAEBB68CA408EB792516EDA839E.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CODICI NEGRO AMARO PUGLIA 750ML",
+    "gtin": 8032610319700,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8032610319700",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T12:24:02.000-03:00",
+    "updated_at": "2026-06-14T12:47:19.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8032610319700,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/20F8660DB56BEDECEEDB64F23B24ED31.png",
+    "brand": {
+     "name": "CODICI",
+     "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+    },
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 247,
+     "description": "Vinho Tinto",
+     "parent_id": 74
+    }
+   },
+   {
+    "description": "VINHO TINTO ITALIANO ITYNERA PRIMA CLASSE MONTEPULCIANO DABRUZZO DOC SECO FINO GARRAFA 750ML",
+    "gtin": 8032610311940,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/8032610311940",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T12:24:06.000-03:00",
+    "updated_at": "2023-02-28T13:21:28.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 8032610311940,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 18032610311947,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/20F8660DB56BEDEC658C4938443AA759.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "V BC RS VALE DOS BARRIS 750ML",
+    "gtin": 5602282173066,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:29:15.000-03:00",
+    "updated_at": "2026-07-25T02:51:48.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5602282173066,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/75E13C267C1FD6A299E0C14EBCA9C68A.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "V POR TT DOM RAFAEL",
+    "gtin": 5609655122188,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5609655122188",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:29:45.000-03:00",
+    "updated_at": "2023-07-26T20:19:06.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5609655122188,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/D0D926482D5DDE73E97B8D6A20518903.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    },
+    "category": {
+     "id": 74,
+     "description": "Vinhos",
+     "parent_id": 65
+    }
+   },
+   {
+    "description": "VINHO CRUZ DEL SUR MALBEC GFA 750ML",
+    "gtin": 7790314007996,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:36:14.000-03:00",
+    "updated_at": "2024-06-29T08:57:22.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7790314007996,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/90A1FF07BE0D792A4C610DD29BF5C6AD.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO PHEBUS MALBEC GFA 750ML",
+    "gtin": 7798000212037,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7798000212037",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:36:42.000-03:00",
+    "updated_at": "2025-04-03T08:33:32.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7798000212037,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C2134F30865BB610D61D1FF75649E298.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO ARGENTINO PHEBUS MALBEC ROSE 750ML",
+    "gtin": 7798000212723,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7798000212723",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:36:47.000-03:00",
+    "updated_at": "2025-04-03T08:33:29.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7798000212723,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C2134F30865BB610360E4A2BB79C0FF1.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO PHEBUS CABERNET SAUVIG GFA 750ML",
+    "gtin": 7798000212303,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7798000212303",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:36:56.000-03:00",
+    "updated_at": "2025-04-03T16:53:29.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7798000212303,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 27798000212307,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 0,
+       "layer": 0
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/C2134F30865BB610C38CC9B6E38F160E.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO ESTAMPA GRAN RESERVA CS/MAL 750ML",
+    "gtin": 7808721800137,
+    "width": 0.0,
+    "height": 0.0,
+    "length": 0.0,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:37:50.000-03:00",
+    "updated_at": "2026-03-03T09:59:02.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7808721800137,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/58E5EE8C20B60F2847C30E87C5A8EAB5.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TINTO RESERVA CARMENERE ALICANTO 2017 750ML",
+    "gtin": 7808767900310,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:38:20.000-03:00",
+    "updated_at": "2025-04-06T03:08:46.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7808767900310,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/EA7B84DA5618FDE53861C4B9BAC2E79C.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO PORTA DA RAVESSA RESERVA BRANCO GF 750 ML",
+    "gtin": 5601356013925,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:38:43.000-03:00",
+    "updated_at": "2024-08-14T14:14:40.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5601356013925,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/ACEC98954F8F6288A5045386BED4BD15.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO PORTA DA RAVESSA EDIÃ§Ã£O ESPECIAL BRANCO GF 750 ML",
+    "gtin": 5601356020329,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:38:47.000-03:00",
+    "updated_at": "2025-03-04T08:56:08.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5601356020329,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/ACEC98954F8F62882013EB88FE00D09C.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO PORTA DA RAVESSA TINTO GF 375 ML",
+    "gtin": 5601356013079,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/5601356013079",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:38:51.000-03:00",
+    "updated_at": "2025-04-30T01:00:49.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 5601356013079,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 15601356111260,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 12,
+       "ballast": 6,
+       "layer": 17
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/ACEC98954F8F62885251E72DCDB2361C.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CHILENO CABERNET SAUVIGNON DON SEGUNDO 750ML",
+    "gtin": 7804414007807,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:39:20.000-03:00",
+    "updated_at": "2026-09-24T21:56:35.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804414007807,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/DDAEA349CF2BC0953C4A4F288956E602.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CHILENO CREMASCHI RESERVA PINOT GRIGIO 750ML",
+    "gtin": 7804342007962,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:39:31.000-03:00",
+    "updated_at": "2024-03-16T21:11:00.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804342007962,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/7CF5B8CBBD1C3BE04234FC9A33034A30.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VHO HOTE 750ML",
+    "gtin": 7804668423408,
+    "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7804668423408",
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:40:44.000-03:00",
+    "updated_at": "2026-06-14T16:13:35.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804668423408,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     },
+     {
+      "gtin": 17804668423405,
+      "commercial_unit": {
+       "type_packaging": "Caixa",
+       "quantity_packaging": 6,
+       "ballast": 8,
+       "layer": 10
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/8B472973B432205020AD749C782DAD9E.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO TINTO TORREON BLEND 750ML",
+    "gtin": 7790036975580,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:47:47.000-03:00",
+    "updated_at": "2026-03-25T16:42:40.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7790036975580,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/2BA6A9DAC2C47844C7C430A7FCB5E63C.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO RED PURO BLEND GF 750 ML",
+    "gtin": 7798108441216,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:49:12.000-03:00",
+    "updated_at": "2026-09-18T11:39:37.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7798108441216,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/897114062A86186A7872B31C49F6223F.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   },
+   {
+    "description": "VINHO CHILENO BALDUZZI B MAULE VALLEY 750ML",
+    "gtin": 7804324000189,
+    "width": null,
+    "height": null,
+    "length": null,
+    "net_weight": null,
+    "gross_weight": null,
+    "created_at": "2022-04-02T13:51:10.000-03:00",
+    "updated_at": "2024-04-05T17:44:09.000-03:00",
+    "release_date": null,
+    "price": null,
+    "avg_price": null,
+    "max_price": 0.0,
+    "min_price": 0.0,
+    "gtins": [
+     {
+      "gtin": 7804324000189,
+      "commercial_unit": {
+       "type_packaging": "Unidade",
+       "quantity_packaging": 1,
+       "ballast": null,
+       "layer": null
+      }
+     }
+    ],
+    "origin": "COSMOS",
+    "barcode_image": "https://cosmos.bluesoft.com.br/products/barcode/F9ADC4F6FD7A0423C0C593E880AC0D9C.png",
+    "ncm": {
+     "code": "22042100",
+     "description": "Em recipientes de capacidade não superior a 2 l",
+     "full_description": "Bebidas, líquidos alcoólicos e vinagres - Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09. - Outros vinhos; mostos de uvas cuja fermentação tenha sido impedida ou interrompida por adição de álcool: - Em recipientes de capacidade não superior a 2 l",
+     "ex": null
+    }
+   }
+  ],
+  "current_page": "554",
+  "per_page": 30,
+  "total_pages": 762,
+  "total_count": 22836,
+  "next_page": "https://cosmos.bluesoft.com.br/ncms/22042100/products?page=555",
+  "previous_page": "https://cosmos.bluesoft.com.br/ncms/22042100/products?page=553"
+ }
+}
